@@ -456,21 +456,81 @@ IP地址,端口,回源端口,TLS,数据中心,地区,城市,TCP延迟(ms),速度
 8.222.167.8,2096,3-30-iptest,TRUE,SIN218,Asia Pacific,Singapore,,10
 47.236.161.155,2083,3-30-iptest,TRUE,SIN219,Asia Pacific,Singapore,,10
 8.219.42.72,8443,3-30-iptest,TRUE,SIN220,Asia Pacific,Singapore,,10
-,,,TRUE,SIN221,Asia Pacific,Singapore,,10
-,,,TRUE,SIN222,Asia Pacific,Singapore,,10
-,,,TRUE,SIN223,Asia Pacific,Singapore,,10
-,,,TRUE,SIN224,Asia Pacific,Singapore,,10
-,,,TRUE,SIN225,Asia Pacific,Singapore,,10
-,,,TRUE,SIN226,Asia Pacific,Singapore,,10
-,,,TRUE,SIN227,Asia Pacific,Singapore,,10
-,,,TRUE,SIN228,Asia Pacific,Singapore,,10
-,,,TRUE,SIN229,Asia Pacific,Singapore,,10
-,,,TRUE,SIN230,Asia Pacific,Singapore,,10
-,,,TRUE,SIN231,Asia Pacific,Singapore,,10
-,,,TRUE,SIN232,Asia Pacific,Singapore,,10
-,,,TRUE,SIN233,Asia Pacific,Singapore,,10
-,,,TRUE,SIN234,Asia Pacific,Singapore,,10
-,,,TRUE,SIN235,Asia Pacific,Singapore,,10
+47.236.82.218,2086,3-30-iptest,FALSE,SIN221,Asia Pacific,Singapore,,10
+8.219.173.195,2082,3-30-iptest,FALSE,SIN222,Asia Pacific,Singapore,,10
+47.236.11.68,2095,3-30-iptest,FALSE,SIN223,Asia Pacific,Singapore,,10
+8.222.152.71,8080,3-30-iptest,FALSE,SIN224,Asia Pacific,Singapore,,10
+8.222.248.188,80,3-30-iptest,FALSE,SIN225,Asia Pacific,Singapore,,10
+47.245.118.70,2082,3-30-iptest,FALSE,SIN226,Asia Pacific,Singapore,,10
+47.236.176.144,2052,3-30-iptest,FALSE,SIN227,Asia Pacific,Singapore,,10
+8.222.224.162,2082,3-30-iptest,FALSE,SIN228,Asia Pacific,Singapore,,10
+47.236.79.87,2086,3-30-iptest,FALSE,SIN229,Asia Pacific,Singapore,,10
+47.236.87.206,2082,3-30-iptest,FALSE,SIN230,Asia Pacific,Singapore,,10
+47.236.82.218,2095,3-30-iptest,FALSE,SIN231,Asia Pacific,Singapore,,10
+8.219.6.187,8080,3-30-iptest,FALSE,SIN232,Asia Pacific,Singapore,,10
+47.236.10.100,2095,3-30-iptest,FALSE,SIN233,Asia Pacific,Singapore,,10
+47.236.97.90,8880,3-30-iptest,FALSE,SIN234,Asia Pacific,Singapore,,10
+8.222.237.131,8080,3-30-iptest,FALSE,SIN235,Asia Pacific,Singapore,,10
+47.236.104.123,2095,3-30-iptest,FALSE,SIN236,Asia Pacific,Singapore,,10
+8.222.164.44,2086,3-30-iptest,FALSE,SIN237,Asia Pacific,Singapore,,10
+47.236.114.23,2052,3-30-iptest,FALSE,SIN238,Asia Pacific,Singapore,,10
+47.236.83.196,2095,3-30-iptest,FALSE,SIN239,Asia Pacific,Singapore,,10
+47.236.7.13,80,3-30-iptest,FALSE,SIN240,Asia Pacific,Singapore,,10
+47.236.174.206,2052,3-30-iptest,FALSE,SIN241,Asia Pacific,Singapore,,10
+47.236.12.73,2095,3-30-iptest,FALSE,SIN242,Asia Pacific,Singapore,,10
+8.219.253.18,2052,3-30-iptest,FALSE,SIN243,Asia Pacific,Singapore,,10
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
 45.66.128.148,48792,,TRUE,JP001,Asia Pacific,Tokyo,85,10
 129.154.212.181,44699,,TRUE,JP002,Asia Pacific,Tokyo,71,10
 132.145.125.165,2083,,TRUE,JP003,Asia Pacific,Tokyo,193,10
@@ -548,27 +608,27 @@ IP地址,端口,回源端口,TLS,数据中心,地区,城市,TCP延迟(ms),速度
 47.245.32.215,2083,3-30-iptest,TRUE,JP075,Asia Pacific,Osaka,,10
 47.91.3.112,2087,3-30-iptest,TRUE,JP076,Asia Pacific,Osaka,,10
 8.222.153.11,2053,3-30-iptest,TRUE,JP077,Asia Pacific,Osaka,,10
-,,,TRUE,JP078,Asia Pacific,Osaka,,10
-,,,TRUE,JP079,Asia Pacific,Osaka,,10
-,,,TRUE,JP080,Asia Pacific,Osaka,,10
-,,,TRUE,JP081,Asia Pacific,Osaka,,10
-,,,TRUE,JP082,Asia Pacific,Osaka,,10
-,,,TRUE,JP083,Asia Pacific,Osaka,,10
-,,,TRUE,JP084,Asia Pacific,Osaka,,10
-,,,TRUE,JP085,Asia Pacific,Osaka,,10
-,,,TRUE,JP086,Asia Pacific,Osaka,,10
-,,,TRUE,JP087,Asia Pacific,Osaka,,10
-,,,TRUE,JP088,Asia Pacific,Osaka,,10
-,,,TRUE,JP089,Asia Pacific,Osaka,,10
-,,,TRUE,JP090,Asia Pacific,Osaka,,10
-,,,TRUE,JP091,Asia Pacific,Osaka,,10
-,,,TRUE,JP092,Asia Pacific,Osaka,,10
-,,,TRUE,JP093,Asia Pacific,Osaka,,10
-,,,TRUE,JP094,Asia Pacific,Osaka,,10
-,,,TRUE,JP095,Asia Pacific,Osaka,,10
-,,,TRUE,JP096,Asia Pacific,Osaka,,10
-,,,TRUE,JP097,Asia Pacific,Osaka,,10
-,,,TRUE,JP098,Asia Pacific,Osaka,,10
+131.186.44.38,2086,3-30-iptest,FALSE,JP078,Asia Pacific,Osaka,,10
+47.245.10.156,2082,3-30-iptest,FALSE,JP079,Asia Pacific,Osaka,,10
+47.91.3.112,2052,3-30-iptest,FALSE,JP080,Asia Pacific,Osaka,,10
+47.245.56.29,2086,3-30-iptest,FALSE,JP081,Asia Pacific,Osaka,,10
+47.74.16.255,8080,3-30-iptest,FALSE,JP082,Asia Pacific,Osaka,,10
+47.74.5.99,8880,3-30-iptest,FALSE,JP083,Asia Pacific,Osaka,,10
+47.245.40.161,8880,3-30-iptest,FALSE,JP084,Asia Pacific,Osaka,,10
+47.74.9.174,8880,3-30-iptest,FALSE,JP085,Asia Pacific,Osaka,,10
+47.245.37.94,2095,3-30-iptest,FALSE,JP086,Asia Pacific,Osaka,,10
+47.91.2.5,80,3-30-iptest,FALSE,JP087,Asia Pacific,Osaka,,10
+47.74.7.51,2052,3-30-iptest,FALSE,JP088,Asia Pacific,Osaka,,10
+47.74.27.151,80,3-30-iptest,FALSE,JP089,Asia Pacific,Osaka,,10
+47.74.13.94,2086,3-30-iptest,FALSE,JP090,Asia Pacific,Osaka,,10
+47.74.42.111,80,3-30-iptest,FALSE,JP091,Asia Pacific,Osaka,,10
+8.209.243.99,2095,3-30-iptest,FALSE,JP092,Asia Pacific,Osaka,,10
+47.74.5.233,8880,3-30-iptest,FALSE,JP093,Asia Pacific,Osaka,,10
+8.209.200.73,8080,3-30-iptest,FALSE,JP094,Asia Pacific,Osaka,,10
+47.74.13.94,2082,3-30-iptest,FALSE,JP095,Asia Pacific,Osaka,,10
+47.74.34.38,2086,3-30-iptest,FALSE,JP096,Asia Pacific,Osaka,,10
+8.209.214.222,2086,3-30-iptest,FALSE,JP097,Asia Pacific,Osaka,,10
+47.236.125.62,2086,3-30-iptest,FALSE,JP098,Asia Pacific,Osaka,,10
 ,,,TRUE,JP099,Asia Pacific,Osaka,,10
 ,,,TRUE,JP100,Asia Pacific,Osaka,,10
 ,,,TRUE,JP101,Asia Pacific,Osaka,,10
@@ -641,18 +701,61 @@ IP地址,端口,回源端口,TLS,数据中心,地区,城市,TCP延迟(ms),速度
 154.7.179.92,34299,,TRUE,LAX046,North America,Los Angeles,,10
 154.40.46.28,46757,,TRUE,LAX047,North America,Los Angeles,,10
 154.7.180.15,1,,TRUE,LAX048,North America,Los Angeles,,10
-,,,TRUE,LAX049,North America,Los Angeles,,10
-,,,TRUE,LAX050,North America,Los Angeles,,10
-,,,TRUE,LAX051,North America,Los Angeles,,10
-,,,TRUE,LAX052,North America,Los Angeles,,10
-,,,TRUE,LAX053,North America,Los Angeles,,10
-,,,TRUE,LAX054,North America,Los Angeles,,10
-,,,TRUE,LAX055,North America,Los Angeles,,10
-,,,TRUE,LAX056,North America,Los Angeles,,10
-,,,TRUE,LAX057,North America,Los Angeles,,10
-,,,TRUE,LAX058,North America,Los Angeles,,10
-,,,TRUE,LAX059,North America,Los Angeles,,10
-,,,TRUE,LAX060,North America,Los Angeles,179,10
+154.17.21.194,15868,qundmit,TRUE,LAX049,North America,Los Angeles,,10
+154.17.3.181,51053,qundmit,TRUE,LAX050,North America,Los Angeles,,10
+65.75.192.35,22857,qundmit,TRUE,LAX051,North America,Los Angeles,,10
+154.17.27.49,2012,qundmit,TRUE,LAX052,North America,Los Angeles,,10
+154.17.17.205,8443,qundmit,TRUE,LAX053,North America,Los Angeles,,10
+65.75.193.13,24245,qundmit,TRUE,LAX054,North America,Los Angeles,,10
+174.136.206.70,44698,qundmit,TRUE,LAX055,North America,Los Angeles,,10
+65.75.195.188,12257,qundmit,TRUE,LAX056,North America,Los Angeles,,10
+65.75.194.110,23839,qundmit,TRUE,LAX057,North America,Los Angeles,,10
+174.136.205.92,28662,qundmit,TRUE,LAX058,North America,Los Angeles,,10
+154.17.27.49,2003,qundmit,TRUE,LAX059,North America,Los Angeles,,10
+154.17.27.49,2011,qundmit,TRUE,LAX060,North America,Los Angeles,,10
+154.21.87.65,18296,qundmit,TRUE,LAX061,North America,Los Angeles,,10
+154.17.14.201,33999,qundmit,TRUE,LAX062,North America,Los Angeles,,10
+154.21.82.97,18470,qundmit,TRUE,LAX063,North America,Los Angeles,,10
+174.136.206.38,20443,qundmit,TRUE,LAX064,North America,Los Angeles,,10
+174.136.206.70,39880,qundmit,TRUE,LAX065,North America,Los Angeles,,10
+154.17.14.197,12306,qundmit,TRUE,LAX066,North America,Los Angeles,,10
+154.21.87.65,38149,qundmit,TRUE,LAX067,North America,Los Angeles,,10
+65.75.194.110,46197,qundmit,TRUE,LAX068,North America,Los Angeles,,10
+154.17.2.103,10740,qundmit,TRUE,LAX069,North America,Los Angeles,,10
+154.17.29.112,32568,qundmit,TRUE,LAX070,North America,Los Angeles,,10
+154.17.27.49,2009,qundmit,TRUE,LAX071,North America,Los Angeles,,10
+154.17.27.49,2008,qundmit,TRUE,LAX072,North America,Los Angeles,,10
+154.17.22.141,7489,qundmit,TRUE,LAX073,North America,Los Angeles,,10
+154.17.11.211,32939,qundmit,TRUE,LAX074,North America,Los Angeles,,10
+154.17.27.49,2005,qundmit,TRUE,LAX075,North America,Los Angeles,,10
+154.17.19.203,2009,qundmit,TRUE,LAX076,North America,Los Angeles,,10
+154.17.27.49,2004,qundmit,TRUE,LAX077,North America,Los Angeles,,10
+154.17.30.48,26269,qundmit,TRUE,LAX078,North America,Los Angeles,,10
+154.17.9.116,2096,qundmit,TRUE,LAX079,North America,Los Angeles,,10
+154.17.30.48,45456,qundmit,TRUE,LAX080,North America,Los Angeles,,10
+154.17.27.49,2006,qundmit,TRUE,LAX081,North America,Los Angeles,,10
+154.17.19.203,2008,qundmit,TRUE,LAX082,North America,Los Angeles,,10
+154.17.27.49,2007,qundmit,TRUE,LAX083,North America,Los Angeles,,10
+154.17.30.48,23233,qundmit,TRUE,LAX084,North America,Los Angeles,,10
+154.21.87.65,38779,qundmit,TRUE,LAX085,North America,Los Angeles,,10
+154.17.27.49,2002,qundmit,TRUE,LAX086,North America,Los Angeles,,10
+154.21.95.113,46100,qundmit,TRUE,LAX087,North America,Los Angeles,,10
+154.21.81.80,57414,qundmit,TRUE,LAX088,North America,Los Angeles,,10
+154.17.26.181,57600,qundmit,TRUE,LAX089,North America,Los Angeles,,10
+65.75.195.188,50795,qundmit,TRUE,LAX090,North America,Los Angeles,,10
+65.75.193.44,18334,qundmit,TRUE,LAX091,North America,Los Angeles,,10
+65.75.192.14,47402,qundmit,TRUE,LAX092,North America,Los Angeles,,10
+45.59.186.95,29288,qundmit,TRUE,LAX093,North America,Los Angeles,,10
+65.75.193.13,51144,qundmit,TRUE,LAX094,North America,Los Angeles,,10
+65.75.194.18,16888,qundmit,TRUE,LAX095,North America,Los Angeles,,10
+65.75.194.109,20443,qundmit,TRUE,LAX096,North America,Los Angeles,,10
+65.75.194.18,13888,qundmit,TRUE,LAX097,North America,Los Angeles,,10
+65.75.192.24,16478,qundmit,TRUE,LAX098,North America,Los Angeles,,10
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
 202.86.138.58,50000,443,TRUE,MFM,Asia Pacific,Macau,11,10
 182.93.14.10,20520,443,TRUE,MFM,Asia Pacific,Macau,9,10
 37.123.193.49,18008,,TRUE,SJC01,North America,San Jose,175,10
