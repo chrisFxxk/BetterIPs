@@ -20,84 +20,129 @@ IP地址,端口,回源端口,TLS,数据中心,地区,城市,TCP延迟(ms),速度
 ,,,TRUE,FRA16,Europe,Frankfurt,209,10
 ,,,TRUE,FRA17,Europe,Frankfurt,212,10
 ,,,,,,,,10
-,,,TRUE,HKG001,Asia Pacific,Hong Kong,15,10
-,,,TRUE,HKG002,Asia Pacific,Hong Kong,16,10
-43.154.230.30,443,443,TRUE,HKG003,Asia Pacific,Hong Kong,11,10
-194.104.147.80,443,443,TRUE,HKG004,Asia Pacific,Hong Kong,15,10
-47.236.88.181,2096,,TRUE,HKG005,Asia Pacific,Hong Kong,41,10
-47.236.150.109,2096,0,TRUE,HKG006,Asia Pacific,Hong Kong,11,10
-38.207.179.190,18553,0,TRUE,HKG007,Asia Pacific,Hong Kong,34,10
-118.193.44.53,40844,443,TRUE,HKG008,Asia Pacific,Hong Kong,12,10
-8.222.168.155,2083,443,TRUE,HKG009,Asia Pacific,Hong Kong,60,10
-47.236.169.164,2083,443,TRUE,HKG010,Asia Pacific,Singapore,70,10
-8.222.145.164,2083,2083,TRUE,HKG011,Asia Pacific,Singapore,50,10
-146.56.177.67,61153,2083,TRUE,HKG012,Asia Pacific,Hong Kong,40,10
-38.207.179.190,33135,2083,TRUE,HKG013,Asia Pacific,Hong Kong,39,10
-47.236.193.208,2096,,TRUE,HKG014,Asia Pacific,Hong Kong,151,10
-8.222.211.124,2096,,TRUE,HKG015,Asia Pacific,Singapore,46,10
-8.222.134.170,2053,,TRUE,HKG016,Asia Pacific,Hong Kong,148,10
-202.81.231.30,55576,,TRUE,HKG017,Asia Pacific,Singapore,77,10
-101.235.197.211,15855,,TRUE,HKG018,Asia Pacific,Singapore,63,10
-47.236.147.146,2096,,TRUE,HKG019,Asia Pacific,Singapore,55,10
-8.219.228.157,2083,443,TRUE,HKG020,Asia Pacific,Hong Kong,76,10
-47.236.173.200,2083,,TRUE,HKG021,Asia Pacific,Hong Kong,162,10
-47.236.169.236,2053,,TRUE,HKG022,Asia Pacific,Singapore,60,10
-47.236.148.174,2083,,TRUE,HKG023,Asia Pacific,Hong Kong,17,10
-58.82.242.199,20500,,TRUE,HKG024,Asia Pacific,Singapore,245,10
-58.82.242.199,34384,,TRUE,HKG025,Asia Pacific,Singapore,243,10
-58.82.242.199,12170,,TRUE,HKG026,Asia Pacific,Hong Kong,65,10
-43.154.196.20,65432,,TRUE,HKG027,Asia Pacific,Hong Kong,114,10
-8.218.3.12,2083,,TRUE,HKG028,Asia Pacific,Hong Kong,83,10
-52.141.25.42,443,,TRUE,HKG029,Asia Pacific,Hong Kong,85,10
-45.93.30.45,34237,,TRUE,HKG030,Asia Pacific,Hong Kong,110,10
-8.217.147.230,8443,,TRUE,HKG031,Asia Pacific,Hong Kong,70,10
-8.218.143.10,2096,,TRUE,HKG032,Asia Pacific,Hong Kong,173,10
-8.218.188.129,2087,,TRUE,HKG033,Asia Pacific,Hong Kong,56,10
-47.243.162.49,2053,,TRUE,HKG034,Asia Pacific,Hong Kong,21,10
-47.243.173.187,2083,,TRUE,HKG035,Asia Pacific,Hong Kong,248,10
-47.243.162.49,8443,,TRUE,HKG036,Asia Pacific,Hong Kong,119,10
-47.243.173.187,2096,,TRUE,HKG037,Asia Pacific,Hong Kong,27,10
-8.218.204.128,8443,,TRUE,HKG038,Asia Pacific,Hong Kong,79,10
-47.243.161.235,443,,TRUE,HKG039,Asia Pacific,Hong Kong,84,10
-47.76.77.103,2083,,TRUE,HKG040,Asia Pacific,Hong Kong,306,10
-8.218.22.210,2083,,TRUE,HKG041,Asia Pacific,Hong Kong,99,10
-8.218.3.12,2053,,TRUE,HKG042,Asia Pacific,Hong Kong,51,10
-202.81.231.30,52100,,TRUE,HKG043,Asia Pacific,Hong Kong,82,10
-,,,TRUE,HKG044,Asia Pacific,Hong Kong,39,10
-,,,TRUE,HKG045,Asia Pacific,Hong Kong,47,10
-,,,TRUE,HKG046,Asia Pacific,Hong Kong,67,10
-,,,TRUE,HKG047,Asia Pacific,Hong Kong,70,10
-,,,TRUE,HKG048,Asia Pacific,Hong Kong,51,10
-,,,TRUE,HKG049,Asia Pacific,Hong Kong,66,10
-,,,TRUE,HKG050,Asia Pacific,Hong Kong,57,10
-,,,TRUE,HKG051,Asia Pacific,Hong Kong,91,10
-,,,TRUE,HKG052,,Unknow,,10
-,,,TRUE,HKG053,,Unknow,,10
-,,,TRUE,HKG054,,Unknow,,10
-,,,TRUE,HKG055,,Unknow,,10
-,,,TRUE,HKG056,,Unknow,,10
-,,,TRUE,HKG057,,Unknow,,10
-,,,TRUE,HKG058,,Unknow,,10
-,,,TRUE,HKG059,,Unknow,,10
-,,,TRUE,HKG060,,Unknow,,10
-,,,TRUE,HKG061,,Unknow,,10
-,,,TRUE,HKG062,,Unknow,,10
-,,,TRUE,HKG063,,Unknow,,10
-,,,TRUE,HKG064,,Unknow,,10
-,,,TRUE,HKG065,,Unknow,,10
-,,,TRUE,HKG066,,Unknow,,10
-,,,TRUE,HKG067,,Unknow,,10
-,,,TRUE,HKG068,,Unknow,,10
-,,,TRUE,HKG069,,Unknow,,10
-,,,TRUE,HKG070,,Unknow,,10
-,,,TRUE,HKG071,,Unknow,,10
-,,,TRUE,HKG072,,Unknow,,10
-,,,TRUE,HKG073,,Unknow,,10
-,,,TRUE,HKG074,,Unknow,,10
-,,,TRUE,HKG075,,Unknow,,10
-,,,TRUE,HKG076,,Unknow,,10
-,,,TRUE,HLR01,Europe,London,204,10
-,,,TRUE,HLR02,Europe,London,204,10
+43.154.230.30,443,443,TRUE,HKG001,Asia Pacific,Hong Kong,15,10
+194.104.147.80,443,443,TRUE,HKG002,Asia Pacific,Hong Kong,16,10
+47.236.88.181,2096,,TRUE,HKG003,Asia Pacific,Hong Kong,11,10
+47.236.150.109,2096,0,TRUE,HKG004,Asia Pacific,Hong Kong,15,10
+38.207.179.190,18553,0,TRUE,HKG005,Asia Pacific,Hong Kong,41,10
+118.193.44.53,40844,443,TRUE,HKG006,Asia Pacific,Hong Kong,11,10
+8.222.168.155,2083,443,TRUE,HKG007,Asia Pacific,Hong Kong,34,10
+47.236.169.164,2083,443,TRUE,HKG008,Asia Pacific,Hong Kong,12,10
+8.222.145.164,2083,2083,TRUE,HKG009,Asia Pacific,Hong Kong,60,10
+146.56.177.67,61153,2083,TRUE,HKG010,Asia Pacific,Singapore,70,10
+38.207.179.190,33135,2083,TRUE,HKG011,Asia Pacific,Singapore,50,10
+47.236.193.208,2096,,TRUE,HKG012,Asia Pacific,Hong Kong,40,10
+8.222.211.124,2096,,TRUE,HKG013,Asia Pacific,Hong Kong,39,10
+8.222.134.170,2053,,TRUE,HKG014,Asia Pacific,Hong Kong,151,10
+202.81.231.30,55576,,TRUE,HKG015,Asia Pacific,Singapore,46,10
+101.235.197.211,15855,,TRUE,HKG016,Asia Pacific,Hong Kong,148,10
+47.236.147.146,2096,,TRUE,HKG017,Asia Pacific,Singapore,77,10
+8.219.228.157,2083,443,TRUE,HKG018,Asia Pacific,Singapore,63,10
+47.236.173.200,2083,,TRUE,HKG019,Asia Pacific,Singapore,55,10
+47.236.169.236,2053,,TRUE,HKG020,Asia Pacific,Hong Kong,76,10
+47.236.148.174,2083,,TRUE,HKG021,Asia Pacific,Hong Kong,162,10
+58.82.242.199,20500,,TRUE,HKG022,Asia Pacific,Singapore,60,10
+58.82.242.199,34384,,TRUE,HKG023,Asia Pacific,Hong Kong,17,10
+58.82.242.199,12170,,TRUE,HKG024,Asia Pacific,Singapore,245,10
+43.154.196.20,65432,,TRUE,HKG025,Asia Pacific,Singapore,243,10
+52.141.25.42,443,,TRUE,HKG026,Asia Pacific,Hong Kong,65,10
+45.93.30.45,34237,,TRUE,HKG027,Asia Pacific,Hong Kong,114,10
+47.243.173.187,2083,,TRUE,HKG028,Asia Pacific,Hong Kong,83,10
+47.243.173.187,2096,,TRUE,HKG029,Asia Pacific,Hong Kong,85,10
+8.218.204.128,8443,,TRUE,HKG030,Asia Pacific,Hong Kong,110,10
+47.76.77.103,2083,,TRUE,HKG031,Asia Pacific,Hong Kong,70,10
+202.81.231.30,52100,,TRUE,HKG032,Asia Pacific,Hong Kong,173,10
+8.210.65.1,2053,3-30-ST,TRUE,HKG033,Asia Pacific,Hong Kong,56,10
+47.242.234.127,2053,3-30-ST,TRUE,HKG034,Asia Pacific,Hong Kong,21,10
+8.210.101.157,2087,3-30-qunsaomiao,TRUE,HKG035,Asia Pacific,Hong Kong,248,10
+8.218.181.189,8443,3-30-qunsaomiao,TRUE,HKG036,Asia Pacific,Hong Kong,119,10
+8.217.145.40,2053,3-30-qunsaomiao,TRUE,HKG037,Asia Pacific,Hong Kong,27,10
+8.210.119.11,443,3-30-qunsaomiao,TRUE,HKG038,Asia Pacific,Hong Kong,79,10
+8.218.127.249,2087,3-30-qunsaomiao,TRUE,HKG039,Asia Pacific,Hong Kong,84,10
+8.218.211.17,8443,3-30-qunsaomiao,TRUE,HKG040,Asia Pacific,Hong Kong,306,10
+8.218.8.142,2083,3-30-qunsaomiao,TRUE,HKG041,Asia Pacific,Hong Kong,99,10
+47.76.33.40,2083,3-30-qunsaomiao,TRUE,HKG042,Asia Pacific,Hong Kong,51,10
+8.218.181.189,2053,3-30-qunsaomiao,TRUE,HKG043,Asia Pacific,Hong Kong,82,10
+8.218.110.180,8443,3-30-qunsaomiao,TRUE,HKG044,Asia Pacific,Hong Kong,39,10
+8.217.147.230,8443,3-30-qunsaomiao,TRUE,HKG045,Asia Pacific,Hong Kong,47,10
+8.210.101.157,2053,3-30-qunsaomiao,TRUE,HKG046,Asia Pacific,Hong Kong,67,10
+8.218.146.204,2053,3-30-qunsaomiao,TRUE,HKG047,Asia Pacific,Hong Kong,70,10
+47.74.26.196,2083,3-30-qunsaomiao,TRUE,HKG048,Asia Pacific,Hong Kong,51,10
+8.218.110.180,2083,3-30-qunsaomiao,TRUE,HKG049,Asia Pacific,Hong Kong,66,10
+8.217.221.165,8443,3-30-qunsaomiao,TRUE,HKG050,Asia Pacific,Hong Kong,57,10
+8.217.159.210,2053,3-30-qunsaomiao,TRUE,HKG051,Asia Pacific,Hong Kong,91,10
+8.217.159.210,2087,3-30-qunsaomiao,TRUE,HKG052,,Unknow,,10
+8.217.145.40,2087,3-30-qunsaomiao,TRUE,HKG053,,Unknow,,10
+47.242.54.157,8443,3-30-qunsaomiao,TRUE,HKG054,,Unknow,,10
+8.218.149.193,8443,3-30-qunsaomiao,TRUE,HKG055,,Unknow,,10
+8.218.65.237,2087,3-30-qunsaomiao,TRUE,HKG056,,Unknow,,10
+47.74.26.196,2096,3-30-qunsaomiao,TRUE,HKG057,,Unknow,,10
+47.242.79.71,2087,3-30-qunsaomiao,TRUE,HKG058,,Unknow,,10
+8.218.146.204,2083,3-30-qunsaomiao,TRUE,HKG059,,Unknow,,10
+8.217.147.230,2087,3-30-qunsaomiao,TRUE,HKG060,,Unknow,,10
+8.218.126.53,8443,3-30-qunsaomiao,TRUE,HKG061,,Unknow,,10
+8.217.91.121,8443,3-30-qunsaomiao,TRUE,HKG062,,Unknow,,10
+47.76.49.246,2096,3-30-qunsaomiao,TRUE,HKG063,,Unknow,,10
+8.209.222.232,2096,3-30-qunsaomiao,TRUE,HKG064,,Unknow,,10
+47.76.37.57,2096,3-30-qunsaomiao,TRUE,HKG065,,Unknow,,10
+47.242.79.71,443,3-30-qunsaomiao,TRUE,HKG066,,Unknow,,10
+8.218.3.12,2096,3-30-qunsaomiao,TRUE,HKG067,,Unknow,,10
+47.245.40.55,2053,3-30-qunsaomiao,TRUE,HKG068,,Unknow,,10
+8.218.156.91,8443,3-30-qunsaomiao,TRUE,HKG069,,Unknow,,10
+8.218.158.94,443,3-30-qunsaomiao,TRUE,HKG070,,Unknow,,10
+8.217.250.222,2087,3-30-qunsaomiao,TRUE,HKG071,,Unknow,,10
+8.217.167.88,2083,3-30-qunsaomiao,TRUE,HKG072,,Unknow,,10
+8.218.119.115,2053,3-30-qunsaomiao,TRUE,HKG073,,Unknow,,10
+8.218.18.235,2053,3-30-qunsaomiao,TRUE,HKG074,,Unknow,,10
+8.218.11.90,2053,3-30-qunsaomiao,TRUE,HKG075,,Unknow,,10
+8.218.18.235,2096,3-30-qunsaomiao,TRUE,HKG076,,Unknow,,10
+8.218.127.249,2096,3-30-qunsaomiao,TRUE,HKG077,,Unknow,,10
+8.218.105.223,2083,3-30-qunsaomiao,TRUE,HKG078,,Unknow,,10
+8.218.2.181,2087,3-30-qunsaomiao,TRUE,HKG079,,Unknow,,10
+8.217.49.34,2096,3-30-qunsaomiao,TRUE,HKG080,,Unknow,,10
+8.209.222.232,2087,3-30-qunsaomiao,TRUE,HKG081,,Unknow,,10
+8.217.207.60,443,3-30-qunsaomiao,TRUE,HKG082,,Unknow,,10
+8.209.222.232,2053,3-30-qunsaomiao,TRUE,HKG083,,Unknow,,10
+47.76.178.146,2053,3-30-qunsaomiao,TRUE,HKG084,,Unknow,,10
+8.218.146.204,443,3-30-qunsaomiao,TRUE,HKG085,,Unknow,,10
+47.74.26.196,8443,3-30-qunsaomiao,TRUE,HKG086,,Unknow,,10
+8.210.66.190,2053,3-30-qunsaomiao,TRUE,HKG087,,Unknow,,10
+47.243.162.49,2053,3-30-qunsaomiao,TRUE,HKG088,,Unknow,,10
+8.218.174.118,2053,3-30-qunsaomiao,TRUE,HKG089,,Unknow,,10
+8.209.222.232,2083,3-30-qunsaomiao,TRUE,HKG090,,Unknow,,10
+47.242.155.183,2087,3-30-qunsaomiao,TRUE,HKG091,,Unknow,,10
+8.218.126.53,2087,3-30-qunsaomiao,TRUE,HKG092,,Unknow,,10
+8.217.250.222,8443,3-30-qunsaomiao,TRUE,HKG093,,Unknow,,10
+8.217.49.34,8443,3-30-qunsaomiao,TRUE,HKG094,,Unknow,,10
+47.76.178.146,2083,3-30-qunsaomiao,TRUE,HKG095,,Unknow,,10
+47.242.155.183,2053,3-30-qunsaomiao,TRUE,HKG096,,Unknow,,10
+8.218.156.91,2083,3-30-qunsaomiao,TRUE,HKG097,,Unknow,,10
+47.242.59.216,2053,3-30-qunsaomiao,TRUE,HKG098,,Unknow,,10
+47.245.39.49,2083,3-30-qunsaomiao,TRUE,HKG099,,Unknow,,10
+47.76.49.246,2083,3-30-qunsaomiao,TRUE,HKG100,,Unknow,,10
+,,,TRUE,HKG101,,Unknow,,10
+,,,TRUE,HKG102,,Unknow,,10
+,,,TRUE,HKG103,,Unknow,,10
+,,,TRUE,HKG104,,Unknow,,10
+,,,TRUE,HKG105,,Unknow,,10
+,,,TRUE,HKG106,,Unknow,,10
+,,,TRUE,HKG107,,Unknow,,10
+,,,TRUE,HKG108,,Unknow,,10
+,,,TRUE,HKG109,,Unknow,,10
+,,,TRUE,HKG110,,Unknow,,10
+,,,TRUE,HKG111,,Unknow,,10
+,,,TRUE,HKG112,,Unknow,,10
+,,,TRUE,HKG113,,Unknow,,10
+,,,TRUE,HKG114,,Unknow,,10
+,,,TRUE,HKG115,,Unknow,,10
+,,,TRUE,HKG116,,Unknow,,10
+,,,TRUE,HKG117,,Unknow,,10
+,,,TRUE,HKG118,,Unknow,,10
+,,,TRUE,HKG119,,Unknow,,10
+,,,TRUE,HKG120,,Unknow,,10
+,,,TRUE,HKG121,,Unknow,,10
+,,,,,,,,
+,,,,,,,,
 ,,,TRUE,HLR03,Europe,London,204,10
 8.222.136.196,2087,,TRUE,ICN001,Asia Pacific,Singapore,45,10
 8.222.155.242,2083,,TRUE,ICN002,Asia Pacific,Singapore,49,10
