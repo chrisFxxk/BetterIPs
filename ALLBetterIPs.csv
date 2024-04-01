@@ -1,182 +1,259 @@
 IP地址,端口,回源端口,TLS,数据中心,地区,城市,TCP延迟(ms),速度(MB/s)
-13.36.230.17,8443,443,TRUE,CDG01,Europe,Paris,165,10
-141.147.45.195,2052,443,TRUE,CDG02,Europe,Paris,177,10
-141.144.204.27,8443,443,TRUE,AMS01,Europe,Amsterdam,180,10
-82.115.31.87,38057,,TRUE,FRA01,Europe,Frankfurt,232,10
-3.66.84.249,8443,,TRUE,FRA02,Europe,Frankfurt,165,10
-185.217.109.108,10001,,TRUE,FRA03,Europe,Frankfurt,166,10
-144.24.169.81,2053,,TRUE,FRA04,Europe,Frankfurt,151,10
-144.24.169.81,8443,,TRUE,FRA05,Europe,Frankfurt,148,10
-130.162.211.207,8443,,TRUE,FRA06,Europe,Frankfurt,189,10
-130.61.23.77,443,,TRUE,FRA07,Europe,Frankfurt,205,10
-130.61.109.6,2053,,TRUE,FRA08,Europe,Frankfurt,172,10
-144.24.173.250,2053,,TRUE,FRA09,Europe,Frankfurt,201,10
-144.24.173.250,2096,,TRUE,FRA10,Europe,Frankfurt,194,10
-144.24.189.21,8443,,TRUE,FRA11,Europe,Frankfurt,183,10
-129.159.241.172,443,,TRUE,FRA12,Europe,Frankfurt,182,10
-104.27.234.123,443,,TRUE,FRA13,Europe,Frankfurt,180,10
-104.28.42.19,443,,TRUE,FRA14,Europe,Frankfurt,179,10
-104.27.230.218,443,,TRUE,FRA15,Europe,Frankfurt,203,10
-,,,TRUE,FRA16,Europe,Frankfurt,209,10
-,,,TRUE,FRA17,Europe,Frankfurt,212,10
-,,,,,,,,10
-,,,TRUE,HKG001,Asia Pacific,Hong Kong,15,10
-194.104.147.80,443,443,TRUE,HKG002,Asia Pacific,Hong Kong,16,10
-47.236.88.181,2096,,TRUE,HKG003,Asia Pacific,Hong Kong,11,10
-47.236.150.109,2096,0,TRUE,HKG004,Asia Pacific,Hong Kong,15,10
-38.207.179.190,18553,0,TRUE,HKG005,Asia Pacific,Hong Kong,41,10
-118.193.44.53,40844,443,TRUE,HKG006,Asia Pacific,Hong Kong,11,10
-8.222.168.155,2083,443,TRUE,HKG007,Asia Pacific,Hong Kong,34,10
-47.236.169.164,2083,443,TRUE,HKG008,Asia Pacific,Hong Kong,12,10
-8.222.145.164,2083,2083,TRUE,HKG009,Asia Pacific,Hong Kong,60,10
-146.56.177.67,61153,2083,TRUE,HKG010,Asia Pacific,Singapore,70,10
-38.207.179.190,33135,2083,TRUE,HKG011,Asia Pacific,Singapore,50,10
-47.236.193.208,2096,,TRUE,HKG012,Asia Pacific,Hong Kong,40,10
-8.222.211.124,2096,,TRUE,HKG013,Asia Pacific,Hong Kong,39,10
-8.222.134.170,2053,,TRUE,HKG014,Asia Pacific,Hong Kong,151,10
-202.81.231.30,55576,,TRUE,HKG015,Asia Pacific,Singapore,46,10
-101.235.197.211,15855,,TRUE,HKG016,Asia Pacific,Hong Kong,148,10
-47.236.147.146,2096,,TRUE,HKG017,Asia Pacific,Singapore,77,10
-8.219.228.157,2083,443,TRUE,HKG018,Asia Pacific,Singapore,63,10
-47.236.173.200,2083,,TRUE,HKG019,Asia Pacific,Singapore,55,10
-47.236.169.236,2053,,TRUE,HKG020,Asia Pacific,Hong Kong,76,10
-47.236.148.174,2083,,TRUE,HKG021,Asia Pacific,Hong Kong,162,10
-58.82.242.199,20500,,TRUE,HKG022,Asia Pacific,Singapore,60,10
-58.82.242.199,34384,,TRUE,HKG023,Asia Pacific,Hong Kong,17,10
-58.82.242.199,12170,,TRUE,HKG024,Asia Pacific,Singapore,245,10
-43.154.196.20,65432,,TRUE,HKG025,Asia Pacific,Singapore,243,10
-52.141.25.42,443,,TRUE,HKG026,Asia Pacific,Hong Kong,65,10
-45.93.30.45,34237,,TRUE,HKG027,Asia Pacific,Hong Kong,114,10
-47.243.173.187,2083,,TRUE,HKG028,Asia Pacific,Hong Kong,83,10
-47.243.173.187,2096,,TRUE,HKG029,Asia Pacific,Hong Kong,85,10
-,,,TRUE,HKG030,Asia Pacific,Hong Kong,110,10
-47.76.77.103,2083,,TRUE,HKG031,Asia Pacific,Hong Kong,70,10
-202.81.231.30,52100,,TRUE,HKG032,Asia Pacific,Hong Kong,173,10
-8.210.65.1,2053,3-30-ST,TRUE,HKG033,Asia Pacific,Hong Kong,56,10
-47.245.40.55,2053,3-30-qunsaomiao,TRUE,HKG034,Asia Pacific,Hong Kong,21,10
-47.76.178.146,2053,3-30-qunsaomiao,TRUE,HKG035,Asia Pacific,Hong Kong,248,10
-47.76.178.146,2083,3-30-qunsaomiao,TRUE,HKG036,Asia Pacific,Hong Kong,119,10
-,,3-30-ST,TRUE,HKG037,Asia Pacific,Hong Kong,27,10
-,,3-30-ST,TRUE,HKG038,Asia Pacific,Hong Kong,79,10
-8.217.248.220,2096,3-30-iptest,TRUE,HKG039,Asia Pacific,Hong Kong,84,10
-47.76.77.103,2096,3-30-iptest,TRUE,HKG040,Asia Pacific,Hong Kong,306,10
-8.217.251.62,2086,3-30-iptest,FALSE,HKG041,Asia Pacific,Hong Kong,99,10
-8.218.181.189,8080,3-30-iptest,FALSE,HKG042,Asia Pacific,Hong Kong,51,10
-47.236.5.223,2086,3-30-iptest,FALSE,HKG043,Asia Pacific,Hong Kong,82,10
-8.222.145.110,8080,3-30-iptest,FALSE,HKG044,Asia Pacific,Hong Kong,39,10
-47.236.176.144,2082,3-30-iptest,FALSE,HKG045,Asia Pacific,Hong Kong,47,10
-8.222.221.197,8880,3-30-iptest,FALSE,HKG046,Asia Pacific,Hong Kong,67,10
-8.218.181.189,2082,3-30-iptest,FALSE,HKG047,Asia Pacific,Hong Kong,70,10
-47.236.168.17,8080,3-30-iptest,FALSE,HKG048,Asia Pacific,Hong Kong,51,10
-8.218.181.189,2095,3-30-iptest,FALSE,HKG049,Asia Pacific,Hong Kong,66,10
-8.217.250.5,80,3-30-iptest,FALSE,HKG050,Asia Pacific,Hong Kong,57,10
-8.217.250.5,2082,3-30-iptest,FALSE,HKG051,Asia Pacific,Hong Kong,91,10
-47.76.178.146,443,AS+ST3-31,TRUE,HKG052,,Unknow,,10
-47.243.173.187,443,AS+ST3-31,TRUE,HKG053,,Unknow,,10
-47.76.94.15,443,AS+ST3-31,TRUE,HKG054,,Unknow,,10
-47.243.42.219,443,AS+ST3-31,TRUE,HKG055,,Unknow,,10
-47.245.57.38,8443,AS+ST3-31,TRUE,HKG056,,Unknow,,10
-47.245.6.9,8443,AS+ST3-31,TRUE,HKG057,,Unknow,,10
-47.243.42.219,8443,AS+ST3-31,TRUE,HKG058,,Unknow,,10
-47.243.173.187,8443,AS+ST3-31,TRUE,HKG059,,Unknow,,10
-47.76.178.146,8443,AS+ST3-31,TRUE,HKG060,,Unknow,,10
-8.218.201.73,8443,AS+ST3-31,TRUE,HKG061,,Unknow,,10
-47.243.42.219,2053,AS+ST3-31,TRUE,HKG062,,Unknow,,10
-47.245.6.9,2053,AS+ST3-31,TRUE,HKG063,,Unknow,,10
-47.245.57.38,2053,AS+ST3-31,TRUE,HKG064,,Unknow,,10
-47.245.4.22,2053,AS+ST3-31,TRUE,HKG065,,Unknow,,10
-47.243.173.187,2053,AS+ST3-31,TRUE,HKG066,,Unknow,,10
-8.210.146.108,2053,AS+ST3-31,TRUE,HKG067,,Unknow,,10
-47.76.178.146,2096,AS+ST3-31,TRUE,HKG068,,Unknow,,10
-47.245.40.55,2096,AS+ST3-31,TRUE,HKG069,,Unknow,,10
-47.245.57.38,2096,AS+ST3-31,TRUE,HKG070,,Unknow,,10
-8.210.9.129,2096,AS+ST3-31,TRUE,HKG071,,Unknow,,10
-47.245.40.55,2087,AS+ST3-31,TRUE,HKG072,,Unknow,,10
-47.245.6.9,2087,AS+ST3-31,TRUE,HKG073,,Unknow,,10
-47.245.57.38,2087,AS+ST3-31,TRUE,HKG074,,Unknow,,10
-47.245.4.22,2087,AS+ST3-31,TRUE,HKG075,,Unknow,,10
-8.218.2.181,2087,AS+ST3-31,TRUE,HKG076,,Unknow,,10
-47.76.178.146,2087,AS+ST3-31,TRUE,HKG077,,Unknow,,10
-8.210.65.1,2087,AS+ST3-31,TRUE,HKG078,,Unknow,,10
-8.210.146.108,2087,AS+ST3-31,TRUE,HKG079,,Unknow,,10
-47.76.77.103,2087,AS+ST3-31,TRUE,HKG080,,Unknow,,10
-47.76.77.103,2087,3-31-iptest,TRUE,HKG081,,Unknow,,10
-47.76.77.103,2053,3-31-iptest,TRUE,HKG082,,Unknow,,10
-47.245.40.55,8443,3-31-iptest,TRUE,HKG083,,Unknow,,10
-47.245.6.9,8080,3-31-iptest,FALSE,HKG084,,Unknow,,10
-8.217.167.88,80,3-31-iptest,FALSE,HKG085,,Unknow,,10
-47.245.6.9,2083,3-31-iptest,TRUE,HKG086,,Unknow,,10
-8.217.167.88,2083,3-31-iptest,TRUE,HKG087,,Unknow,,10
-47.245.6.9,8880,3-31-iptest,FALSE,HKG088,,Unknow,,10
-47.245.4.22,8443,3-31-iptest,TRUE,HKG089,,Unknow,,10
-47.76.94.15,2087,3-31-iptest,TRUE,HKG090,,Unknow,,10
-47.76.94.15,8880,3-31-iptest,FALSE,HKG091,,Unknow,,10
-,,,TRUE,HKG092,,Unknow,,10
-,,,TRUE,HKG093,,Unknow,,10
-,,,TRUE,HKG094,,Unknow,,10
-,,,TRUE,HKG095,,Unknow,,10
-,,,TRUE,HKG096,,Unknow,,10
-,,,TRUE,HKG097,,Unknow,,10
-,,,TRUE,HKG098,,Unknow,,10
-,,,TRUE,HKG099,,Unknow,,10
-,,,TRUE,HKG100,,Unknow,,10
-,,,TRUE,HKG101,,Unknow,,10
-,,,TRUE,HKG102,,Unknow,,10
-,,,TRUE,HKG103,,Unknow,,10
-,,,TRUE,HKG104,,Unknow,,10
-,,,TRUE,HKG105,,Unknow,,10
-,,,TRUE,HKG106,,Unknow,,10
-,,,TRUE,HKG107,,Unknow,,10
-,,,TRUE,HKG108,,Unknow,,10
-,,,TRUE,HKG109,,Unknow,,10
-,,,TRUE,HKG110,,Unknow,,10
-,,,TRUE,HKG111,,Unknow,,10
-,,,TRUE,HKG112,,Unknow,,10
-,,,TRUE,HKG113,,Unknow,,10
-,,,TRUE,HKG114,,Unknow,,10
-,,,TRUE,HKG115,,Unknow,,10
-,,,TRUE,HKG116,,Unknow,,10
-,,,TRUE,HKG117,,Unknow,,10
-,,,TRUE,HKG118,,Unknow,,10
-,,,TRUE,HKG120,,Unknow,,10
-,,,TRUE,HKG121,,Unknow,,10
-,,,TRUE,HKG122,,Unknow,,10
-,,,TRUE,HKG123,,Unknow,,10
-,,,TRUE,HKG126,,Unknow,,10
-,,,TRUE,HKG127,,Unknow,,10
-,,,TRUE,HKG128,,Unknow,,10
-,,,TRUE,HKG129,,Unknow,,10
-,,,TRUE,HKG130,,Unknow,,10
-,,,TRUE,HKG131,,Unknow,,10
-,,,TRUE,HKG132,,Unknow,,10
-,,,TRUE,HKG133,,Unknow,,10
-,,,TRUE,HKG134,,Unknow,,10
-,,,TRUE,HKG135,,Unknow,,10
-,,,TRUE,HKG136,,Unknow,,10
-,,,TRUE,HKG137,,Unknow,,10
-,,,TRUE,HKG138,,Unknow,,10
-,,,TRUE,HKG139,,Unknow,,10
-,,,TRUE,HKG140,,Unknow,,10
-,,,TRUE,HKG141,,Unknow,,10
-,,,TRUE,HKG142,,Unknow,,10
-,,,TRUE,HKG143,,Unknow,,10
-,,,TRUE,HKG144,,Unknow,,10
-,,,TRUE,HKG145,,Unknow,,10
-,,,TRUE,HKG146,,Unknow,,10
-,,,TRUE,HKG147,,Unknow,,10
-,,,TRUE,HKG148,,Unknow,,10
-,,,TRUE,HKG149,,Unknow,,10
-,,,TRUE,HKG150,,Unknow,,10
-,,,TRUE,HKG151,,Unknow,,10
-,,,TRUE,HKG152,,Unknow,,10
-,,,TRUE,HKG153,,Unknow,,10
-,,,TRUE,HKG154,,Unknow,,10
-,,,TRUE,HKG155,,Unknow,,10
-,,,TRUE,HKG156,,Unknow,,10
-,,,TRUE,HKG157,,Unknow,,10
-,,,TRUE,HKG158,,Unknow,,10
-,,,TRUE,HKG159,,Unknow,,10
-,,,TRUE,HKG160,,Unknow,,10
+202.86.138.58,50000,443,TRUE,MFM01,Asia Pacific,Macau,11,10
+182.93.14.10,20520,443,TRUE,MFM02,Asia Pacific,Macau,9,10
+37.123.196.145,19004,80,FALSE,MFM03,Asia Pacific,Macau,10,11
+194.104.147.80,443,443,TRUE,HKG001,Asia Pacific,Hong Kong,15,10
+47.236.88.181,2096,,TRUE,HKG002,Asia Pacific,Hong Kong,16,10
+47.236.150.109,2096,0,TRUE,HKG003,Asia Pacific,Hong Kong,11,10
+38.207.179.190,18553,0,TRUE,HKG004,Asia Pacific,Hong Kong,15,10
+118.193.44.53,40844,443,TRUE,HKG005,Asia Pacific,Hong Kong,41,10
+8.222.168.155,2083,443,TRUE,HKG006,Asia Pacific,Hong Kong,11,10
+47.236.169.164,2083,443,TRUE,HKG007,Asia Pacific,Hong Kong,34,10
+8.222.145.164,2083,2083,TRUE,HKG008,Asia Pacific,Hong Kong,12,10
+146.56.177.67,61153,2083,TRUE,HKG009,Asia Pacific,Hong Kong,60,10
+38.207.179.190,33135,2083,TRUE,HKG010,Asia Pacific,Singapore,70,10
+47.236.193.208,2096,,TRUE,HKG011,Asia Pacific,Singapore,50,10
+8.222.211.124,2096,,TRUE,HKG012,Asia Pacific,Hong Kong,40,10
+8.222.134.170,2053,,TRUE,HKG013,Asia Pacific,Hong Kong,39,10
+202.81.231.30,55576,,TRUE,HKG014,Asia Pacific,Hong Kong,151,10
+101.235.197.211,15855,,TRUE,HKG015,Asia Pacific,Singapore,46,10
+47.236.147.146,2096,,TRUE,HKG016,Asia Pacific,Hong Kong,148,10
+8.219.228.157,2083,443,TRUE,HKG017,Asia Pacific,Singapore,77,10
+47.236.173.200,2083,,TRUE,HKG018,Asia Pacific,Singapore,63,10
+47.236.169.236,2053,,TRUE,HKG019,Asia Pacific,Singapore,55,10
+47.236.148.174,2083,,TRUE,HKG020,Asia Pacific,Hong Kong,76,10
+58.82.242.199,20500,,TRUE,HKG021,Asia Pacific,Hong Kong,162,10
+58.82.242.199,34384,,TRUE,HKG022,Asia Pacific,Singapore,60,10
+58.82.242.199,12170,,TRUE,HKG023,Asia Pacific,Hong Kong,17,10
+43.154.196.20,65432,,TRUE,HKG024,Asia Pacific,Singapore,245,10
+52.141.25.42,443,,TRUE,HKG025,Asia Pacific,Singapore,243,10
+45.93.30.45,34237,,TRUE,HKG026,Asia Pacific,Hong Kong,65,10
+47.243.173.187,2083,,TRUE,HKG027,Asia Pacific,Hong Kong,114,10
+47.243.173.187,2096,,TRUE,HKG028,Asia Pacific,Hong Kong,83,10
+47.76.77.103,2083,,TRUE,HKG029,Asia Pacific,Hong Kong,85,10
+202.81.231.30,52100,,TRUE,HKG030,Asia Pacific,Hong Kong,110,10
+47.245.40.55,2053,3-30-qunsaomiao,TRUE,HKG031,Asia Pacific,Hong Kong,70,10
+47.76.77.103,2096,3-30-iptest,TRUE,HKG032,Asia Pacific,Hong Kong,173,10
+47.236.5.223,2086,3-30-iptest,FALSE,HKG033,Asia Pacific,Hong Kong,56,10
+8.222.145.110,8080,3-30-iptest,FALSE,HKG034,Asia Pacific,Hong Kong,21,10
+47.236.176.144,2082,3-30-iptest,FALSE,HKG035,Asia Pacific,Hong Kong,248,10
+8.222.221.197,8880,3-30-iptest,FALSE,HKG036,Asia Pacific,Hong Kong,119,10
+47.236.168.17,8080,3-30-iptest,FALSE,HKG037,Asia Pacific,Hong Kong,27,10
+47.243.42.219,443,AS+ST3-31,TRUE,HKG038,Asia Pacific,Hong Kong,79,10
+47.245.57.38,8443,AS+ST3-31,TRUE,HKG039,Asia Pacific,Hong Kong,84,10
+47.245.6.9,8443,AS+ST3-31,TRUE,HKG040,Asia Pacific,Hong Kong,306,10
+47.243.42.219,8443,AS+ST3-31,TRUE,HKG041,Asia Pacific,Hong Kong,99,10
+47.243.173.187,8443,AS+ST3-31,TRUE,HKG042,Asia Pacific,Hong Kong,51,10
+47.243.42.219,2053,AS+ST3-31,TRUE,HKG043,Asia Pacific,Hong Kong,82,10
+47.245.6.9,2053,AS+ST3-31,TRUE,HKG044,Asia Pacific,Hong Kong,39,10
+47.245.57.38,2053,AS+ST3-31,TRUE,HKG045,Asia Pacific,Hong Kong,47,10
+47.245.4.22,2053,AS+ST3-31,TRUE,HKG046,Asia Pacific,Hong Kong,67,10
+47.243.173.187,2053,AS+ST3-31,TRUE,HKG047,Asia Pacific,Hong Kong,70,10
+47.245.40.55,2096,AS+ST3-31,TRUE,HKG048,Asia Pacific,Hong Kong,51,10
+47.245.57.38,2096,AS+ST3-31,TRUE,HKG049,Asia Pacific,Hong Kong,66,10
+47.245.40.55,2087,AS+ST3-31,TRUE,HKG050,Asia Pacific,Hong Kong,57,10
+47.245.6.9,2087,AS+ST3-31,TRUE,HKG051,Asia Pacific,Hong Kong,91,10
+47.245.57.38,2087,AS+ST3-31,TRUE,HKG052,,Unknow,,10
+47.245.4.22,2087,AS+ST3-31,TRUE,HKG053,,Unknow,,10
+8.218.2.181,2087,AS+ST3-31,TRUE,HKG054,,Unknow,,10
+47.76.77.103,2087,AS+ST3-31,TRUE,HKG055,,Unknow,,10
+47.76.77.103,2053,3-31-iptest,TRUE,HKG056,,Unknow,,10
+47.245.40.55,8443,3-31-iptest,TRUE,HKG057,,Unknow,,10
+47.245.6.9,8080,3-31-iptest,FALSE,HKG058,,Unknow,,10
+47.245.6.9,2083,3-31-iptest,TRUE,HKG059,,Unknow,,10
+47.245.6.9,8880,3-31-iptest,FALSE,HKG060,,Unknow,,10
+47.245.4.22,8443,3-31-iptest,TRUE,HKG061,,Unknow,,10
+47.76.94.15,2087,3-31-iptest,TRUE,HKG062,,Unknow,,10
+47.76.94.15,8880,3-31-iptest,FALSE,HKG063,,Unknow,,10
+8.218.85.128,2086,4-1iptest,FALSE,HKG064,,Unknow,,10
+161.81.192.21,19253,4-1iptest,TRUE,HKG065,,Unknow,,10
+158.179.186.123,8880,4-1iptest,FALSE,HKG066,,Unknow,,10
+161.81.192.21,15213,4-1iptest,TRUE,HKG067,,Unknow,,10
+161.81.232.8,28532,4-1iptest,TRUE,HKG068,,Unknow,,10
+161.81.192.21,30133,4-1iptest,TRUE,HKG069,,Unknow,,10
+47.245.4.22,8080,4-1iptest,FALSE,HKG070,,Unknow,,10
+47.245.4.22,2052,4-1iptest,FALSE,HKG071,,Unknow,,10
+8.209.222.232,2096,4-1iptest,TRUE,HKG072,,Unknow,,10
+47.245.6.9,2095,4-1iptest,FALSE,HKG073,,Unknow,,10
+47.245.40.55,8880,4-1iptest,FALSE,HKG074,,Unknow,,10
+47.245.4.22,2095,4-1iptest,FALSE,HKG075,,Unknow,,10
+8.210.192.93,2087,4-1iptest,TRUE,HKG076,,Unknow,,10
+,,,,HKG077,,Unknow,,10
+,,,,HKG078,,Unknow,,10
+,,,,HKG079,,Unknow,,10
+,,,,HKG080,,Unknow,,10
+,,,,HKG081,,Unknow,,10
+,,,,HKG082,,Unknow,,10
+,,,,HKG083,,Unknow,,10
+,,,,HKG084,,Unknow,,10
+,,,,HKG085,,Unknow,,10
+,,,,HKG086,,Unknow,,10
+,,,,HKG087,,Unknow,,10
+,,,,HKG088,,Unknow,,10
+,,,,HKG089,,Unknow,,10
+,,,,HKG090,,Unknow,,10
+,,,,HKG091,,Unknow,,10
+,,,,HKG092,,Unknow,,10
+,,,,HKG093,,Unknow,,10
+,,,,HKG094,,Unknow,,10
+,,,,HKG095,,Unknow,,10
+,,,,HKG096,,Unknow,,10
+,,,,HKG097,,Unknow,,10
+,,,,HKG098,,Unknow,,10
+,,,,HKG099,,Unknow,,10
+,,,,HKG100,,Unknow,,10
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+45.66.128.148,48792,,TRUE,JP001,Asia Pacific,Tokyo,85,10
+129.154.212.181,44699,,TRUE,JP002,Asia Pacific,Tokyo,71,10
+132.145.125.165,2083,,TRUE,JP003,Asia Pacific,Tokyo,193,10
+193.32.151.17,38489,,TRUE,JP004,Asia Pacific,Tokyo,60,10
+151.145.65.8,2053,,TRUE,JP005,Asia Pacific,Tokyo,81,10
+8.219.55.31,2053,,TRUE,JP006,Asia Pacific,Tokyo,87,10
+147.78.243.121,31172,,TRUE,JP007,Asia Pacific,Tokyo,174,10
+151.145.66.219,2083,,TRUE,JP008,Asia Pacific,Tokyo,94,10
+45.143.234.181,56649,,TRUE,JP009,Asia Pacific,Tokyo,178,10
+151.145.74.199,2053,,TRUE,JP010,Asia Pacific,Tokyo,176,10
+158.179.178.145,8443,,TRUE,JP011,Asia Pacific,Tokyo,69,10
+168.138.206.68,8443,,TRUE,JP012,Asia Pacific,Tokyo,62,10
+158.179.189.106,2087,,TRUE,JP013,Asia Pacific,Tokyo,79,10
+158.101.133.129,2087,,TRUE,JP014,Asia Pacific,Tokyo,81,10
+140.238.61.78,2087,,TRUE,JP015,Asia Pacific,Tokyo,85,10
+168.138.209.244,2087,,TRUE,JP016,Asia Pacific,Tokyo,173,10
+151.145.71.40,2087,,TRUE,JP017,Asia Pacific,Tokyo,107,10
+158.179.180.233,8443,,TRUE,JP018,Asia Pacific,Tokyo,175,10
+52.147.69.148,443,,TRUE,JP019,Asia Pacific,Tokyo,198,10
+151.145.66.219,2096,,TRUE,JP020,Asia Pacific,Tokyo,183,10
+132.145.125.165,8443,,TRUE,JP021,Asia Pacific,Tokyo,65,10
+158.179.189.235,2083,,TRUE,JP022,Asia Pacific,Tokyo,179,10
+47.245.15.236,2096,,TRUE,JP023,Asia Pacific,Tokyo,178,10
+152.70.106.185,2087,,TRUE,JP024,Asia Pacific,Tokyo,200,10
+158.101.131.218,2083,,TRUE,JP025,Asia Pacific,Tokyo,183,10
+20.243.203.228,8443,,TRUE,JP026,Asia Pacific,Tokyo,191,10
+8.222.153.11,8443,,TRUE,JP027,Asia Pacific,Tokyo,70,10
+168.138.212.184,8443,,TRUE,JP028,Asia Pacific,Tokyo,87,10
+47.236.125.62,2087,,TRUE,JP029,Asia Pacific,Tokyo,100,10
+47.245.15.236,2087,,TRUE,JP030,Asia Pacific,Tokyo,75,10
+132.145.125.165,2087,,TRUE,JP031,Asia Pacific,Tokyo,82,10
+150.230.221.114,2087,,TRUE,JP032,Asia Pacific,Tokyo,82,10
+151.145.74.56,8443,,TRUE,JP033,Asia Pacific,Tokyo,69,10
+8.219.55.31,2083,,TRUE,JP034,Asia Pacific,Tokyo,162,10
+158.179.180.109,2083,,TRUE,JP035,Asia Pacific,Tokyo,121,10
+138.2.14.164,2096,,TRUE,JP036,Asia Pacific,Tokyo,88,10
+141.147.169.131,2096,,TRUE,JP037,Asia Pacific,Tokyo,110,10
+150.230.221.114,2053,,TRUE,JP038,Asia Pacific,Tokyo,74,10
+131.186.34.11,2053,,TRUE,JP039,Asia Pacific,Tokyo,79,10
+158.101.144.189,2053,,TRUE,JP040,,Unknow,,10
+193.122.125.174,2053,,TRUE,JP041,,Unknow,,10
+147.78.243.121,23576,,TRUE,JP043,,Unknow,,10
+103.117.102.7,46665,,TRUE,JP044,,Unknow,,10
+158.101.149.71,2053,,TRUE,JP045,,Unknow,,10
+132.145.127.21,2053,,TRUE,JP047,,Unknow,,10
+138.2.14.164,2053,,TRUE,JP048,,Unknow,,10
+158.179.182.19,2087,,TRUE,JP049,,Unknow,,10
+158.179.182.19,2083,,TRUE,JP050,,Unknow,,10
+158.179.186.251,2083,,TRUE,JP051,,Unknow,,10
+168.138.212.40,2083,,TRUE,JP052,,Unknow,,10
+47.74.7.51,2053,,TRUE,JP053,,Unknow,,10
+47.74.10.135,2087,,TRUE,JP054,,Unknow,,10
+47.74.10.135,2083,,TRUE,JP055,,Unknow,,10
+47.74.7.51,8443,,TRUE,JP056,,Unknow,,10
+158.179.186.251,8443,,TRUE,JP057,,Unknow,,10
+132.145.126.21,2087,,TRUE,JP058,,Unknow,,10
+47.74.42.111,2087,,TRUE,JP059,,Unknow,,10
+158.179.178.142,2096,,TRUE,JP060,,Unknow,,10
+147.78.245.145,34237,,TRUE,JP061,,Unknow,,10
+47.74.34.38,8443,,TRUE,JP062,,Unknow,,10
+132.145.126.21,8443,,TRUE,JP063,,Unknow,,10
+158.179.189.235,2087,,TRUE,JP066,,Unknow,,10
+39.126.158.244,12195,3-30-iptest,TRUE,JP067,,Unknow,,10
+39.126.158.244,12385,3-30-iptest,TRUE,JP068,,Unknow,,10
+47.74.43.24,8443,3-30-iptest,TRUE,JP069,,Unknow,,10
+8.209.240.229,2087,3-30-iptest,TRUE,JP070,,Unknow,,10
+47.245.15.236,2083,3-30-iptest,TRUE,JP071,,Unknow,,10
+8.222.153.11,2053,3-30-iptest,TRUE,JP072,Asia Pacific,Osaka,,10
+47.245.10.156,2082,3-30-iptest,FALSE,JP075,Asia Pacific,Osaka,,10
+47.245.56.29,2086,3-30-iptest,FALSE,JP077,Asia Pacific,Osaka,,10
+47.74.16.255,8080,3-30-iptest,FALSE,JP079,Asia Pacific,Osaka,,10
+47.245.40.161,8880,3-30-iptest,FALSE,JP080,Asia Pacific,Osaka,,10
+47.74.9.174,8880,3-30-iptest,FALSE,JP082,Asia Pacific,Osaka,,10
+47.74.7.51,2052,3-30-iptest,FALSE,JP083,Asia Pacific,Osaka,,10
+47.74.13.94,2086,3-30-iptest,FALSE,JP086,Asia Pacific,Osaka,,10
+47.74.42.111,80,3-30-iptest,FALSE,JP088,Asia Pacific,Osaka,,10
+8.209.243.99,2095,3-30-iptest,FALSE,JP089,Asia Pacific,Osaka,,10
+47.74.5.233,8880,3-30-iptest,FALSE,JP090,Asia Pacific,Osaka,,10
+8.209.200.73,8080,3-30-iptest,FALSE,JP091,Asia Pacific,Osaka,,10
+47.74.13.94,2082,3-30-iptest,FALSE,JP092,Asia Pacific,Osaka,,10
+47.74.34.38,2086,3-30-iptest,FALSE,JP093,Asia Pacific,Osaka,,10
+47.236.125.62,2086,3-30-iptest,FALSE,JP094,Asia Pacific,Osaka,,10
+47.245.33.163,8443,3-31-iptest,TRUE,JP095,Asia Pacific,Osaka,,10
+47.245.55.99,8080,3-31-iptest,FALSE,JP097,Asia Pacific,Osaka,,10
+47.91.18.207,8880,3-31-iptest,FALSE,JP098,Asia Pacific,Osaka,,10
+47.74.43.95,8080,3-31-iptest,FALSE,JP099,Asia Pacific,Osaka,,10
+47.245.15.236,2086,3-31-iptest,FALSE,JP100,Asia Pacific,Osaka,,10
+47.74.42.17,8880,3-31-iptest,FALSE,JP101,Asia Pacific,Osaka,,10
+47.74.13.200,2052,3-31-iptest,FALSE,JP102,Asia Pacific,Osaka,,10
+47.91.15.247,2086,3-31-iptest,FALSE,JP103,Asia Pacific,Osaka,,10
+47.74.27.211,2052,3-31-iptest,FALSE,JP105,Asia Pacific,Osaka,,10
+47.245.8.68,8880,3-31-iptest,FALSE,JP106,Asia Pacific,Osaka,,10
+47.245.54.197,2096,3-31-iptest,TRUE,JP108,Asia Pacific,Osaka,,10
+47.245.30.65,2052,3-31-iptest,FALSE,JP109,Asia Pacific,Osaka,,10
+47.91.19.249,2086,3-31-iptest,FALSE,JP110,Asia Pacific,Osaka,,10
+47.245.40.161,2086,3-31-iptest,FALSE,JP111,Asia Pacific,Osaka,,10
+47.74.11.9,2086,3-31-iptest,FALSE,JP113,Asia Pacific,Osaka,,10
+47.245.56.207,80,3-31-iptest,FALSE,JP114,Asia Pacific,Osaka,,10
+8.209.200.73,2095,3-31-iptest,FALSE,JP115,Asia Pacific,Osaka,,10
+47.245.2.231,2083,3-31-iptest,TRUE,JP118,Asia Pacific,Osaka,,10
+47.91.15.247,8443,3-31-iptest,TRUE,JP119,Asia Pacific,Osaka,,10
+47.245.56.121,2087,3-31-iptest,TRUE,JP121,Asia Pacific,Osaka,,10
+8.219.55.31,8443,4-1iptest,TRUE,JP122,Asia Pacific,Osaka,,10
+138.2.10.251,80,4-1iptest,FALSE,JP123,Asia Pacific,Osaka,,10
+138.3.212.162,2083,4-1iptest,TRUE,JP124,Asia Pacific,Osaka,,10
+132.145.125.165,2082,4-1iptest,FALSE,JP125,Asia Pacific,Osaka,,10
+47.74.16.255,2095,4-1iptest,FALSE,JP126,Asia Pacific,Osaka,,10
+47.91.29.108,2086,4-1iptest,FALSE,JP127,Asia Pacific,Osaka,,10
+47.74.37.50,2086,4-1iptest,FALSE,JP128,Asia Pacific,Osaka,,10
+47.245.40.161,2052,4-1iptest,FALSE,JP129,Asia Pacific,Osaka,,10
+47.245.59.188,8080,4-1iptest,FALSE,JP130,Asia Pacific,Osaka,,10
+47.74.37.50,8880,4-1iptest,FALSE,JP131,Asia Pacific,Osaka,,10
+47.245.15.236,8880,4-1iptest,FALSE,JP132,Asia Pacific,Osaka,,10
+132.145.123.112,2082,4-1iptest,FALSE,JP133,Asia Pacific,Osaka,,10
+47.74.15.80,2086,4-1iptest,FALSE,JP134,Asia Pacific,Osaka,,10
+47.245.56.29,2087,4-1iptest,TRUE,JP135,Asia Pacific,Osaka,,10
+47.245.52.153,2082,4-1iptest,FALSE,JP136,Asia Pacific,Osaka,,10
+132.145.120.182,2082,4-1iptest,FALSE,JP137,Asia Pacific,Osaka,,10
+8.209.240.229,8880,4-1iptest,FALSE,JP138,Asia Pacific,Osaka,,10
+47.74.14.85,8080,4-1iptest,FALSE,JP139,Asia Pacific,Osaka,,10
+158.179.182.19,8080,4-1iptest,FALSE,JP140,Asia Pacific,Osaka,,10
+47.74.12.139,2083,4-1iptest,TRUE,JP141,Asia Pacific,Osaka,,10
+141.147.160.86,2053,4-1iptest,TRUE,JP142,Asia Pacific,Osaka,,10
+158.101.70.155,2095,4-1iptest,FALSE,JP143,Asia Pacific,Osaka,,10
+151.145.65.203,80,4-1iptest,FALSE,JP144,Asia Pacific,Osaka,,10
+140.238.35.138,80,4-1iptest,FALSE,JP145,Asia Pacific,Osaka,,10
+47.91.19.249,2087,4-1iptest,TRUE,JP146,Asia Pacific,Osaka,,10
+138.3.212.162,2086,4-1iptest,FALSE,JP147,Asia Pacific,Osaka,,10
+168.138.212.184,2083,4-1iptest,TRUE,JP148,Asia Pacific,Osaka,,10
+47.74.11.251,2096,4-1iptest,TRUE,JP149,Asia Pacific,Osaka,,10
+8.209.243.172,2087,4-1iptest,TRUE,JP150,Asia Pacific,Osaka,,10
+150.230.219.83,2082,4-1iptest,FALSE,JP151,Asia Pacific,Osaka,,10
+131.186.61.45,2083,4-1iptest,TRUE,JP152,Asia Pacific,Osaka,,10
+152.70.86.93,443,4-1iptest,TRUE,JP153,Asia Pacific,Osaka,,10
+168.138.47.238,8443,4-1iptest,FALSE,JP154,Asia Pacific,Osaka,,10
+140.83.57.116,8443,4-1iptest,FALSE,JP155,Asia Pacific,Osaka,,10
+64.110.103.69,443,4-1iptest,TRUE,JP156,Asia Pacific,Osaka,,10
+64.110.104.30,443,4-1iptest,TRUE,JP157,Asia Pacific,Osaka,,10
+13.114.123.213,80,4-1iptest,TRUE,JP158,Asia Pacific,Osaka,,10
+,,,,JP159,Asia Pacific,Osaka,,10
+,,,,JP160,Asia Pacific,Osaka,,10
+,,,,JP161,Asia Pacific,Osaka,,10
 ,,,,,,,,
 ,,,,,,,,
 ,,,,,,,,
@@ -193,40 +270,6 @@ IP地址,端口,回源端口,TLS,数据中心,地区,城市,TCP延迟(ms),速度
 ,,,,,,,,
 ,,,,,,,,
 ,,,,,,,,
-,,,,,,,,
-,,,TRUE,HLR03,Europe,London,204,10
-8.222.136.196,2087,,TRUE,ICN001,Asia Pacific,Singapore,45,10
-8.222.155.242,2083,,TRUE,ICN002,Asia Pacific,Singapore,49,10
-47.236.7.13,2087,,TRUE,ICN003,Asia Pacific,Singapore,56,10
-47.128.164.52,9999,,TRUE,ICN004,Asia Pacific,Singapore,232,10
-8.222.244.192,2096,,TRUE,ICN005,Asia Pacific,Singapore,226,10
-8.222.150.197,2053,,TRUE,ICN006,Asia Pacific,Singapore,105,10
-8.222.215.228,2083,,TRUE,ICN007,Asia Pacific,Singapore,53,10
-8.222.168.24,2083,,TRUE,ICN008,Asia Pacific,Singapore,73,10
-47.236.123.218,8443,,TRUE,ICN009,Asia Pacific,Singapore,227,10
-8.222.160.176,2087,,TRUE,ICN010,Asia Pacific,Singapore,230,10
-132.145.83.155,33799,,TRUE,ICN011,Asia Pacific,Singapore,237,10
-110.13.212.97,20880,,TRUE,ICN012,Asia Pacific,Singapore,232,10
-175.125.207.253,33060,,TRUE,ICN013,Asia Pacific,Singapore,42,10
-58.141.125.141,30064,,TRUE,ICN014,Asia Pacific,Singapore,76,10
-49.1.224.137,24726,,TRUE,ICN015,Asia Pacific,Seoul,75,10
-219.240.54.189,10434,,TRUE,ICN016,Asia Pacific,Seoul,86,10
-14.54.63.38,50030,,TRUE,ICN017,Asia Pacific,Seoul,83,10
-58.140.88.28,30061,,TRUE,ICN018,Asia Pacific,Seoul,87,10
-111.118.49.163,10346,,TRUE,ICN019,Asia Pacific,Seoul,81,10
-58.141.125.141,30066,,TRUE,ICN020,Asia Pacific,Seoul,74,10
-193.122.122.16,40377,,TRUE,ICN021,Asia Pacific,Seoul,84,10
-180.70.218.108,10411,,TRUE,ICN022,Asia Pacific,Seoul,77,10
-152.70.234.188,443,,TRUE,ICN023,Asia Pacific,Seoul,83,10
-110.11.25.32,10488,,TRUE,ICN024,Asia Pacific,Seoul,77,10
-58.141.125.141,30053,,TRUE,ICN025,Asia Pacific,Seoul,205,10
-27.35.13.136,31703,,TRUE,ICN026,Asia Pacific,Seoul,78,10
-58.140.88.28,30054,,TRUE,ICN027,Asia Pacific,Seoul,83,10
-58.76.172.250,30055,,TRUE,ICN028,Asia Pacific,Seoul,99,10
-45.93.28.81,17975,,TRUE,ICN029,Asia Pacific,Seoul,79,10
-3.35.139.150,8443,3-30-iptest,TRUE,ICN030,Asia Pacific,Seoul,72,10
-52.141.31.169,8443,3-30-iptest,TRUE,ICN031,Asia Pacific,Seoul,87,10
-58.76.172.250,30059,3-30-iptest,TRUE,ICN032,Asia Pacific,Seoul,86,10
 47.236.170.54,2087,,TRUE,SIN001,Asia Pacific,Singapore,66,10
 8.222.188.56,2096,,TRUE,SIN002,Asia Pacific,Singapore,58,10
 47.236.123.133,8443,,TRUE,SIN003,Asia Pacific,Singapore,128,10
@@ -507,7 +550,44 @@ IP地址,端口,回源端口,TLS,数据中心,地区,城市,TCP延迟(ms),速度
 47.236.145.180,2083,3-31-iptest,TRUE,SIN283,Asia Pacific,Singapore,,10
 47.236.5.223,2096,3-31-iptest,TRUE,SIN284,Asia Pacific,Singapore,,10
 47.236.5.223,2086,3-31-iptest,FALSE,SIN285,Asia Pacific,Singapore,,10
-,,,,SIN286,Asia Pacific,Singapore,,10
+47.236.123.133,80,4-1iptest,FALSE,SIN286,Asia Pacific,Singapore,,10
+8.222.187.107,2086,4-1iptest,FALSE,SIN287,Asia Pacific,Singapore,,11
+8.219.170.58,8080,4-1iptest,FALSE,SIN288,Asia Pacific,Singapore,,12
+8.222.128.131,2082,4-1iptest,FALSE,SIN289,Asia Pacific,Singapore,,13
+47.236.192.198,2052,4-1iptest,FALSE,SIN290,Asia Pacific,Singapore,,14
+47.236.88.181,8080,4-1iptest,FALSE,SIN291,Asia Pacific,Singapore,,15
+8.219.171.6,2087,4-1iptest,TRUE,SIN292,Asia Pacific,Singapore,,16
+8.222.168.155,2087,4-1iptest,TRUE,SIN293,Asia Pacific,Singapore,,17
+8.222.167.147,2096,4-1iptest,TRUE,SIN294,Asia Pacific,Singapore,,18
+47.236.76.199,8080,4-1iptest,FALSE,SIN295,Asia Pacific,Singapore,,19
+8.219.113.232,2053,4-1iptest,TRUE,SIN296,Asia Pacific,Singapore,,20
+8.219.171.6,8880,4-1iptest,FALSE,SIN297,Asia Pacific,Singapore,,21
+8.222.140.185,2082,4-1iptest,FALSE,SIN298,Asia Pacific,Singapore,,22
+8.222.191.158,2086,4-1iptest,FALSE,SIN299,Asia Pacific,Singapore,,23
+8.219.42.72,80,4-1iptest,FALSE,SIN300,Asia Pacific,Singapore,,24
+8.219.198.139,2052,4-1iptest,FALSE,SIN301,Asia Pacific,Singapore,,25
+47.236.94.109,8880,4-1iptest,FALSE,SIN302,Asia Pacific,Singapore,,26
+47.236.99.131,2095,4-1iptest,FALSE,SIN303,Asia Pacific,Singapore,,27
+8.222.238.141,80,4-1iptest,FALSE,SIN304,Asia Pacific,Singapore,,28
+47.236.176.144,8080,4-1iptest,FALSE,SIN305,Asia Pacific,Singapore,,29
+8.222.164.209,2086,4-1iptest,FALSE,SIN306,Asia Pacific,Singapore,,30
+8.222.128.131,8080,4-1iptest,FALSE,SIN307,Asia Pacific,Singapore,,31
+47.236.94.113,80,4-1iptest,FALSE,SIN308,Asia Pacific,Singapore,,32
+47.236.169.236,80,4-1iptest,FALSE,SIN309,Asia Pacific,Singapore,,33
+8.222.154.227,80,4-1iptest,FALSE,SIN310,Asia Pacific,Singapore,,34
+8.222.155.242,2082,4-1iptest,FALSE,SIN311,Asia Pacific,Singapore,,35
+47.236.114.167,2087,4-1iptest,TRUE,SIN312,Asia Pacific,Singapore,,36
+8.219.6.157,2096,4-1iptest,TRUE,SIN313,Asia Pacific,Singapore,,37
+8.222.167.8,80,4-1iptest,FALSE,SIN314,Asia Pacific,Singapore,,38
+47.236.92.191,2087,4-1iptest,TRUE,SIN315,Asia Pacific,Singapore,,39
+8.222.152.71,2086,4-1iptest,FALSE,SIN316,Asia Pacific,Singapore,,40
+47.236.192.198,2087,4-1iptest,TRUE,SIN317,Asia Pacific,Singapore,,41
+47.236.161.110,2053,4-1iptest,TRUE,SIN318,Asia Pacific,Singapore,,42
+8.219.173.195,8080,4-1iptest,FALSE,SIN319,Asia Pacific,Singapore,,43
+47.236.121.7,2096,4-1iptest,TRUE,SIN320,Asia Pacific,Singapore,,44
+,,,,SIN321,Asia Pacific,Singapore,,45
+,,,,SIN322,Asia Pacific,Singapore,,46
+,,,,SIN323,Asia Pacific,Singapore,,47
 ,,,,,,,,
 ,,,,,,,,
 ,,,,,,,,
@@ -521,138 +601,44 @@ IP地址,端口,回源端口,TLS,数据中心,地区,城市,TCP延迟(ms),速度
 ,,,,,,,,
 ,,,,,,,,
 ,,,,,,,,
+8.222.136.196,2087,,TRUE,ICN001,Asia Pacific,Singapore,45,10
+8.222.155.242,2083,,TRUE,ICN002,Asia Pacific,Singapore,49,10
+47.236.7.13,2087,,TRUE,ICN003,Asia Pacific,Singapore,56,10
+47.128.164.52,9999,,TRUE,ICN004,Asia Pacific,Singapore,232,10
+8.222.244.192,2096,,TRUE,ICN005,Asia Pacific,Singapore,226,10
+8.222.150.197,2053,,TRUE,ICN006,Asia Pacific,Singapore,105,10
+8.222.215.228,2083,,TRUE,ICN007,Asia Pacific,Singapore,53,10
+8.222.168.24,2083,,TRUE,ICN008,Asia Pacific,Singapore,73,10
+47.236.123.218,8443,,TRUE,ICN009,Asia Pacific,Singapore,227,10
+8.222.160.176,2087,,TRUE,ICN010,Asia Pacific,Singapore,230,10
+132.145.83.155,33799,,TRUE,ICN011,Asia Pacific,Singapore,237,10
+110.13.212.97,20880,,TRUE,ICN012,Asia Pacific,Singapore,232,10
+175.125.207.253,33060,,TRUE,ICN013,Asia Pacific,Singapore,42,10
+58.141.125.141,30064,,TRUE,ICN014,Asia Pacific,Singapore,76,10
+49.1.224.137,24726,,TRUE,ICN015,Asia Pacific,Seoul,75,10
+219.240.54.189,10434,,TRUE,ICN016,Asia Pacific,Seoul,86,10
+14.54.63.38,50030,,TRUE,ICN017,Asia Pacific,Seoul,83,10
+58.140.88.28,30061,,TRUE,ICN018,Asia Pacific,Seoul,87,10
+111.118.49.163,10346,,TRUE,ICN019,Asia Pacific,Seoul,81,10
+58.141.125.141,30066,,TRUE,ICN020,Asia Pacific,Seoul,74,10
+193.122.122.16,40377,,TRUE,ICN021,Asia Pacific,Seoul,84,10
+180.70.218.108,10411,,TRUE,ICN022,Asia Pacific,Seoul,77,10
+152.70.234.188,443,,TRUE,ICN023,Asia Pacific,Seoul,83,10
+110.11.25.32,10488,,TRUE,ICN024,Asia Pacific,Seoul,77,10
+58.141.125.141,30053,,TRUE,ICN025,Asia Pacific,Seoul,205,10
+27.35.13.136,31703,,TRUE,ICN026,Asia Pacific,Seoul,78,10
+58.140.88.28,30054,,TRUE,ICN027,Asia Pacific,Seoul,83,10
+58.76.172.250,30055,,TRUE,ICN028,Asia Pacific,Seoul,99,10
+45.93.28.81,17975,,TRUE,ICN029,Asia Pacific,Seoul,79,10
+3.35.139.150,8443,3-30-iptest,TRUE,ICN030,Asia Pacific,Seoul,72,10
+52.141.31.169,8443,3-30-iptest,TRUE,ICN031,Asia Pacific,Seoul,87,10
+58.76.172.250,30059,3-30-iptest,TRUE,ICN032,Asia Pacific,Seoul,86,10
 ,,,,,,,,
 ,,,,,,,,
 ,,,,,,,,
 ,,,,,,,,
 ,,,,,,,,
 ,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-45.66.128.148,48792,,TRUE,JP001,Asia Pacific,Tokyo,85,10
-129.154.212.181,44699,,TRUE,JP002,Asia Pacific,Tokyo,71,10
-132.145.125.165,2083,,TRUE,JP003,Asia Pacific,Tokyo,193,10
-193.32.151.17,38489,,TRUE,JP004,Asia Pacific,Tokyo,60,10
-151.145.65.8,2053,,TRUE,JP005,Asia Pacific,Tokyo,81,10
-8.219.55.31,2053,,TRUE,JP006,Asia Pacific,Tokyo,87,10
-147.78.243.121,31172,,TRUE,JP007,Asia Pacific,Tokyo,174,10
-151.145.66.219,2083,,TRUE,JP008,Asia Pacific,Tokyo,94,10
-45.143.234.181,56649,,TRUE,JP009,Asia Pacific,Tokyo,178,10
-151.145.74.199,2053,,TRUE,JP010,Asia Pacific,Tokyo,176,10
-158.179.178.145,8443,,TRUE,JP011,Asia Pacific,Tokyo,69,10
-168.138.206.68,8443,,TRUE,JP012,Asia Pacific,Tokyo,62,10
-158.179.189.106,2087,,TRUE,JP013,Asia Pacific,Tokyo,79,10
-158.101.133.129,2087,,TRUE,JP014,Asia Pacific,Tokyo,81,10
-140.238.61.78,2087,,TRUE,JP015,Asia Pacific,Tokyo,85,10
-168.138.209.244,2087,,TRUE,JP016,Asia Pacific,Tokyo,173,10
-151.145.71.40,2087,,TRUE,JP017,Asia Pacific,Tokyo,107,10
-158.179.180.233,8443,,TRUE,JP018,Asia Pacific,Tokyo,175,10
-52.147.69.148,443,,TRUE,JP019,Asia Pacific,Tokyo,198,10
-151.145.66.219,2096,,TRUE,JP020,Asia Pacific,Tokyo,183,10
-132.145.125.165,8443,,TRUE,JP021,Asia Pacific,Tokyo,65,10
-158.179.189.235,2083,,TRUE,JP022,Asia Pacific,Tokyo,179,10
-47.245.15.236,2096,,TRUE,JP023,Asia Pacific,Tokyo,178,10
-152.70.106.185,2087,,TRUE,JP024,Asia Pacific,Tokyo,200,10
-158.101.131.218,2083,,TRUE,JP025,Asia Pacific,Tokyo,183,10
-20.243.203.228,8443,,TRUE,JP026,Asia Pacific,Tokyo,191,10
-8.222.153.11,8443,,TRUE,JP027,Asia Pacific,Tokyo,70,10
-168.138.212.184,8443,,TRUE,JP028,Asia Pacific,Tokyo,87,10
-47.236.125.62,2087,,TRUE,JP029,Asia Pacific,Tokyo,100,10
-47.245.15.236,2087,,TRUE,JP030,Asia Pacific,Tokyo,75,10
-132.145.125.165,2087,,TRUE,JP031,Asia Pacific,Tokyo,82,10
-150.230.221.114,2087,,TRUE,JP032,Asia Pacific,Tokyo,82,10
-151.145.74.56,8443,,TRUE,JP033,Asia Pacific,Tokyo,69,10
-8.219.55.31,2083,,TRUE,JP034,Asia Pacific,Tokyo,162,10
-158.179.180.109,2083,,TRUE,JP035,Asia Pacific,Tokyo,121,10
-138.2.14.164,2096,,TRUE,JP036,Asia Pacific,Tokyo,88,10
-132.145.127.51,2096,,TRUE,JP037,Asia Pacific,Tokyo,110,10
-141.147.169.131,2096,,TRUE,JP038,Asia Pacific,Tokyo,74,10
-150.230.221.114,2053,,TRUE,JP039,Asia Pacific,Tokyo,79,10
-131.186.34.11,2053,,TRUE,JP040,,Unknow,,10
-158.101.144.189,2053,,TRUE,JP041,,Unknow,,10
-132.145.121.125,2053,,TRUE,JP042,,Unknow,,10
-193.122.125.174,2053,,TRUE,JP043,,Unknow,,10
-147.78.243.121,23576,,TRUE,JP044,,Unknow,,10
-103.117.102.7,46665,,TRUE,JP045,,Unknow,,10
-158.101.150.126,8443,,TRUE,JP046,,Unknow,,10
-158.101.149.71,2053,,TRUE,JP047,,Unknow,,10
-132.145.127.21,2053,,TRUE,JP048,,Unknow,,10
-138.2.14.164,2053,,TRUE,JP049,,Unknow,,10
-158.179.182.19,2087,,TRUE,JP050,,Unknow,,10
-158.179.182.19,2083,,TRUE,JP051,,Unknow,,10
-158.179.186.251,2083,,TRUE,JP052,,Unknow,,10
-168.138.212.40,2083,,TRUE,JP053,,Unknow,,10
-47.74.7.51,2053,,TRUE,JP054,,Unknow,,10
-47.74.10.135,2087,,TRUE,JP055,,Unknow,,10
-47.74.10.135,2083,,TRUE,JP056,,Unknow,,10
-47.74.7.51,8443,,TRUE,JP057,,Unknow,,10
-158.179.186.251,8443,,TRUE,JP058,,Unknow,,10
-132.145.126.21,2087,,TRUE,JP059,,Unknow,,10
-47.74.42.111,2087,,TRUE,JP060,,Unknow,,10
-158.179.178.142,2096,,TRUE,JP061,,Unknow,,10
-147.78.245.145,34237,,TRUE,JP062,,Unknow,,10
-47.74.34.38,8443,,TRUE,JP063,,Unknow,,10
-158.101.150.126,2096,,TRUE,JP064,,Unknow,,10
-47.245.11.118,2083,,TRUE,JP065,,Unknow,,10
-132.145.126.21,8443,,TRUE,JP066,,Unknow,,10
-158.179.189.235,2087,,TRUE,JP067,,Unknow,,10
-39.126.158.244,12195,3-30-iptest,TRUE,JP068,Asia Pacific,Osaka,,10
-39.126.158.244,12385,3-30-iptest,TRUE,JP069,Asia Pacific,Osaka,,10
-47.74.43.24,8443,3-30-iptest,TRUE,JP070,Asia Pacific,Osaka,,10
-8.209.240.229,2087,3-30-iptest,TRUE,JP071,Asia Pacific,Osaka,,10
-47.245.15.236,2083,3-30-iptest,TRUE,JP072,Asia Pacific,Osaka,,10
-47.245.32.215,2083,3-30-iptest,TRUE,JP073,Asia Pacific,Osaka,,10
-47.91.3.112,2087,3-30-iptest,TRUE,JP074,Asia Pacific,Osaka,,10
-8.222.153.11,2053,3-30-iptest,TRUE,JP075,Asia Pacific,Osaka,,10
-131.186.44.38,2086,3-30-iptest,TRUE,JP076,Asia Pacific,Osaka,,10
-47.245.10.156,2082,3-30-iptest,FALSE,JP077,Asia Pacific,Osaka,,10
-47.91.3.112,2052,3-30-iptest,FALSE,JP078,Asia Pacific,Osaka,,10
-47.245.56.29,2086,3-30-iptest,FALSE,JP079,Asia Pacific,Osaka,,10
-47.74.16.255,8080,3-30-iptest,FALSE,JP080,Asia Pacific,Osaka,,10
-47.74.5.99,8880,3-30-iptest,FALSE,JP081,Asia Pacific,Osaka,,10
-47.245.40.161,8880,3-30-iptest,FALSE,JP082,Asia Pacific,Osaka,,10
-47.74.9.174,8880,3-30-iptest,FALSE,JP083,Asia Pacific,Osaka,,10
-47.245.37.94,2095,3-30-iptest,FALSE,JP084,Asia Pacific,Osaka,,10
-47.91.2.5,80,3-30-iptest,FALSE,JP085,Asia Pacific,Osaka,,10
-47.74.7.51,2052,3-30-iptest,FALSE,JP086,Asia Pacific,Osaka,,10
-47.74.27.151,80,3-30-iptest,FALSE,JP087,Asia Pacific,Osaka,,10
-47.74.13.94,2086,3-30-iptest,FALSE,JP088,Asia Pacific,Osaka,,10
-47.74.42.111,80,3-30-iptest,FALSE,JP089,Asia Pacific,Osaka,,10
-8.209.243.99,2095,3-30-iptest,FALSE,JP090,Asia Pacific,Osaka,,10
-47.74.5.233,8880,3-30-iptest,FALSE,JP091,Asia Pacific,Osaka,,10
-8.209.200.73,8080,3-30-iptest,FALSE,JP092,Asia Pacific,Osaka,,10
-47.74.13.94,2082,3-30-iptest,FALSE,JP093,Asia Pacific,Osaka,,10
-47.74.34.38,2086,3-30-iptest,FALSE,JP094,Asia Pacific,Osaka,,10
-47.236.125.62,2086,3-30-iptest,FALSE,JP095,Asia Pacific,Osaka,,10
-8.209.243.137,2087,3-31-iptest,TRUE,JP096,Asia Pacific,Osaka,,10
-47.245.33.163,8443,3-31-iptest,TRUE,JP097,Asia Pacific,Osaka,,10
-47.245.55.99,8080,3-31-iptest,FALSE,JP098,Asia Pacific,Osaka,,10
-47.91.18.207,8880,3-31-iptest,FALSE,JP099,Asia Pacific,Osaka,,10
-47.74.43.95,8080,3-31-iptest,FALSE,JP100,Asia Pacific,Osaka,,10
-47.245.15.236,2086,3-31-iptest,FALSE,JP101,Asia Pacific,Osaka,,10
-47.74.42.17,8880,3-31-iptest,FALSE,JP102,Asia Pacific,Osaka,,10
-47.74.13.200,2052,3-31-iptest,FALSE,JP103,Asia Pacific,Osaka,,10
-47.74.34.73,2086,3-31-iptest,FALSE,JP104,Asia Pacific,Osaka,,10
-47.91.15.247,2086,3-31-iptest,FALSE,JP105,Asia Pacific,Osaka,,10
-47.74.27.211,2052,3-31-iptest,FALSE,JP106,Asia Pacific,Osaka,,10
-47.245.37.94,2095,3-31-iptest,FALSE,JP107,Asia Pacific,Osaka,,10
-47.245.8.68,8880,3-31-iptest,FALSE,JP108,Asia Pacific,Osaka,,10
-47.245.54.197,2096,3-31-iptest,TRUE,JP109,Asia Pacific,Osaka,,10
-47.245.30.65,2052,3-31-iptest,FALSE,JP110,Asia Pacific,Osaka,,10
-47.91.19.249,2086,3-31-iptest,FALSE,JP111,Asia Pacific,Osaka,,10
-47.91.14.47,8080,3-31-iptest,FALSE,JP112,Asia Pacific,Osaka,,10
-47.245.40.161,2086,3-31-iptest,FALSE,JP113,Asia Pacific,Osaka,,10
-47.74.11.9,2086,3-31-iptest,FALSE,JP114,Asia Pacific,Osaka,,10
-47.245.56.207,80,3-31-iptest,FALSE,JP115,Asia Pacific,Osaka,,10
-47.74.5.99,2096,3-31-iptest,TRUE,JP116,Asia Pacific,Osaka,,10
-47.74.13.239,2053,3-31-iptest,TRUE,JP117,Asia Pacific,Osaka,,10
-8.209.200.73,2095,3-31-iptest,FALSE,JP118,Asia Pacific,Osaka,,10
-47.245.2.231,2083,3-31-iptest,TRUE,JP119,Asia Pacific,Osaka,,10
-47.245.4.219,2096,3-31-iptest,TRUE,JP120,Asia Pacific,Osaka,,10
-47.91.15.247,8443,3-31-iptest,TRUE,JP121,Asia Pacific,Osaka,,10
-47.245.56.121,2087,3-31-iptest,TRUE,JP122,Asia Pacific,Osaka,,10
 ,,,,,,,,
 ,,,,,,,,
 ,,,,,,,,
@@ -692,82 +678,87 @@ IP地址,端口,回源端口,TLS,数据中心,地区,城市,TCP延迟(ms),速度
 154.40.46.5,40299,,TRUE,LAX027,North America,Los Angeles,170,10
 107.175.224.66,55684,,TRUE,LAX028,North America,Los Angeles,147,10
 89.213.184.236,17618,,TRUE,LAX029,North America,Los Angeles,89,10
-154.12.39.241,13789,,TRUE,LAX030,North America,Los Angeles,171,10
-154.9.251.186,34237,,TRUE,LAX031,North America,Los Angeles,177,10
-63.135.162.184,48636,,TRUE,LAX032,North America,Los Angeles,152,10
-89.213.182.222,34237,,TRUE,LAX033,North America,Los Angeles,253,10
-154.9.251.185,34237,,TRUE,LAX034,North America,Los Angeles,254,10
-89.213.182.14,34661,,TRUE,LAX035,North America,Los Angeles,,10
-192.3.242.80,28946,,TRUE,LAX036,North America,Los Angeles,,10
-23.94.213.132,27149,,TRUE,LAX037,North America,Los Angeles,,10
-154.7.180.15,7,,TRUE,LAX038,North America,Los Angeles,,10
-154.9.251.200,34237,,TRUE,LAX039,North America,Los Angeles,,10
-154.40.33.108,49430,,TRUE,LAX040,North America,Los Angeles,,10
-154.9.249.227,10001,,TRUE,LAX041,North America,Los Angeles,,10
-154.9.251.222,34237,,TRUE,LAX042,North America,Los Angeles,,10
-38.47.114.77,34237,,TRUE,LAX043,North America,Los Angeles,,10
-38.47.116.229,34237,,TRUE,LAX044,North America,Los Angeles,,10
-154.7.181.207,40893,,TRUE,LAX045,North America,Los Angeles,,10
-154.7.179.92,34299,,TRUE,LAX046,North America,Los Angeles,,10
-154.40.46.28,46757,,TRUE,LAX047,North America,Los Angeles,,10
-154.7.180.15,1,,TRUE,LAX048,North America,Los Angeles,,10
-154.17.21.194,15868,qundmit,TRUE,LAX049,North America,Los Angeles,,10
-154.17.3.181,51053,qundmit,TRUE,LAX050,North America,Los Angeles,,10
-65.75.192.35,22857,qundmit,TRUE,LAX051,North America,Los Angeles,,10
-154.17.27.49,2012,qundmit,TRUE,LAX052,North America,Los Angeles,,10
-154.17.17.205,8443,qundmit,TRUE,LAX053,North America,Los Angeles,,10
-65.75.193.13,24245,qundmit,TRUE,LAX054,North America,Los Angeles,,10
-174.136.206.70,44698,qundmit,TRUE,LAX055,North America,Los Angeles,,10
-65.75.195.188,12257,qundmit,TRUE,LAX056,North America,Los Angeles,,10
-65.75.194.110,23839,qundmit,TRUE,LAX057,North America,Los Angeles,,10
-174.136.205.92,28662,qundmit,TRUE,LAX058,North America,Los Angeles,,10
-154.17.27.49,2003,qundmit,TRUE,LAX059,North America,Los Angeles,,10
-154.17.27.49,2011,qundmit,TRUE,LAX060,North America,Los Angeles,,10
-154.21.87.65,18296,qundmit,TRUE,LAX061,North America,Los Angeles,,10
-154.17.14.201,33999,qundmit,TRUE,LAX062,North America,Los Angeles,,10
-154.21.82.97,18470,qundmit,TRUE,LAX063,North America,Los Angeles,,10
-174.136.206.38,20443,qundmit,TRUE,LAX064,North America,Los Angeles,,10
-174.136.206.70,39880,qundmit,TRUE,LAX065,North America,Los Angeles,,10
-154.17.14.197,12306,qundmit,TRUE,LAX066,North America,Los Angeles,,10
-154.21.87.65,38149,qundmit,TRUE,LAX067,North America,Los Angeles,,10
-65.75.194.110,46197,qundmit,TRUE,LAX068,North America,Los Angeles,,10
-154.17.2.103,10740,qundmit,TRUE,LAX069,North America,Los Angeles,,10
-154.17.29.112,32568,qundmit,TRUE,LAX070,North America,Los Angeles,,10
-154.17.27.49,2009,qundmit,TRUE,LAX071,North America,Los Angeles,,10
-154.17.27.49,2008,qundmit,TRUE,LAX072,North America,Los Angeles,,10
-154.17.22.141,7489,qundmit,TRUE,LAX073,North America,Los Angeles,,10
-154.17.11.211,32939,qundmit,TRUE,LAX074,North America,Los Angeles,,10
-154.17.27.49,2005,qundmit,TRUE,LAX075,North America,Los Angeles,,10
-154.17.19.203,2009,qundmit,TRUE,LAX076,North America,Los Angeles,,10
-154.17.27.49,2004,qundmit,TRUE,LAX077,North America,Los Angeles,,10
-154.17.30.48,26269,qundmit,TRUE,LAX078,North America,Los Angeles,,10
-154.17.9.116,2096,qundmit,TRUE,LAX079,North America,Los Angeles,,10
-154.17.30.48,45456,qundmit,TRUE,LAX080,North America,Los Angeles,,10
-154.17.27.49,2006,qundmit,TRUE,LAX081,North America,Los Angeles,,10
-154.17.19.203,2008,qundmit,TRUE,LAX082,North America,Los Angeles,,10
-154.17.27.49,2007,qundmit,TRUE,LAX083,North America,Los Angeles,,10
-154.17.30.48,23233,qundmit,TRUE,LAX084,North America,Los Angeles,,10
-154.21.87.65,38779,qundmit,TRUE,LAX085,North America,Los Angeles,,10
-154.17.27.49,2002,qundmit,TRUE,LAX086,North America,Los Angeles,,10
-154.21.95.113,46100,qundmit,TRUE,LAX087,North America,Los Angeles,,10
-154.21.81.80,57414,qundmit,TRUE,LAX088,North America,Los Angeles,,10
-154.17.26.181,57600,qundmit,TRUE,LAX089,North America,Los Angeles,,10
-65.75.195.188,50795,qundmit,TRUE,LAX090,North America,Los Angeles,,10
-65.75.193.44,18334,qundmit,TRUE,LAX091,North America,Los Angeles,,10
-65.75.192.14,47402,qundmit,TRUE,LAX092,North America,Los Angeles,,10
-45.59.186.95,29288,qundmit,TRUE,LAX093,North America,Los Angeles,,10
-65.75.193.13,51144,qundmit,TRUE,LAX094,North America,Los Angeles,,10
-65.75.194.18,16888,qundmit,TRUE,LAX095,North America,Los Angeles,,10
-65.75.194.109,20443,qundmit,TRUE,LAX096,North America,Los Angeles,,10
-65.75.194.18,13888,qundmit,TRUE,LAX097,North America,Los Angeles,,10
-65.75.192.24,16478,qundmit,TRUE,LAX098,North America,Los Angeles,,10
+154.9.251.186,34237,,TRUE,LAX030,North America,Los Angeles,171,10
+63.135.162.184,48636,,TRUE,LAX031,North America,Los Angeles,177,10
+89.213.182.222,34237,,TRUE,LAX032,North America,Los Angeles,152,10
+154.9.251.185,34237,,TRUE,LAX033,North America,Los Angeles,253,10
+89.213.182.14,34661,,TRUE,LAX034,North America,Los Angeles,254,10
+192.3.242.80,28946,,TRUE,LAX035,North America,Los Angeles,,10
+154.7.180.15,7,,TRUE,LAX036,North America,Los Angeles,,10
+154.9.251.200,34237,,TRUE,LAX037,North America,Los Angeles,,10
+154.40.33.108,49430,,TRUE,LAX038,North America,Los Angeles,,10
+154.9.249.227,10001,,TRUE,LAX039,North America,Los Angeles,,10
+154.9.251.222,34237,,TRUE,LAX040,North America,Los Angeles,,10
+38.47.114.77,34237,,TRUE,LAX041,North America,Los Angeles,,10
+38.47.116.229,34237,,TRUE,LAX042,North America,Los Angeles,,10
+154.7.179.92,34299,,TRUE,LAX043,North America,Los Angeles,,10
+154.40.46.28,46757,,TRUE,LAX044,North America,Los Angeles,,10
+154.7.180.15,1,,TRUE,LAX045,North America,Los Angeles,,10
+154.17.21.194,15868,qundmit,TRUE,LAX046,North America,Los Angeles,,10
+154.17.3.181,51053,qundmit,TRUE,LAX047,North America,Los Angeles,,10
+65.75.192.35,22857,qundmit,TRUE,LAX048,North America,Los Angeles,,10
+154.17.27.49,2012,qundmit,TRUE,LAX049,North America,Los Angeles,,10
+154.17.17.205,8443,qundmit,TRUE,LAX050,North America,Los Angeles,,10
+65.75.193.13,24245,qundmit,TRUE,LAX051,North America,Los Angeles,,10
+174.136.206.70,44698,qundmit,TRUE,LAX052,North America,Los Angeles,,10
+65.75.195.188,12257,qundmit,TRUE,LAX053,North America,Los Angeles,,10
+65.75.194.110,23839,qundmit,TRUE,LAX054,North America,Los Angeles,,10
+174.136.205.92,28662,qundmit,TRUE,LAX055,North America,Los Angeles,,10
+154.17.27.49,2003,qundmit,TRUE,LAX056,North America,Los Angeles,,10
+154.17.27.49,2011,qundmit,TRUE,LAX057,North America,Los Angeles,,10
+154.21.87.65,18296,qundmit,TRUE,LAX058,North America,Los Angeles,,10
+154.17.14.201,33999,qundmit,TRUE,LAX059,North America,Los Angeles,,10
+154.21.82.97,18470,qundmit,TRUE,LAX060,North America,Los Angeles,,10
+174.136.206.38,20443,qundmit,TRUE,LAX061,North America,Los Angeles,,10
+174.136.206.70,39880,qundmit,TRUE,LAX062,North America,Los Angeles,,10
+154.17.14.197,12306,qundmit,TRUE,LAX063,North America,Los Angeles,,10
+154.21.87.65,38149,qundmit,TRUE,LAX064,North America,Los Angeles,,10
+65.75.194.110,46197,qundmit,TRUE,LAX065,North America,Los Angeles,,10
+154.17.2.103,10740,qundmit,TRUE,LAX066,North America,Los Angeles,,10
+154.17.29.112,32568,qundmit,TRUE,LAX067,North America,Los Angeles,,10
+154.17.27.49,2009,qundmit,TRUE,LAX068,North America,Los Angeles,,10
+154.17.27.49,2008,qundmit,TRUE,LAX069,North America,Los Angeles,,10
+154.17.22.141,7489,qundmit,TRUE,LAX070,North America,Los Angeles,,10
+154.17.11.211,32939,qundmit,TRUE,LAX071,North America,Los Angeles,,10
+154.17.27.49,2005,qundmit,TRUE,LAX072,North America,Los Angeles,,10
+154.17.19.203,2009,qundmit,TRUE,LAX073,North America,Los Angeles,,10
+154.17.27.49,2004,qundmit,TRUE,LAX074,North America,Los Angeles,,10
+154.17.30.48,26269,qundmit,TRUE,LAX075,North America,Los Angeles,,10
+154.17.9.116,2096,qundmit,TRUE,LAX076,North America,Los Angeles,,10
+154.17.30.48,45456,qundmit,TRUE,LAX077,North America,Los Angeles,,10
+154.17.27.49,2006,qundmit,TRUE,LAX078,North America,Los Angeles,,10
+154.17.19.203,2008,qundmit,TRUE,LAX079,North America,Los Angeles,,10
+154.17.27.49,2007,qundmit,TRUE,LAX080,North America,Los Angeles,,10
+154.17.30.48,23233,qundmit,TRUE,LAX081,North America,Los Angeles,,10
+154.21.87.65,38779,qundmit,TRUE,LAX082,North America,Los Angeles,,10
+154.17.27.49,2002,qundmit,TRUE,LAX083,North America,Los Angeles,,10
+154.21.95.113,46100,qundmit,TRUE,LAX084,North America,Los Angeles,,10
+154.21.81.80,57414,qundmit,TRUE,LAX085,North America,Los Angeles,,10
+154.17.26.181,57600,qundmit,TRUE,LAX086,North America,Los Angeles,,10
+65.75.195.188,50795,qundmit,TRUE,LAX087,North America,Los Angeles,,10
+65.75.193.44,18334,qundmit,TRUE,LAX088,North America,Los Angeles,,10
+65.75.192.14,47402,qundmit,TRUE,LAX089,North America,Los Angeles,,10
+45.59.186.95,29288,qundmit,TRUE,LAX090,North America,Los Angeles,,10
+65.75.193.13,51144,qundmit,TRUE,LAX091,North America,Los Angeles,,10
+65.75.194.18,16888,qundmit,TRUE,LAX092,North America,Los Angeles,,10
+65.75.194.109,20443,qundmit,TRUE,LAX093,North America,Los Angeles,,10
+65.75.194.18,13888,qundmit,TRUE,LAX094,North America,Los Angeles,,10
+65.75.192.24,16478,qundmit,TRUE,LAX095,North America,Los Angeles,,10
+154.9.236.72,34237,4-1iptest,TRUE,LAX096,North America,Los Angeles,,10
+154.9.241.14,34237,4-1iptest,TRUE,LAX097,North America,Los Angeles,,10
+154.40.57.206,34237,4-1iptest,TRUE,LAX098,North America,Los Angeles,,10
+154.7.183.12,58623,4-1iptest,TRUE,LAX099,North America,Los Angeles,,10
+154.40.32.107,33721,4-1iptest,TRUE,LAX100,North America,Los Angeles,,10
+2.59.151.136,22091,4-1iptest,TRUE,LAX101,North America,Los Angeles,,10
+,,,,LAX102,North America,Los Angeles,,10
+,,,,LAX103,North America,Los Angeles,,10
+,,,,LAX104,North America,Los Angeles,,10
+,,,,,North America,Los Angeles,,10
 ,,,,,,,,
 ,,,,,,,,
 ,,,,,,,,
 ,,,,,,,,
 ,,,,,,,,
-202.86.138.58,50000,443,TRUE,MFM,Asia Pacific,Macau,11,10
-182.93.14.10,20520,443,TRUE,MFM,Asia Pacific,Macau,9,10
 37.123.193.49,18008,,TRUE,SJC01,North America,San Jose,175,10
 38.59.249.142,20656,,TRUE,SJC02,North America,San Jose,184,10
 23.94.214.114,56162,,TRUE,SJC03,North America,San Jose,183,10
@@ -801,3 +792,28 @@ IP地址,端口,回源端口,TLS,数据中心,地区,城市,TCP延迟(ms),速度
 118.163.128.81,17333,,TRUE,TPE05,Asia Pacific,Taipei,,10
 211.75.74.232,4443,,TRUE,TPE06,Asia Pacific,Taipei,,10
 103.137.63.37,46832,,TRUE,TPE07,Asia Pacific,Taipei,,10
+,,,,,,,,
+,,,,,,,,
+13.36.230.17,8443,443,TRUE,CDG01,Europe,Paris,165,10
+141.147.45.195,2052,443,TRUE,CDG02,Europe,Paris,177,10
+141.144.204.27,8443,443,TRUE,AMS01,Europe,Amsterdam,180,10
+82.115.31.87,38057,,TRUE,FRA01,Europe,Frankfurt,232,10
+3.66.84.249,8443,,TRUE,FRA02,Europe,Frankfurt,165,10
+185.217.109.108,10001,,TRUE,FRA03,Europe,Frankfurt,166,10
+144.24.169.81,2053,,TRUE,FRA04,Europe,Frankfurt,151,10
+144.24.169.81,8443,,TRUE,FRA05,Europe,Frankfurt,148,10
+130.162.211.207,8443,,TRUE,FRA06,Europe,Frankfurt,189,10
+130.61.23.77,443,,TRUE,FRA07,Europe,Frankfurt,205,10
+130.61.109.6,2053,,TRUE,FRA08,Europe,Frankfurt,172,10
+144.24.173.250,2053,,TRUE,FRA09,Europe,Frankfurt,201,10
+144.24.173.250,2096,,TRUE,FRA10,Europe,Frankfurt,194,10
+144.24.189.21,8443,,TRUE,FRA11,Europe,Frankfurt,183,10
+129.159.241.172,443,,TRUE,FRA12,Europe,Frankfurt,182,10
+104.27.234.123,443,,TRUE,FRA13,Europe,Frankfurt,180,10
+104.28.42.19,443,,TRUE,FRA14,Europe,Frankfurt,179,10
+104.27.230.218,443,,TRUE,FRA15,Europe,Frankfurt,203,10
+34.116.152.212,443,4-1iptest,TRUE,FRA16,Europe,Frankfurt,209,10
+18.158.156.249,2053,4-1iptest,TRUE,FRA17,Europe,Frankfurt,212,10
+18.184.27.249,443,4-1iptest,TRUE,FRA18,Europe,Frankfurt,213,11
+141.147.61.116,2053,4-1iptest,TRUE,FRA19,Europe,Frankfurt,214,12
+34.65.137.19,443,4-1iptest,TRUE,FRA20,Europe,Frankfurt,215,13
