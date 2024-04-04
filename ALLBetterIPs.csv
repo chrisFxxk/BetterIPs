@@ -11,97 +11,97 @@ IP地址,端口,回源端口,TLS,数据中心,地区,城市,TCP延迟(ms),速度
 47.236.169.164,2083,443,TRUE,HKG007,Asia Pacific,Hong Kong,34,10
 8.222.145.164,2083,2083,TRUE,HKG008,Asia Pacific,Hong Kong,12,10
 146.56.177.67,61153,2083,TRUE,HKG009,Asia Pacific,Hong Kong,60,10
-38.207.179.190,33135,2083,TRUE,HKG010,Asia Pacific,Singapore,70,10
-47.236.193.208,2096,,TRUE,HKG011,Asia Pacific,Singapore,50,10
-8.222.211.124,2096,,TRUE,HKG012,Asia Pacific,Hong Kong,40,10
-8.222.134.170,2053,,TRUE,HKG013,Asia Pacific,Hong Kong,39,10
-202.81.231.30,55576,,TRUE,HKG014,Asia Pacific,Hong Kong,151,10
-101.235.197.211,15855,,TRUE,HKG015,Asia Pacific,Singapore,46,10
-47.236.147.146,2096,,TRUE,HKG016,Asia Pacific,Hong Kong,148,10
-47.236.173.200,2083,,TRUE,HKG017,Asia Pacific,Singapore,77,10
-47.236.169.236,2053,,TRUE,HKG018,Asia Pacific,Singapore,63,10
-47.236.148.174,2083,,TRUE,HKG019,Asia Pacific,Singapore,55,10
-58.82.242.199,20500,,TRUE,HKG020,Asia Pacific,Hong Kong,76,10
-58.82.242.199,34384,,TRUE,HKG021,Asia Pacific,Hong Kong,162,10
-58.82.242.199,12170,,TRUE,HKG022,Asia Pacific,Singapore,60,10
-43.154.196.20,65432,,TRUE,HKG023,Asia Pacific,Hong Kong,17,10
-52.141.25.42,443,,TRUE,HKG024,Asia Pacific,Singapore,245,10
-45.93.30.45,34237,,TRUE,HKG025,Asia Pacific,Singapore,243,10
-47.243.173.187,2083,,TRUE,HKG026,Asia Pacific,Hong Kong,65,10
-47.243.173.187,2096,,TRUE,HKG027,Asia Pacific,Hong Kong,114,10
-202.81.231.30,52100,,TRUE,HKG028,Asia Pacific,Hong Kong,83,10
-47.245.40.55,2053,3-30-qunsaomiao,TRUE,HKG029,Asia Pacific,Hong Kong,85,10
-47.236.5.223,2086,3-30-iptest,FALSE,HKG030,Asia Pacific,Hong Kong,110,10
-8.222.145.110,8080,3-30-iptest,FALSE,HKG031,Asia Pacific,Hong Kong,70,10
-47.236.176.144,2082,3-30-iptest,FALSE,HKG032,Asia Pacific,Hong Kong,173,10
-8.222.221.197,8880,3-30-iptest,FALSE,HKG033,Asia Pacific,Hong Kong,56,10
-47.236.168.17,8080,3-30-iptest,FALSE,HKG034,Asia Pacific,Hong Kong,21,10
-47.243.42.219,443,AS+ST3-31,TRUE,HKG035,Asia Pacific,Hong Kong,248,10
-47.245.57.38,8443,AS+ST3-31,TRUE,HKG036,Asia Pacific,Hong Kong,119,10
-47.245.6.9,8443,AS+ST3-31,TRUE,HKG037,Asia Pacific,Hong Kong,27,10
-47.243.42.219,8443,AS+ST3-31,TRUE,HKG038,Asia Pacific,Hong Kong,79,10
-47.243.173.187,8443,AS+ST3-31,TRUE,HKG039,Asia Pacific,Hong Kong,84,10
-47.243.42.219,2053,AS+ST3-31,TRUE,HKG040,Asia Pacific,Hong Kong,306,10
-47.245.6.9,2053,AS+ST3-31,TRUE,HKG041,Asia Pacific,Hong Kong,99,10
-47.245.57.38,2053,AS+ST3-31,TRUE,HKG042,Asia Pacific,Hong Kong,51,10
-47.245.4.22,2053,AS+ST3-31,TRUE,HKG043,Asia Pacific,Hong Kong,82,10
-47.245.40.55,2096,AS+ST3-31,TRUE,HKG044,Asia Pacific,Hong Kong,39,10
-47.245.57.38,2096,AS+ST3-31,TRUE,HKG045,Asia Pacific,Hong Kong,47,10
-47.245.40.55,2087,AS+ST3-31,TRUE,HKG046,Asia Pacific,Hong Kong,67,10
-47.245.6.9,2087,AS+ST3-31,TRUE,HKG047,Asia Pacific,Hong Kong,70,10
-47.245.57.38,2087,AS+ST3-31,TRUE,HKG048,Asia Pacific,Hong Kong,51,10
-47.245.4.22,2087,AS+ST3-31,TRUE,HKG049,Asia Pacific,Hong Kong,66,10
-47.245.40.55,8443,3-31-iptest,TRUE,HKG050,Asia Pacific,Hong Kong,57,10
-47.245.6.9,8080,3-31-iptest,FALSE,HKG051,Asia Pacific,Hong Kong,91,10
-47.245.6.9,2083,3-31-iptest,TRUE,HKG052,,Unknow,,10
-47.245.6.9,8880,3-31-iptest,FALSE,HKG053,,Unknow,,10
-47.245.4.22,8443,3-31-iptest,TRUE,HKG054,,Unknow,,10
-8.218.85.128,2086,4-1iptest,FALSE,HKG055,,Unknow,,10
-158.179.186.123,8880,4-1iptest,FALSE,HKG056,,Unknow,,10
-161.81.232.8,28532,4-1iptest,TRUE,HKG057,,Unknow,,10
-47.245.4.22,8080,4-1iptest,FALSE,HKG058,,Unknow,,10
-47.245.4.22,2052,4-1iptest,FALSE,HKG059,,Unknow,,10
-8.209.222.232,2096,4-1iptest,TRUE,HKG060,,Unknow,,10
-47.245.6.9,2095,4-1iptest,FALSE,HKG061,,Unknow,,10
-47.245.40.55,8880,4-1iptest,FALSE,HKG062,,Unknow,,10
-47.245.4.22,2095,4-1iptest,FALSE,HKG063,,Unknow,,10
-8.218.85.128,8880,4-2iptest,FALSE,HKG064,,Unknow,,10
-60.246.180.236,32544,4-2iptest,TRUE,HKG065,,Unknow,,10
-8.218.85.128,2052,4-2iptest,FALSE,HKG066,,Unknow,,10
-47.245.6.9,2086,4-2iptest,FALSE,HKG067,,Unknow,,10
-,,,,HKG068,,Unknow,,10
-,,,,HKG069,,Unknow,,10
-,,,,HKG070,,Unknow,,10
-,,,,HKG071,,Unknow,,10
-,,,,HKG072,,Unknow,,10
-,,,,HKG073,,Unknow,,10
-,,,,HKG074,,Unknow,,10
-,,,,HKG075,,Unknow,,10
-,,,,HKG076,,Unknow,,10
-,,,,HKG077,,Unknow,,10
-,,,,HKG078,,Unknow,,10
-,,,,HKG079,,Unknow,,10
-,,,,HKG080,,Unknow,,10
-,,,,HKG081,,Unknow,,10
-,,,,HKG082,,Unknow,,10
-,,,,HKG083,,Unknow,,10
-,,,,HKG084,,Unknow,,10
-,,,,HKG085,,Unknow,,10
-,,,,HKG086,,Unknow,,10
-,,,,HKG087,,Unknow,,10
-,,,,HKG088,,Unknow,,10
-,,,,HKG089,,Unknow,,10
-,,,,HKG090,,Unknow,,10
-,,,,HKG091,,Unknow,,10
-,,,,HKG092,,Unknow,,10
-,,,,HKG093,,Unknow,,10
-,,,,HKG094,,Unknow,,10
-,,,,HKG095,,Unknow,,10
-,,,,HKG096,,Unknow,,10
-,,,,HKG097,,Unknow,,10
-,,,,HKG098,,Unknow,,10
-,,,,HKG099,,Unknow,,10
-,,,,HKG100,,Unknow,,10
+47.236.193.208,2096,,TRUE,HKG010,Asia Pacific,Singapore,70,10
+8.222.211.124,2096,,TRUE,HKG011,Asia Pacific,Singapore,50,10
+8.222.134.170,2053,,TRUE,HKG012,Asia Pacific,Hong Kong,40,10
+202.81.231.30,55576,,TRUE,HKG013,Asia Pacific,Hong Kong,39,10
+47.236.147.146,2096,,TRUE,HKG014,Asia Pacific,Hong Kong,151,10
+47.236.173.200,2083,,TRUE,HKG015,Asia Pacific,Singapore,46,10
+47.236.169.236,2053,,TRUE,HKG016,Asia Pacific,Hong Kong,148,10
+47.236.148.174,2083,,TRUE,HKG017,Asia Pacific,Singapore,77,10
+52.141.25.42,443,,TRUE,HKG018,Asia Pacific,Singapore,63,10
+45.93.30.45,34237,,TRUE,HKG019,Asia Pacific,Singapore,55,10
+47.243.173.187,2083,,TRUE,HKG020,Asia Pacific,Hong Kong,76,10
+47.243.173.187,2096,,TRUE,HKG021,Asia Pacific,Hong Kong,162,10
+202.81.231.30,52100,,TRUE,HKG022,Asia Pacific,Singapore,60,10
+47.236.5.223,2086,3-30-iptest,FALSE,HKG023,Asia Pacific,Hong Kong,17,10
+8.222.145.110,8080,3-30-iptest,FALSE,HKG024,Asia Pacific,Singapore,245,10
+47.236.176.144,2082,3-30-iptest,FALSE,HKG025,Asia Pacific,Singapore,243,10
+8.222.221.197,8880,3-30-iptest,FALSE,HKG026,Asia Pacific,Hong Kong,65,10
+47.236.168.17,8080,3-30-iptest,FALSE,HKG027,Asia Pacific,Hong Kong,114,10
+47.243.173.187,8443,AS+ST3-31,TRUE,HKG028,Asia Pacific,Hong Kong,83,10
+158.179.186.123,8880,4-1iptest,FALSE,HKG029,Asia Pacific,Hong Kong,85,10
+161.81.232.8,28532,4-1iptest,TRUE,HKG030,Asia Pacific,Hong Kong,110,10
+8.209.222.232,2096,4-1iptest,TRUE,HKG031,Asia Pacific,Hong Kong,70,10
+60.246.180.236,32544,4-2iptest,TRUE,HKG032,Asia Pacific,Hong Kong,173,10
+8.209.255.195,2083,,TRUE,HKG033,Asia Pacific,Hong Kong,56,10
+47.76.49.246,2096,,TRUE,HKG034,Asia Pacific,Hong Kong,21,10
+8.222.197.251,2096,,TRUE,HKG035,Asia Pacific,Hong Kong,248,10
+8.222.227.191,2083,,TRUE,HKG036,Asia Pacific,Hong Kong,119,10
+47.242.155.183,2053,,TRUE,HKG037,Asia Pacific,Hong Kong,27,10
+47.76.32.108,2087,,TRUE,HKG038,Asia Pacific,Hong Kong,79,10
+47.236.194.67,2096,,TRUE,HKG039,Asia Pacific,Hong Kong,84,10
+47.242.155.183,8443,,TRUE,HKG040,Asia Pacific,Hong Kong,306,10
+47.242.155.183,2087,,TRUE,HKG041,Asia Pacific,Hong Kong,99,10
+47.236.165.25,2096,,TRUE,HKG042,Asia Pacific,Hong Kong,51,10
+138.2.14.248,2087,,TRUE,HKG043,Asia Pacific,Hong Kong,82,10
+131.186.40.31,2096,,TRUE,HKG044,Asia Pacific,Hong Kong,39,10
+8.222.174.108,2087,,TRUE,HKG045,Asia Pacific,Hong Kong,47,10
+131.186.59.232,2096,,TRUE,HKG046,Asia Pacific,Hong Kong,67,10
+131.186.40.31,8443,,TRUE,HKG047,Asia Pacific,Hong Kong,70,10
+47.76.37.57,2083,,TRUE,HKG048,Asia Pacific,Hong Kong,51,10
+132.145.121.242,8443,,TRUE,HKG049,Asia Pacific,Hong Kong,66,10
+8.209.222.232,2053,,TRUE,HKG050,Asia Pacific,Hong Kong,57,10
+138.2.31.68,8443,,TRUE,HKG051,Asia Pacific,Hong Kong,91,10
+131.186.40.31,2087,,TRUE,HKG052,,Unknow,,10
+131.186.40.31,2053,,TRUE,HKG053,,Unknow,,10
+138.2.36.216,443,,TRUE,HKG054,,Unknow,,10
+138.2.31.68,2096,,TRUE,HKG055,,Unknow,,10
+138.2.14.248,8443,,TRUE,HKG056,,Unknow,,10
+141.147.178.135,2087,,TRUE,HKG057,,Unknow,,10
+47.236.144.48,2053,,TRUE,HKG058,,Unknow,,10
+138.2.14.248,2083,,TRUE,HKG059,,Unknow,,10
+158.179.186.123,2087,,TRUE,HKG060,,Unknow,,10
+8.217.122.158,8443,,TRUE,HKG061,,Unknow,,10
+138.2.14.248,2096,,TRUE,HKG062,,Unknow,,10
+132.145.121.242,2087,,TRUE,HKG063,,Unknow,,10
+47.76.37.57,2053,,TRUE,HKG064,,Unknow,,10
+,,,TRUE,HKG065,,Unknow,,10
+,,,TRUE,HKG066,,Unknow,,10
+,,,TRUE,HKG067,,Unknow,,10
+,,,TRUE,HKG068,,Unknow,,10
+,,,TRUE,HKG069,,Unknow,,10
+,,,TRUE,HKG070,,Unknow,,10
+,,,TRUE,HKG071,,Unknow,,10
+,,,TRUE,HKG072,,Unknow,,10
+,,,TRUE,HKG073,,Unknow,,10
+,,,TRUE,HKG074,,Unknow,,10
+,,,TRUE,HKG075,,Unknow,,10
+,,,TRUE,HKG076,,Unknow,,10
+,,,TRUE,HKG077,,Unknow,,10
+,,,TRUE,HKG078,,Unknow,,10
+,,,TRUE,HKG079,,Unknow,,10
+,,,TRUE,HKG080,,Unknow,,10
+,,,TRUE,HKG081,,Unknow,,10
+,,,TRUE,HKG082,,Unknow,,10
+,,,TRUE,HKG083,,Unknow,,10
+,,,TRUE,HKG084,,Unknow,,10
+,,,TRUE,HKG085,,Unknow,,10
+,,,TRUE,HKG086,,Unknow,,10
+,,,TRUE,HKG087,,Unknow,,10
+,,,TRUE,HKG088,,Unknow,,10
+,,,TRUE,HKG089,,Unknow,,10
+,,,TRUE,HKG090,,Unknow,,10
+,,,TRUE,HKG091,,Unknow,,10
+,,,TRUE,HKG092,,Unknow,,10
+,,,TRUE,HKG093,,Unknow,,10
+,,,TRUE,HKG094,,Unknow,,10
+,,,TRUE,HKG095,,Unknow,,10
+,,,TRUE,HKG096,,Unknow,,10
+,,,TRUE,HKG097,,Unknow,,10
+,,,TRUE,HKG098,,Unknow,,10
+,,,TRUE,HKG099,,Unknow,,10
+,,,TRUE,HKG100,,Unknow,,10
 ,,,,,,,,
 ,,,,,,,,
 ,,,,,,,,
@@ -122,152 +122,332 @@ IP地址,端口,回源端口,TLS,数据中心,地区,城市,TCP延迟(ms),速度
 158.179.178.145,8443,,TRUE,JP008,Asia Pacific,Tokyo,94,10
 168.138.206.68,8443,,TRUE,JP009,Asia Pacific,Tokyo,178,10
 158.179.189.106,2087,,TRUE,JP010,Asia Pacific,Tokyo,176,10
-158.101.133.129,2087,,TRUE,JP011,Asia Pacific,Tokyo,69,10
-168.138.209.244,2087,,TRUE,JP012,Asia Pacific,Tokyo,62,10
-151.145.71.40,2087,,TRUE,JP013,Asia Pacific,Tokyo,79,10
-158.179.180.233,8443,,TRUE,JP014,Asia Pacific,Tokyo,81,10
-52.147.69.148,443,,TRUE,JP015,Asia Pacific,Tokyo,85,10
-151.145.66.219,2096,,TRUE,JP016,Asia Pacific,Tokyo,173,10
-158.179.189.235,2083,,TRUE,JP017,Asia Pacific,Tokyo,107,10
-47.245.15.236,2096,,TRUE,JP018,Asia Pacific,Tokyo,175,10
-152.70.106.185,2087,,TRUE,JP019,Asia Pacific,Tokyo,198,10
-20.243.203.228,8443,,TRUE,JP020,Asia Pacific,Tokyo,183,10
-8.222.153.11,8443,,TRUE,JP021,Asia Pacific,Tokyo,65,10
-168.138.212.184,8443,,TRUE,JP022,Asia Pacific,Tokyo,179,10
-47.236.125.62,2087,,TRUE,JP023,Asia Pacific,Tokyo,178,10
-47.245.15.236,2087,,TRUE,JP024,Asia Pacific,Tokyo,200,10
-150.230.221.114,2087,,TRUE,JP025,Asia Pacific,Tokyo,183,10
-151.145.74.56,8443,,TRUE,JP026,Asia Pacific,Tokyo,191,10
-8.219.55.31,2083,,TRUE,JP027,Asia Pacific,Tokyo,70,10
-158.179.180.109,2083,,TRUE,JP028,Asia Pacific,Tokyo,87,10
-138.2.14.164,2096,,TRUE,JP029,Asia Pacific,Tokyo,100,10
-150.230.221.114,2053,,TRUE,JP030,Asia Pacific,Tokyo,75,10
-131.186.34.11,2053,,TRUE,JP031,Asia Pacific,Tokyo,82,10
-193.122.125.174,2053,,TRUE,JP032,Asia Pacific,Tokyo,82,10
-103.117.102.7,46665,,TRUE,JP033,Asia Pacific,Tokyo,69,10
-132.145.127.21,2053,,TRUE,JP034,Asia Pacific,Tokyo,162,10
-138.2.14.164,2053,,TRUE,JP035,Asia Pacific,Tokyo,121,10
-158.179.182.19,2087,,TRUE,JP036,Asia Pacific,Tokyo,88,10
-158.179.182.19,2083,,TRUE,JP037,Asia Pacific,Tokyo,110,10
-158.179.186.251,2083,,TRUE,JP038,Asia Pacific,Tokyo,74,10
-168.138.212.40,2083,,TRUE,JP039,Asia Pacific,Tokyo,79,10
-47.74.7.51,2053,,TRUE,JP040,,Unknow,,10
-47.74.10.135,2087,,TRUE,JP041,,Unknow,,10
-47.74.10.135,2083,,TRUE,JP043,,Unknow,,10
-47.74.7.51,8443,,TRUE,JP044,,Unknow,,10
-158.179.186.251,8443,,TRUE,JP045,,Unknow,,10
-132.145.126.21,2087,,TRUE,JP047,,Unknow,,10
-47.74.42.111,2087,,TRUE,JP048,,Unknow,,10
-158.179.178.142,2096,,TRUE,JP049,,Unknow,,10
-147.78.245.145,34237,,TRUE,JP050,,Unknow,,10
-47.74.34.38,8443,,TRUE,JP051,,Unknow,,10
-132.145.126.21,8443,,TRUE,JP052,,Unknow,,10
-158.179.189.235,2087,,TRUE,JP053,,Unknow,,10
-39.126.158.244,12195,3-30-iptest,TRUE,JP054,,Unknow,,10
-39.126.158.244,12385,3-30-iptest,TRUE,JP055,,Unknow,,10
-8.209.240.229,2087,3-30-iptest,TRUE,JP056,,Unknow,,10
-47.245.15.236,2083,3-30-iptest,TRUE,JP057,,Unknow,,10
-8.222.153.11,2053,3-30-iptest,TRUE,JP058,,Unknow,,10
-47.245.56.29,2086,3-30-iptest,FALSE,JP059,,Unknow,,10
-47.74.16.255,8080,3-30-iptest,FALSE,JP060,,Unknow,,10
-47.245.40.161,8880,3-30-iptest,FALSE,JP061,,Unknow,,10
-47.74.7.51,2052,3-30-iptest,FALSE,JP062,,Unknow,,10
-47.74.13.94,2086,3-30-iptest,FALSE,JP063,,Unknow,,10
-47.74.42.111,80,3-30-iptest,FALSE,JP066,,Unknow,,10
-47.74.5.233,8880,3-30-iptest,FALSE,JP067,,Unknow,,10
-8.209.200.73,8080,3-30-iptest,FALSE,JP068,,Unknow,,10
-47.74.13.94,2082,3-30-iptest,FALSE,JP069,,Unknow,,10
-47.74.34.38,2086,3-30-iptest,FALSE,JP070,,Unknow,,10
-47.236.125.62,2086,3-30-iptest,FALSE,JP071,,Unknow,,10
-47.245.55.99,8080,3-31-iptest,FALSE,JP072,Asia Pacific,Osaka,,10
-47.91.18.207,8880,3-31-iptest,FALSE,JP075,Asia Pacific,Osaka,,10
-47.74.43.95,8080,3-31-iptest,FALSE,JP077,Asia Pacific,Osaka,,10
-47.245.15.236,2086,3-31-iptest,FALSE,JP079,Asia Pacific,Osaka,,10
-47.74.42.17,8880,3-31-iptest,FALSE,JP080,Asia Pacific,Osaka,,10
-47.74.13.200,2052,3-31-iptest,FALSE,JP082,Asia Pacific,Osaka,,10
-47.91.15.247,2086,3-31-iptest,FALSE,JP083,Asia Pacific,Osaka,,10
-47.245.30.65,2052,3-31-iptest,FALSE,JP086,Asia Pacific,Osaka,,10
-47.91.19.249,2086,3-31-iptest,FALSE,JP088,Asia Pacific,Osaka,,10
-47.245.40.161,2086,3-31-iptest,FALSE,JP089,Asia Pacific,Osaka,,10
-47.245.56.207,80,3-31-iptest,FALSE,JP090,Asia Pacific,Osaka,,10
-8.209.200.73,2095,3-31-iptest,FALSE,JP091,Asia Pacific,Osaka,,10
-47.91.15.247,8443,3-31-iptest,TRUE,JP092,Asia Pacific,Osaka,,10
-47.245.56.121,2087,3-31-iptest,TRUE,JP093,Asia Pacific,Osaka,,10
-8.219.55.31,8443,4-1iptest,TRUE,JP094,Asia Pacific,Osaka,,10
-138.2.10.251,80,4-1iptest,FALSE,JP095,Asia Pacific,Osaka,,10
-138.3.212.162,2083,4-1iptest,TRUE,JP097,Asia Pacific,Osaka,,10
-47.74.16.255,2095,4-1iptest,FALSE,JP098,Asia Pacific,Osaka,,10
-47.91.29.108,2086,4-1iptest,FALSE,JP099,Asia Pacific,Osaka,,10
-47.74.37.50,2086,4-1iptest,FALSE,JP100,Asia Pacific,Osaka,,10
-47.245.40.161,2052,4-1iptest,FALSE,JP101,Asia Pacific,Osaka,,10
-47.245.59.188,8080,4-1iptest,FALSE,JP102,Asia Pacific,Osaka,,10
-47.74.37.50,8880,4-1iptest,FALSE,JP103,Asia Pacific,Osaka,,10
-47.245.15.236,8880,4-1iptest,FALSE,JP105,Asia Pacific,Osaka,,10
-47.74.15.80,2086,4-1iptest,FALSE,JP106,Asia Pacific,Osaka,,10
-47.245.56.29,2087,4-1iptest,TRUE,JP108,Asia Pacific,Osaka,,10
-47.245.52.153,2082,4-1iptest,FALSE,JP109,Asia Pacific,Osaka,,10
-132.145.120.182,2082,4-1iptest,FALSE,JP110,Asia Pacific,Osaka,,10
-8.209.240.229,8880,4-1iptest,FALSE,JP111,Asia Pacific,Osaka,,10
-47.74.14.85,8080,4-1iptest,FALSE,JP113,Asia Pacific,Osaka,,10
-158.179.182.19,8080,4-1iptest,FALSE,JP114,Asia Pacific,Osaka,,10
-47.74.12.139,2083,4-1iptest,TRUE,JP115,Asia Pacific,Osaka,,10
-141.147.160.86,2053,4-1iptest,TRUE,JP118,Asia Pacific,Osaka,,10
-158.101.70.155,2095,4-1iptest,FALSE,JP119,Asia Pacific,Osaka,,10
-151.145.65.203,80,4-1iptest,FALSE,JP121,Asia Pacific,Osaka,,10
-140.238.35.138,80,4-1iptest,FALSE,JP122,Asia Pacific,Osaka,,10
-47.91.19.249,2087,4-1iptest,TRUE,JP123,Asia Pacific,Osaka,,10
-138.3.212.162,2086,4-1iptest,FALSE,JP124,Asia Pacific,Osaka,,10
-168.138.212.184,2083,4-1iptest,TRUE,JP125,Asia Pacific,Osaka,,10
-8.209.243.172,2087,4-1iptest,TRUE,JP126,Asia Pacific,Osaka,,10
-150.230.219.83,2082,4-1iptest,FALSE,JP127,Asia Pacific,Osaka,,10
-152.70.86.93,443,4-1iptest,TRUE,JP128,Asia Pacific,Osaka,,10
-168.138.47.238,8443,4-1iptest,FALSE,JP129,Asia Pacific,Osaka,,10
-140.83.57.116,8443,4-1iptest,FALSE,JP130,Asia Pacific,Osaka,,10
-64.110.103.69,443,4-1iptest,TRUE,JP131,Asia Pacific,Osaka,,10
-64.110.104.30,443,4-1iptest,TRUE,JP132,Asia Pacific,Osaka,,10
-13.114.123.213,80,4-1iptest,TRUE,JP133,Asia Pacific,Osaka,,10
-47.245.56.121,8080,4-2iptest,FALSE,JP134,Asia Pacific,Osaka,,10
-47.245.56.121,8880,4-2iptest,FALSE,JP135,Asia Pacific,Osaka,,10
-8.209.241.128,2086,4-2iptest,FALSE,JP136,Asia Pacific,Osaka,,10
-8.209.243.172,2082,4-2iptest,FALSE,JP137,Asia Pacific,Osaka,,10
-47.91.2.165,80,4-2iptest,FALSE,JP138,Asia Pacific,Osaka,,10
-8.209.240.229,2095,4-2iptest,FALSE,JP139,Asia Pacific,Osaka,,10
-47.74.26.132,2082,4-2iptest,FALSE,JP140,Asia Pacific,Osaka,,10
-47.74.10.135,2082,4-2iptest,FALSE,JP141,Asia Pacific,Osaka,,10
-47.74.37.50,2052,4-2iptest,FALSE,JP142,Asia Pacific,Osaka,,10
-47.74.52.104,2052,4-2iptest,FALSE,JP143,Asia Pacific,Osaka,,10
-47.91.2.165,8080,4-2iptest,FALSE,JP144,Asia Pacific,Osaka,,10
-47.245.56.121,2082,4-2iptest,FALSE,JP145,Asia Pacific,Osaka,,10
-47.245.40.161,80,4-2iptest,FALSE,JP146,Asia Pacific,Osaka,,10
-140.238.46.138,2053,4-2iptest,TRUE,JP147,Asia Pacific,Osaka,,10
-47.74.43.95,8880,4-2iptest,FALSE,JP148,Asia Pacific,Osaka,,10
-47.74.26.132,2052,4-2iptest,FALSE,JP149,Asia Pacific,Osaka,,10
-47.74.52.104,2095,4-2iptest,FALSE,JP150,Asia Pacific,Osaka,,10
-47.245.30.65,2086,4-2iptest,FALSE,JP151,Asia Pacific,Osaka,,10
-47.245.62.84,2095,4-2iptest,FALSE,JP152,Asia Pacific,Osaka,,10
-47.245.37.41,8080,4-2iptest,FALSE,JP153,Asia Pacific,Osaka,,10
-8.209.222.31,8880,4-2iptest,FALSE,JP154,Asia Pacific,Osaka,,10
-47.74.5.233,8080,4-2iptest,FALSE,JP155,Asia Pacific,Osaka,,10
-141.147.160.221,2095,4-2iptest,FALSE,JP156,Asia Pacific,Osaka,,10
-47.74.12.139,8880,4-2iptest,FALSE,JP157,Asia Pacific,Osaka,,10
-47.74.54.145,2083,4-2iptest,TRUE,JP158,Asia Pacific,Osaka,,10
-47.245.52.153,2086,4-2iptest,FALSE,JP159,Asia Pacific,Osaka,,10
-140.83.38.243,2082,4-2iptest,FALSE,JP160,Asia Pacific,Osaka,,10
-168.138.194.121,2052,4-2iptest,FALSE,JP161,Asia Pacific,Osaka,,10
-,,,,JP162,Asia Pacific,Osaka,,10
-,,,,JP163,Asia Pacific,Osaka,,10
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
+151.145.71.40,2087,,TRUE,JP011,Asia Pacific,Tokyo,69,10
+158.179.180.233,8443,,TRUE,JP012,Asia Pacific,Tokyo,62,10
+52.147.69.148,443,,TRUE,JP013,Asia Pacific,Tokyo,79,10
+151.145.66.219,2096,,TRUE,JP014,Asia Pacific,Tokyo,81,10
+158.179.189.235,2083,,TRUE,JP015,Asia Pacific,Tokyo,85,10
+20.243.203.228,8443,,TRUE,JP016,Asia Pacific,Tokyo,173,10
+8.222.153.11,8443,,TRUE,JP017,Asia Pacific,Tokyo,107,10
+47.236.125.62,2087,,TRUE,JP018,Asia Pacific,Tokyo,175,10
+151.145.74.56,8443,,TRUE,JP019,Asia Pacific,Tokyo,198,10
+8.219.55.31,2083,,TRUE,JP020,Asia Pacific,Tokyo,183,10
+158.179.180.109,2083,,TRUE,JP021,Asia Pacific,Tokyo,65,10
+193.122.125.174,2053,,TRUE,JP022,Asia Pacific,Tokyo,179,10
+103.117.102.7,46665,,TRUE,JP023,Asia Pacific,Tokyo,178,10
+158.179.182.19,2087,,TRUE,JP024,Asia Pacific,Tokyo,200,10
+158.179.182.19,2083,,TRUE,JP025,Asia Pacific,Tokyo,183,10
+158.179.186.251,2083,,TRUE,JP026,Asia Pacific,Tokyo,191,10
+168.138.212.40,2083,,TRUE,JP027,Asia Pacific,Tokyo,70,10
+158.179.186.251,8443,,TRUE,JP028,Asia Pacific,Tokyo,87,10
+158.179.178.142,2096,,TRUE,JP029,Asia Pacific,Tokyo,100,10
+158.179.189.235,2087,,TRUE,JP030,Asia Pacific,Tokyo,75,10
+39.126.158.244,12195,3-30-iptest,TRUE,JP031,Asia Pacific,Tokyo,82,10
+39.126.158.244,12385,3-30-iptest,TRUE,JP032,Asia Pacific,Tokyo,82,10
+8.222.153.11,2053,3-30-iptest,TRUE,JP033,Asia Pacific,Tokyo,69,10
+47.74.16.255,8080,3-30-iptest,FALSE,JP034,Asia Pacific,Tokyo,162,10
+47.74.34.38,2086,3-30-iptest,FALSE,JP035,Asia Pacific,Tokyo,121,10
+47.236.125.62,2086,3-30-iptest,FALSE,JP036,Asia Pacific,Tokyo,88,10
+47.245.55.99,8080,3-31-iptest,FALSE,JP037,Asia Pacific,Tokyo,110,10
+47.91.15.247,2086,3-31-iptest,FALSE,JP038,Asia Pacific,Tokyo,74,10
+47.91.19.249,2086,3-31-iptest,FALSE,JP039,Asia Pacific,Tokyo,79,10
+47.245.56.207,80,3-31-iptest,FALSE,JP040,,Unknow,,10
+8.219.55.31,8443,4-1iptest,TRUE,JP041,,Unknow,,10
+47.74.16.255,2095,4-1iptest,FALSE,JP042,,Unknow,,10
+47.245.59.188,8080,4-1iptest,FALSE,JP043,,Unknow,,10
+47.74.15.80,2086,4-1iptest,FALSE,JP044,,Unknow,,10
+47.245.52.153,2082,4-1iptest,FALSE,JP045,,Unknow,,10
+158.179.182.19,8080,4-1iptest,FALSE,JP046,,Unknow,,10
+141.147.160.86,2053,4-1iptest,TRUE,JP047,,Unknow,,10
+151.145.65.203,80,4-1iptest,FALSE,JP048,,Unknow,,10
+140.238.35.138,80,4-1iptest,FALSE,JP049,,Unknow,,10
+47.91.19.249,2087,4-1iptest,TRUE,JP050,,Unknow,,10
+150.230.219.83,2082,4-1iptest,FALSE,JP051,,Unknow,,10
+152.70.86.93,443,4-1iptest,TRUE,JP052,,Unknow,,10
+168.138.47.238,8443,4-1iptest,FALSE,JP053,,Unknow,,10
+140.83.57.116,8443,4-1iptest,FALSE,JP054,,Unknow,,10
+64.110.103.69,443,4-1iptest,TRUE,JP055,,Unknow,,10
+64.110.104.30,443,4-1iptest,TRUE,JP056,,Unknow,,10
+13.114.123.213,80,4-1iptest,TRUE,JP057,,Unknow,,10
+47.245.52.153,2086,4-2iptest,FALSE,JP058,,Unknow,,10
+140.83.38.243,2082,4-2iptest,FALSE,JP059,,Unknow,,10
+47.245.26.167,2096,,TRUE,JP060,,Unknow,,10
+47.245.12.38,2096,,TRUE,JP061,,Unknow,,10
+47.245.56.207,8443,,TRUE,JP062,,Unknow,,10
+47.74.27.94,2083,,TRUE,JP063,,Unknow,,10
+47.74.27.94,2096,,TRUE,JP064,,Unknow,,10
+47.245.55.94,2087,,TRUE,JP065,,Unknow,,10
+47.74.27.94,2087,,TRUE,JP066,,Unknow,,10
+47.74.11.219,2087,,TRUE,JP067,,Unknow,,10
+47.74.15.80,2087,,TRUE,JP068,Asia Pacific,Osaka,,10
+47.245.13.93,8443,,TRUE,JP069,Asia Pacific,Osaka,,10
+47.91.16.198,2087,,TRUE,JP070,Asia Pacific,Osaka,,10
+47.91.16.198,2053,,TRUE,JP071,Asia Pacific,Osaka,,10
+47.245.26.167,2083,,TRUE,JP072,Asia Pacific,Osaka,,10
+47.245.26.167,2087,,TRUE,JP073,Asia Pacific,Osaka,,10
+47.91.21.107,2087,,TRUE,JP074,Asia Pacific,Osaka,,10
+47.74.27.94,2053,,TRUE,JP075,Asia Pacific,Osaka,,10
+47.245.52.153,2096,,TRUE,JP076,Asia Pacific,Osaka,,10
+47.245.34.36,8443,,TRUE,JP077,Asia Pacific,Osaka,,10
+47.91.21.107,2053,,TRUE,JP078,Asia Pacific,Osaka,,10
+47.91.21.107,2083,,TRUE,JP079,Asia Pacific,Osaka,,10
+47.74.45.143,2083,,TRUE,JP080,Asia Pacific,Osaka,,10
+47.91.16.198,2083,,TRUE,JP081,Asia Pacific,Osaka,,10
+47.74.4.47,2083,,TRUE,JP082,Asia Pacific,Osaka,,10
+47.74.27.94,8443,,TRUE,JP083,Asia Pacific,Osaka,,10
+47.91.21.107,2096,,TRUE,JP084,Asia Pacific,Osaka,,10
+47.245.13.93,2083,,TRUE,JP085,Asia Pacific,Osaka,,10
+47.91.21.107,8443,,TRUE,JP086,Asia Pacific,Osaka,,10
+47.91.15.247,2083,,TRUE,JP087,Asia Pacific,Osaka,,10
+47.91.19.249,2083,,TRUE,JP088,Asia Pacific,Osaka,,10
+47.91.19.249,8443,,TRUE,JP089,Asia Pacific,Osaka,,10
+8.209.243.172,2087,,TRUE,JP090,Asia Pacific,Osaka,,10
+47.91.31.235,2096,,TRUE,JP091,Asia Pacific,Osaka,,10
+8.219.55.31,2087,,TRUE,JP092,Asia Pacific,Osaka,,10
+138.2.21.31,2083,,TRUE,JP093,Asia Pacific,Osaka,,10
+132.145.120.182,2096,,TRUE,JP094,Asia Pacific,Osaka,,10
+141.147.182.70,8443,,TRUE,JP095,Asia Pacific,Osaka,,10
+140.238.54.164,2083,,TRUE,JP096,Asia Pacific,Osaka,,10
+140.238.40.136,2087,,TRUE,JP097,Asia Pacific,Osaka,,10
+140.238.44.118,2053,,TRUE,JP098,Asia Pacific,Osaka,,10
+158.101.154.70,2087,,TRUE,JP099,Asia Pacific,Osaka,,10
+168.138.200.159,8443,,TRUE,JP100,Asia Pacific,Osaka,,10
+131.186.59.94,2083,,TRUE,JP101,Asia Pacific,Osaka,,10
+158.101.142.103,2053,,TRUE,JP102,Asia Pacific,Osaka,,10
+141.147.179.211,2053,,TRUE,JP103,Asia Pacific,Osaka,,10
+138.2.9.66,2096,,TRUE,JP104,Asia Pacific,Osaka,,10
+141.147.160.221,8443,,TRUE,JP105,Asia Pacific,Osaka,,10
+138.2.20.230,8443,,TRUE,JP106,Asia Pacific,Osaka,,10
+141.147.164.54,2096,,TRUE,JP107,Asia Pacific,Osaka,,10
+132.145.113.148,2096,,TRUE,JP108,Asia Pacific,Osaka,,10
+131.186.60.162,2087,,TRUE,JP109,Asia Pacific,Osaka,,10
+140.238.35.78,2096,,TRUE,JP110,Asia Pacific,Osaka,,10
+140.238.41.253,8443,,TRUE,JP111,Asia Pacific,Osaka,,10
+131.186.39.42,2087,,TRUE,JP112,Asia Pacific,Osaka,,10
+168.138.206.109,2053,,TRUE,JP113,Asia Pacific,Osaka,,10
+140.238.54.166,2087,,TRUE,JP114,Asia Pacific,Osaka,,10
+141.147.178.115,2053,,TRUE,JP115,Asia Pacific,Osaka,,10
+132.145.115.17,2053,,TRUE,JP116,Asia Pacific,Osaka,,10
+140.238.48.97,8443,,TRUE,JP117,Asia Pacific,Osaka,,10
+132.145.127.21,2087,,TRUE,JP118,Asia Pacific,Osaka,,10
+168.138.206.236,2087,,TRUE,JP119,Asia Pacific,Osaka,,10
+168.138.202.145,2096,,TRUE,JP120,Asia Pacific,Osaka,,10
+131.186.43.207,2053,,TRUE,JP121,Asia Pacific,Osaka,,10
+131.186.45.88,2083,,TRUE,JP122,Asia Pacific,Osaka,,10
+131.186.46.75,2087,,TRUE,JP123,Asia Pacific,Osaka,,10
+138.2.13.133,2087,,TRUE,JP124,Asia Pacific,Osaka,,10
+132.145.125.165,8443,,TRUE,JP125,Asia Pacific,Osaka,,10
+132.145.121.247,2083,,TRUE,JP126,Asia Pacific,Osaka,,10
+168.138.205.195,8443,,TRUE,JP127,Asia Pacific,Osaka,,10
+158.101.140.255,2087,,TRUE,JP128,Asia Pacific,Osaka,,10
+141.147.165.179,2053,,TRUE,JP129,Asia Pacific,Osaka,,10
+158.101.158.251,2087,,TRUE,JP130,Asia Pacific,Osaka,,10
+141.147.165.179,2087,,TRUE,JP131,Asia Pacific,Osaka,,10
+140.238.34.208,2053,,TRUE,JP132,Asia Pacific,Osaka,,10
+132.145.126.21,8443,,TRUE,JP133,Asia Pacific,Osaka,,10
+140.238.35.138,8443,,TRUE,JP134,Asia Pacific,Osaka,,10
+131.186.43.207,2087,,TRUE,JP135,Asia Pacific,Osaka,,10
+140.238.40.136,2083,,TRUE,JP136,Asia Pacific,Osaka,,10
+140.238.41.253,2096,,TRUE,JP137,Asia Pacific,Osaka,,10
+141.147.178.115,8443,,TRUE,JP138,Asia Pacific,Osaka,,10
+140.238.54.184,8443,,TRUE,JP139,Asia Pacific,Osaka,,10
+141.147.181.242,2096,,TRUE,JP140,Asia Pacific,Osaka,,10
+141.147.174.7,2096,,TRUE,JP141,Asia Pacific,Osaka,,10
+140.238.48.97,2087,,TRUE,JP142,Asia Pacific,Osaka,,10
+158.101.142.103,2096,,TRUE,JP143,Asia Pacific,Osaka,,10
+168.138.202.145,2083,,TRUE,JP144,Asia Pacific,Osaka,,10
+158.101.155.158,2083,,TRUE,JP145,Asia Pacific,Osaka,,10
+140.238.61.78,2096,,TRUE,JP146,Asia Pacific,Osaka,,10
+131.186.58.151,2053,,TRUE,JP147,Asia Pacific,Osaka,,10
+158.101.140.154,2087,,TRUE,JP148,Asia Pacific,Osaka,,10
+132.145.112.247,2087,,TRUE,JP149,Asia Pacific,Osaka,,10
+158.101.136.239,2053,,TRUE,JP150,Asia Pacific,Osaka,,10
+132.145.123.143,2053,,TRUE,JP151,Asia Pacific,Osaka,,10
+131.186.39.42,2053,,TRUE,JP152,Asia Pacific,Osaka,,10
+158.101.139.42,2087,,TRUE,JP153,Asia Pacific,Osaka,,10
+140.238.48.97,2053,,TRUE,JP154,Asia Pacific,Osaka,,10
+131.186.61.45,2053,,TRUE,JP155,Asia Pacific,Osaka,,10
+141.147.169.195,2083,,TRUE,JP156,Asia Pacific,Osaka,,10
+140.238.35.195,2083,,TRUE,JP157,Asia Pacific,Osaka,,10
+141.147.179.64,2096,,TRUE,JP158,Asia Pacific,Osaka,,10
+141.147.167.40,2087,,TRUE,JP159,Asia Pacific,Osaka,,10
+158.179.178.142,8443,,TRUE,JP160,Asia Pacific,Osaka,,10
+168.138.200.155,2083,,TRUE,JP161,Asia Pacific,Osaka,,10
+138.2.8.232,2053,,TRUE,JP162,Asia Pacific,Osaka,,10
+141.147.182.76,2053,,TRUE,JP163,Asia Pacific,Osaka,,10
+141.147.166.189,2096,,TRUE,JP164,Asia Pacific,Osaka,,10
+140.238.52.81,2083,,TRUE,JP165,Asia Pacific,Osaka,,10
+140.238.44.118,2087,,TRUE,JP166,Asia Pacific,Osaka,,10
+131.186.63.127,2053,,TRUE,JP167,Asia Pacific,Osaka,,10
+131.186.61.45,2087,,TRUE,JP168,Asia Pacific,Osaka,,10
+132.145.123.14,2053,,TRUE,JP169,Asia Pacific,Osaka,,10
+131.186.63.184,8443,,TRUE,JP170,Asia Pacific,Osaka,,10
+131.186.47.223,2096,,TRUE,JP171,Asia Pacific,Osaka,,10
+138.2.7.72,8443,,TRUE,JP172,Asia Pacific,Osaka,,10
+158.101.155.115,2053,,TRUE,JP173,Asia Pacific,Osaka,,10
+131.186.63.35,2087,,TRUE,JP174,Asia Pacific,Osaka,,10
+158.179.188.7,2087,,TRUE,JP175,Asia Pacific,Osaka,,10
+158.101.158.238,2053,,TRUE,JP176,Asia Pacific,Osaka,,10
+141.147.160.221,2083,,TRUE,JP177,Asia Pacific,Osaka,,10
+131.186.37.191,2096,,TRUE,JP178,Asia Pacific,Osaka,,10
+131.186.38.135,2087,,TRUE,JP179,Asia Pacific,Osaka,,10
+141.147.182.70,2053,,TRUE,JP180,Asia Pacific,Osaka,,10
+141.147.169.195,2087,,TRUE,JP181,Asia Pacific,Osaka,,10
+168.138.205.38,2053,,TRUE,JP182,Asia Pacific,Osaka,,10
+138.2.21.31,2087,,TRUE,JP183,Asia Pacific,Osaka,,10
+132.145.112.247,2083,,TRUE,JP184,Asia Pacific,Osaka,,10
+141.147.175.230,2053,,TRUE,JP185,Asia Pacific,Osaka,,10
+138.2.13.200,2096,,TRUE,JP186,Asia Pacific,Osaka,,10
+132.145.125.86,2087,,TRUE,JP187,Asia Pacific,Osaka,,10
+141.147.164.153,2053,,TRUE,JP188,Asia Pacific,Osaka,,10
+140.238.50.32,2053,,TRUE,JP189,Asia Pacific,Osaka,,10
+140.238.52.141,2083,,TRUE,JP190,Asia Pacific,Osaka,,10
+158.101.143.49,2053,,TRUE,JP191,Asia Pacific,Osaka,,10
+138.2.20.48,2053,,TRUE,JP192,Asia Pacific,Osaka,,10
+140.238.50.32,2087,,TRUE,JP193,Asia Pacific,Osaka,,10
+131.186.46.75,2053,,TRUE,JP194,Asia Pacific,Osaka,,10
+140.238.54.166,2053,,TRUE,JP195,Asia Pacific,Osaka,,10
+140.238.61.224,2053,,TRUE,JP196,Asia Pacific,Osaka,,10
+158.101.131.218,2053,,TRUE,JP197,Asia Pacific,Osaka,,10
+158.101.155.246,2083,,TRUE,JP198,Asia Pacific,Osaka,,10
+131.186.60.162,2083,,TRUE,JP199,Asia Pacific,Osaka,,10
+158.101.131.218,2083,,TRUE,JP200,Asia Pacific,Osaka,,10
+141.147.182.76,2083,,TRUE,JP201,Asia Pacific,Osaka,,10
+132.145.127.51,2087,,TRUE,JP202,Asia Pacific,Osaka,,10
+141.147.167.40,8443,,TRUE,JP203,Asia Pacific,Osaka,,10
+131.186.63.35,2083,,TRUE,JP204,Asia Pacific,Osaka,,10
+168.138.202.145,2087,,TRUE,JP205,Asia Pacific,Osaka,,10
+168.138.202.145,8443,,TRUE,JP206,Asia Pacific,Osaka,,10
+140.238.33.94,2096,,TRUE,JP207,Asia Pacific,Osaka,,10
+132.145.127.51,2096,,TRUE,JP208,Asia Pacific,Osaka,,10
+140.238.54.164,2053,,TRUE,JP209,Asia Pacific,Osaka,,10
+132.145.120.103,2096,,TRUE,JP210,Asia Pacific,Osaka,,10
+138.2.20.48,2087,,TRUE,JP211,Asia Pacific,Osaka,,10
+141.147.169.131,2053,,TRUE,JP212,Asia Pacific,Osaka,,10
+141.147.160.221,2087,,TRUE,JP213,Asia Pacific,Osaka,,10
+138.2.14.209,2083,,TRUE,JP214,Asia Pacific,Osaka,,10
+131.186.63.35,2053,,TRUE,JP215,Asia Pacific,Osaka,,10
+132.145.113.148,2087,,TRUE,JP216,Asia Pacific,Osaka,,10
+138.2.7.72,2087,,TRUE,JP217,Asia Pacific,Osaka,,10
+138.2.24.114,2053,,TRUE,JP218,Asia Pacific,Osaka,,10
+138.2.18.11,2053,,TRUE,JP219,Asia Pacific,Osaka,,10
+140.238.35.195,2087,,TRUE,JP220,Asia Pacific,Osaka,,10
+140.238.32.184,8443,,TRUE,JP221,Asia Pacific,Osaka,,10
+132.145.123.143,2096,,TRUE,JP222,Asia Pacific,Osaka,,10
+168.138.200.155,8443,,TRUE,JP223,Asia Pacific,Osaka,,10
+132.145.127.21,2053,,TRUE,JP224,Asia Pacific,Osaka,,10
+158.101.155.246,8443,,TRUE,JP225,Asia Pacific,Osaka,,10
+132.145.114.14,2053,,TRUE,JP226,Asia Pacific,Osaka,,10
+141.147.165.179,2083,,TRUE,JP227,Asia Pacific,Osaka,,10
+140.238.35.78,2053,,TRUE,JP228,Asia Pacific,Osaka,,10
+158.101.139.42,2053,,TRUE,JP229,Asia Pacific,Osaka,,10
+131.186.60.162,2096,,TRUE,JP230,Asia Pacific,Osaka,,10
+140.238.32.184,2053,,TRUE,JP231,Asia Pacific,Osaka,,10
+140.238.61.224,8443,,TRUE,JP232,Asia Pacific,Osaka,,10
+141.147.178.202,8443,,TRUE,JP233,Asia Pacific,Osaka,,10
+141.147.169.131,2087,,TRUE,JP234,Asia Pacific,Osaka,,10
+138.2.6.15,2083,,TRUE,JP235,Asia Pacific,Osaka,,10
+131.186.63.127,8443,,TRUE,JP236,Asia Pacific,Osaka,,10
+158.101.140.255,2096,,TRUE,JP237,Asia Pacific,Osaka,,10
+158.179.180.109,2053,,TRUE,JP238,Asia Pacific,Osaka,,10
+131.186.47.223,2083,,TRUE,JP239,Asia Pacific,Osaka,,10
+158.101.158.238,2096,,TRUE,JP240,Asia Pacific,Osaka,,10
+138.2.7.72,2096,,TRUE,JP241,Asia Pacific,Osaka,,10
+132.145.120.118,2096,,TRUE,JP242,Asia Pacific,Osaka,,10
+132.145.114.14,2087,,TRUE,JP243,Asia Pacific,Osaka,,10
+132.145.120.182,8443,,TRUE,JP244,Asia Pacific,Osaka,,10
+168.138.205.195,2087,,TRUE,JP245,Asia Pacific,Osaka,,10
+138.2.13.133,2096,,TRUE,JP246,Asia Pacific,Osaka,,10
+158.101.136.239,2096,,TRUE,JP247,Asia Pacific,Osaka,,10
+168.138.206.68,2053,,TRUE,JP248,Asia Pacific,Osaka,,10
+138.2.29.102,2053,,TRUE,JP249,Asia Pacific,Osaka,,10
+158.101.143.49,2083,,TRUE,JP250,Asia Pacific,Osaka,,10
+132.145.127.51,2083,,TRUE,JP251,Asia Pacific,Osaka,,10
+141.147.165.179,2096,,TRUE,JP252,Asia Pacific,Osaka,,10
+131.186.37.69,2053,,TRUE,JP253,Asia Pacific,Osaka,,10
+168.138.207.64,2083,,TRUE,JP254,Asia Pacific,Osaka,,10
+131.186.60.162,8443,,TRUE,JP255,Asia Pacific,Osaka,,10
+141.147.164.123,2053,,TRUE,JP256,Asia Pacific,Osaka,,10
+131.186.34.11,2096,,TRUE,JP257,Asia Pacific,Osaka,,10
+141.147.164.54,8443,,TRUE,JP258,Asia Pacific,Osaka,,10
+158.101.159.181,2096,,TRUE,JP259,Asia Pacific,Osaka,,10
+132.145.121.247,2087,,TRUE,JP260,Asia Pacific,Osaka,,10
+141.147.169.195,2053,,TRUE,JP261,Asia Pacific,Osaka,,10
+140.238.51.89,2083,,TRUE,JP262,Asia Pacific,Osaka,,10
+140.238.33.94,2053,,TRUE,JP263,Asia Pacific,Osaka,,10
+158.101.133.129,2083,,TRUE,JP264,Asia Pacific,Osaka,,10
+138.2.19.122,2087,,TRUE,JP265,Asia Pacific,Osaka,,10
+141.147.179.64,2087,,TRUE,JP266,Asia Pacific,Osaka,,10
+132.145.121.34,2087,,TRUE,JP267,Asia Pacific,Osaka,,10
+158.101.159.212,2053,,TRUE,JP268,Asia Pacific,Osaka,,10
+132.145.126.204,2083,,TRUE,JP269,Asia Pacific,Osaka,,10
+138.2.20.230,2096,,TRUE,JP270,Asia Pacific,Osaka,,10
+141.147.164.123,2096,,TRUE,JP271,Asia Pacific,Osaka,,10
+138.2.8.232,2096,,TRUE,JP272,Asia Pacific,Osaka,,10
+131.186.44.38,2083,,TRUE,JP273,Asia Pacific,Osaka,,10
+132.145.120.103,2053,,TRUE,JP274,Asia Pacific,Osaka,,10
+140.238.39.87,8443,,TRUE,JP275,Asia Pacific,Osaka,,10
+131.186.36.248,2053,,TRUE,JP276,Asia Pacific,Osaka,,10
+132.145.114.250,2053,,TRUE,JP277,Asia Pacific,Osaka,,10
+158.101.143.49,8443,,TRUE,JP278,Asia Pacific,Osaka,,10
+132.145.112.247,2053,,TRUE,JP279,Asia Pacific,Osaka,,10
+,,,TRUE,JP280,Asia Pacific,Osaka,,10
+,,,TRUE,JP281,Asia Pacific,Osaka,,10
+,,,TRUE,JP282,Asia Pacific,Osaka,,10
+,,,TRUE,JP283,Asia Pacific,Osaka,,10
+,,,TRUE,JP284,Asia Pacific,Osaka,,10
+,,,TRUE,JP285,Asia Pacific,Osaka,,10
+,,,TRUE,JP286,Asia Pacific,Osaka,,10
+,,,TRUE,JP287,Asia Pacific,Osaka,,10
+,,,TRUE,JP288,Asia Pacific,Osaka,,10
+,,,TRUE,JP289,Asia Pacific,Osaka,,10
+,,,TRUE,JP290,Asia Pacific,Osaka,,10
+,,,TRUE,JP291,Asia Pacific,Osaka,,10
+,,,TRUE,JP292,Asia Pacific,Osaka,,10
+,,,TRUE,JP293,Asia Pacific,Osaka,,10
+,,,TRUE,JP294,Asia Pacific,Osaka,,10
+,,,TRUE,JP295,Asia Pacific,Osaka,,10
+,,,TRUE,JP296,Asia Pacific,Osaka,,10
+,,,TRUE,JP297,Asia Pacific,Osaka,,10
+,,,TRUE,JP298,Asia Pacific,Osaka,,10
+,,,TRUE,JP299,Asia Pacific,Osaka,,10
+,,,TRUE,JP300,Asia Pacific,Osaka,,10
+,,,TRUE,JP301,Asia Pacific,Osaka,,10
+,,,TRUE,JP302,Asia Pacific,Osaka,,10
+,,,TRUE,JP303,Asia Pacific,Osaka,,10
+,,,TRUE,JP304,Asia Pacific,Osaka,,10
+,,,TRUE,JP305,Asia Pacific,Osaka,,10
+,,,TRUE,JP306,Asia Pacific,Osaka,,10
+,,,TRUE,JP307,Asia Pacific,Osaka,,10
+,,,TRUE,JP308,Asia Pacific,Osaka,,10
+,,,TRUE,JP309,Asia Pacific,Osaka,,10
+,,,TRUE,JP310,Asia Pacific,Osaka,,10
+,,,TRUE,JP311,Asia Pacific,Osaka,,10
+,,,TRUE,JP312,Asia Pacific,Osaka,,10
+,,,TRUE,JP313,Asia Pacific,Osaka,,10
+,,,TRUE,JP314,Asia Pacific,Osaka,,10
+,,,TRUE,JP315,Asia Pacific,Osaka,,10
+,,,TRUE,JP316,Asia Pacific,Osaka,,10
+,,,TRUE,JP317,Asia Pacific,Osaka,,10
+,,,TRUE,JP318,Asia Pacific,Osaka,,10
+,,,TRUE,JP319,Asia Pacific,Osaka,,10
+,,,TRUE,JP320,Asia Pacific,Osaka,,10
+,,,TRUE,JP321,Asia Pacific,Osaka,,10
+,,,TRUE,JP322,Asia Pacific,Osaka,,10
+,,,TRUE,JP323,Asia Pacific,Osaka,,10
+,,,TRUE,JP324,Asia Pacific,Osaka,,10
+,,,TRUE,JP325,Asia Pacific,Osaka,,10
+,,,TRUE,JP326,Asia Pacific,Osaka,,10
+,,,TRUE,JP327,Asia Pacific,Osaka,,10
+,,,TRUE,JP328,Asia Pacific,Osaka,,10
+,,,TRUE,JP329,Asia Pacific,Osaka,,10
+,,,TRUE,JP330,Asia Pacific,Osaka,,10
+,,,TRUE,JP331,Asia Pacific,Osaka,,10
+,,,TRUE,JP332,Asia Pacific,Osaka,,10
+,,,TRUE,JP333,Asia Pacific,Osaka,,10
+,,,TRUE,JP334,Asia Pacific,Osaka,,10
+,,,TRUE,JP335,Asia Pacific,Osaka,,10
+,,,TRUE,JP336,Asia Pacific,Osaka,,10
 ,,,,,,,,
 ,,,,,,,,
 47.236.170.54,2087,,TRUE,SIN001,Asia Pacific,Singapore,66,10
@@ -282,362 +462,582 @@ IP地址,端口,回源端口,TLS,数据中心,地区,城市,TCP延迟(ms),速度
 47.236.94.113,2096,,TRUE,SIN010,Asia Pacific,Singapore,78,10
 47.236.161.155,2087,,TRUE,SIN011,Asia Pacific,Singapore,179,10
 47.236.7.246,2083,,TRUE,SIN012,Asia Pacific,Singapore,95,10
-8.219.173.239,8443,,TRUE,SIN013,Asia Pacific,Singapore,107,10
-47.236.166.184,2053,,TRUE,SIN014,Asia Pacific,Singapore,95,10
-8.222.238.141,8443,,TRUE,SIN015,Asia Pacific,Singapore,117,10
-47.236.166.131,8443,,TRUE,SIN016,Asia Pacific,Singapore,87,10
-8.222.238.141,2053,,TRUE,SIN017,Asia Pacific,Singapore,161,10
-47.236.171.20,2087,,TRUE,SIN018,Asia Pacific,Singapore,146,10
-47.236.116.182,2096,,TRUE,SIN019,Asia Pacific,Singapore,59,10
-8.222.238.141,2096,,TRUE,SIN020,Asia Pacific,Singapore,161,10
-47.236.87.206,2053,,TRUE,SIN021,Asia Pacific,Singapore,91,10
-47.236.65.177,2087,,TRUE,SIN022,Asia Pacific,Singapore,122,10
-8.222.168.234,2083,,TRUE,SIN023,Asia Pacific,Singapore,137,10
-8.222.221.197,8443,,TRUE,SIN024,Asia Pacific,Singapore,96,10
-8.222.137.178,2053,,TRUE,SIN025,Asia Pacific,Singapore,91,10
-47.236.94.109,2087,,TRUE,SIN026,Asia Pacific,Singapore,45,10
-47.236.79.87,2096,,TRUE,SIN027,Asia Pacific,Singapore,48,10
-47.236.106.37,2083,,TRUE,SIN028,Asia Pacific,Singapore,67,10
-47.236.163.221,8443,,TRUE,SIN029,Asia Pacific,Singapore,84,10
-47.236.87.206,2087,,TRUE,SIN030,Asia Pacific,Singapore,112,10
-8.222.187.107,2083,,TRUE,SIN031,Asia Pacific,Singapore,208,10
-47.236.103.153,2053,,TRUE,SIN032,Asia Pacific,Singapore,76,10
-47.236.71.226,2083,,TRUE,SIN033,Asia Pacific,Singapore,113,10
-8.222.240.47,8443,,TRUE,SIN034,Asia Pacific,Singapore,174,10
-47.236.79.87,2083,,TRUE,SIN035,Asia Pacific,Singapore,101,10
-47.236.168.17,2087,,TRUE,SIN036,Asia Pacific,Singapore,91,10
-8.222.154.227,2083,,TRUE,SIN037,Asia Pacific,Singapore,125,10
-47.236.121.7,443,,TRUE,SIN038,Asia Pacific,Singapore,79,10
-47.236.103.153,2096,,TRUE,SIN039,Asia Pacific,Singapore,42,10
-47.236.145.180,2087,,TRUE,SIN040,Asia Pacific,Singapore,132,10
-8.222.136.247,2087,,TRUE,SIN041,Asia Pacific,Singapore,118,10
-8.219.60.130,2083,,TRUE,SIN042,Asia Pacific,Singapore,112,10
-8.222.147.203,2083,,TRUE,SIN043,Asia Pacific,Singapore,60,10
-8.222.237.131,2087,,TRUE,SIN044,Asia Pacific,Singapore,156,10
-8.222.174.108,2053,,TRUE,SIN045,Asia Pacific,Singapore,130,10
-8.222.227.191,2087,,TRUE,SIN046,Asia Pacific,Singapore,101,10
-47.236.19.51,2096,,TRUE,SIN047,Asia Pacific,Singapore,62,10
-8.222.162.45,2087,,TRUE,SIN048,Asia Pacific,Singapore,117,10
-8.222.147.203,2087,,TRUE,SIN049,Asia Pacific,Singapore,99,10
-47.236.96.141,2096,,TRUE,SIN050,Asia Pacific,Singapore,38,10
-47.236.123.133,2087,,TRUE,SIN051,Asia Pacific,Singapore,70,10
-47.236.97.90,8443,,TRUE,SIN052,Asia Pacific,Singapore,61,10
-47.236.144.196,2053,,TRUE,SIN053,Asia Pacific,Singapore,90,10
-47.236.165.25,8443,,TRUE,SIN054,Asia Pacific,Singapore,149,10
-47.236.11.84,8443,,TRUE,SIN055,Asia Pacific,Singapore,88,10
-47.236.121.23,2096,,TRUE,SIN056,Asia Pacific,Singapore,90,10
-47.236.93.176,2083,,TRUE,SIN057,Asia Pacific,Singapore,141,10
-8.222.144.50,8443,,TRUE,SIN058,Asia Pacific,Singapore,90,10
-47.236.180.51,2083,,TRUE,SIN059,Asia Pacific,Singapore,199,10
-47.236.5.223,8443,,TRUE,SIN060,Asia Pacific,Singapore,89,10
-8.222.240.47,2083,,TRUE,SIN061,Asia Pacific,Singapore,89,10
-47.236.172.95,2053,,TRUE,SIN062,Asia Pacific,Singapore,149,10
-47.236.10.100,2096,,TRUE,SIN063,Asia Pacific,Singapore,99,10
-47.236.163.221,2083,,TRUE,SIN064,Asia Pacific,Singapore,62,10
-47.236.163.95,2053,,TRUE,SIN065,Asia Pacific,Singapore,67,10
-47.236.106.37,2096,,TRUE,SIN066,Asia Pacific,Singapore,91,10
-47.236.121.7,8443,,TRUE,SIN067,Asia Pacific,Singapore,69,10
-47.236.171.20,2083,,TRUE,SIN068,Asia Pacific,Singapore,157,10
-47.236.29.235,2087,,TRUE,SIN069,Asia Pacific,Singapore,104,10
-47.236.166.131,2053,,TRUE,SIN070,Asia Pacific,Singapore,151,10
-47.236.174.206,2053,,TRUE,SIN071,Asia Pacific,Singapore,5,10
-47.236.123.218,2083,,TRUE,SIN072,Asia Pacific,Singapore,124,10
-47.236.163.95,8443,,TRUE,SIN073,Asia Pacific,Singapore,89,10
-47.236.119.253,8443,,TRUE,SIN074,Asia Pacific,Singapore,107,10
-47.236.123.218,2053,,TRUE,SIN075,Asia Pacific,Singapore,23,10
-8.222.219.252,2087,,TRUE,SIN076,Asia Pacific,Singapore,115,10
-8.222.237.131,2096,,TRUE,SIN077,Asia Pacific,Singapore,74,10
-47.236.97.254,2053,,TRUE,SIN078,Asia Pacific,Singapore,1019,10
-47.236.97.111,2096,,TRUE,SIN079,Asia Pacific,Singapore,113,10
-47.236.114.23,2053,,TRUE,SIN080,Asia Pacific,Singapore,99,10
-47.236.145.85,2083,,TRUE,SIN081,Asia Pacific,Singapore,83,10
-8.222.164.44,2053,,TRUE,SIN082,Asia Pacific,Singapore,35,10
-47.236.145.85,2053,,TRUE,SIN083,Asia Pacific,Singapore,136,10
-8.222.240.47,2096,,TRUE,SIN084,Asia Pacific,Singapore,71,10
-47.236.79.77,2053,,TRUE,SIN085,Asia Pacific,Singapore,92,10
-47.236.87.206,443,,TRUE,SIN086,Asia Pacific,Singapore,83,10
-47.236.144.208,2087,,TRUE,SIN087,Asia Pacific,Singapore,99,10
-8.222.249.190,2083,,TRUE,SIN088,Asia Pacific,Singapore,132,10
-8.222.237.131,2083,,TRUE,SIN089,Asia Pacific,Singapore,89,10
-8.222.133.247,2087,,TRUE,SIN090,Asia Pacific,Singapore,85,10
-8.219.60.130,2087,,TRUE,SIN091,Asia Pacific,Singapore,128,10
-47.236.99.131,2083,,TRUE,SIN092,Asia Pacific,Singapore,105,10
-47.236.7.246,2096,,TRUE,SIN093,Asia Pacific,Singapore,13,10
-47.236.94.113,2087,,TRUE,SIN094,Asia Pacific,Singapore,132,10
-47.236.165.25,2053,,TRUE,SIN095,Asia Pacific,Singapore,120,10
-47.236.76.199,8443,,TRUE,SIN096,Asia Pacific,Singapore,105,10
-47.236.166.184,2096,,TRUE,SIN097,Asia Pacific,Singapore,59,10
-8.222.167.147,8443,,TRUE,SIN098,Asia Pacific,Singapore,100,10
-47.236.65.177,2083,,TRUE,SIN099,Asia Pacific,Singapore,115,10
-47.236.171.205,2087,,TRUE,SIN100,Asia Pacific,Singapore,128,10
-47.236.121.7,2053,,TRUE,SIN101,Asia Pacific,Singapore,103,10
-47.236.144.208,8443,,TRUE,SIN102,Asia Pacific,Singapore,63,10
-47.236.7.206,8443,,TRUE,SIN103,Asia Pacific,Singapore,85,10
-47.236.163.221,2087,,TRUE,SIN104,Asia Pacific,Singapore,77,10
-47.236.11.68,2053,,TRUE,SIN105,Asia Pacific,Singapore,58,10
-8.222.248.188,2087,,TRUE,SIN106,Asia Pacific,Singapore,150,10
-8.222.137.166,2096,,TRUE,SIN107,Asia Pacific,Singapore,5,10
-47.236.114.23,2096,,TRUE,SIN108,Asia Pacific,Singapore,116,10
-47.236.5.223,2053,,TRUE,SIN109,Asia Pacific,Singapore,105,10
-8.222.224.163,8443,,TRUE,SIN110,Asia Pacific,Singapore,90,10
-47.236.172.71,8443,,TRUE,SIN111,Asia Pacific,Singapore,109,10
-47.236.130.95,2096,,TRUE,SIN112,Asia Pacific,Singapore,146,10
-47.236.116.182,2053,,TRUE,SIN113,Asia Pacific,Singapore,138,10
-47.236.38.38,443,,TRUE,SIN114,Asia Pacific,Singapore,119,10
-47.236.144.156,2083,,TRUE,SIN115,Asia Pacific,Singapore,93,10
-47.236.96.141,2087,,TRUE,SIN116,Asia Pacific,Singapore,75,10
-8.222.182.10,2083,,TRUE,SIN117,Asia Pacific,Singapore,116,10
-8.222.224.162,8443,,TRUE,SIN118,Asia Pacific,Singapore,65,10
-8.222.211.124,2087,,TRUE,SIN119,Asia Pacific,Singapore,89,10
-47.236.87.246,2083,,TRUE,SIN120,Asia Pacific,Singapore,140,10
-8.222.248.188,2096,,TRUE,SIN121,Asia Pacific,Singapore,120,10
-8.222.155.242,2053,,TRUE,SIN122,Asia Pacific,Singapore,59,10
-47.236.10.100,2053,,TRUE,SIN123,Asia Pacific,Singapore,101,10
-47.236.114.167,2096,,TRUE,SIN124,Asia Pacific,Singapore,46,10
-47.236.148.174,2083,,TRUE,SIN125,Asia Pacific,Singapore,56,10
-47.236.79.77,2083,,TRUE,SIN126,Asia Pacific,Singapore,78,10
-8.222.129.245,2083,,TRUE,SIN127,Asia Pacific,Singapore,109,10
-47.236.7.206,2087,,TRUE,SIN128,Asia Pacific,Singapore,73,10
-8.222.154.50,2053,,TRUE,SIN129,Asia Pacific,Singapore,67,10
-47.236.65.177,2096,,TRUE,SIN130,Asia Pacific,Singapore,50,10
-8.222.150.197,2083,,TRUE,SIN131,Asia Pacific,Singapore,49,10
-47.236.83.239,2083,,TRUE,SIN132,Asia Pacific,Singapore,229,10
-8.222.150.197,2096,,TRUE,SIN133,Asia Pacific,Singapore,63,10
-47.236.19.51,2053,,TRUE,SIN134,Asia Pacific,Singapore,,10
-47.236.83.239,2096,,TRUE,SIN135,Asia Pacific,Singapore,,10
-47.236.161.155,2053,,TRUE,SIN136,Asia Pacific,Singapore,,10
-8.222.168.24,2087,,TRUE,SIN137,Asia Pacific,Singapore,,10
-47.236.123.133,2096,,TRUE,SIN138,Asia Pacific,Singapore,,10
-47.236.83.196,2096,,TRUE,SIN139,Asia Pacific,Singapore,,10
-8.222.227.191,2096,,TRUE,SIN140,Asia Pacific,Singapore,,10
-47.236.169.236,2087,,TRUE,SIN141,Asia Pacific,Singapore,,10
-47.236.75.113,2083,,TRUE,SIN142,Asia Pacific,Singapore,,10
-8.222.188.56,2053,,TRUE,SIN143,Asia Pacific,Singapore,,10
-47.236.82.218,2087,,TRUE,SIN144,Asia Pacific,Singapore,,10
-47.236.15.73,2083,,TRUE,SIN145,Asia Pacific,Singapore,,10
-8.222.229.22,2087,,TRUE,SIN146,Asia Pacific,Singapore,,10
-8.222.145.110,2053,,TRUE,SIN147,Asia Pacific,Singapore,232,10
-47.236.15.73,2053,,TRUE,SIN148,Asia Pacific,Singapore,224,10
-8.222.187.107,2087,,TRUE,SIN149,Asia Pacific,Singapore,239,10
-47.236.93.176,2087,,TRUE,SIN150,Asia Pacific,Singapore,238,10
-8.222.137.178,2083,,TRUE,SIN151,Asia Pacific,Singapore,47,10
-8.222.238.141,2083,,TRUE,SIN152,Asia Pacific,Singapore,237,10
-8.222.224.162,2087,,TRUE,SIN153,Asia Pacific,Singapore,233,10
-8.222.182.10,2096,,TRUE,SIN154,Asia Pacific,Singapore,227,10
-8.222.215.228,2096,,TRUE,SIN155,Asia Pacific,Singapore,216,10
-8.222.160.61,2087,,TRUE,SIN156,Asia Pacific,Singapore,235,10
-47.236.172.95,2083,,TRUE,SIN157,Asia Pacific,Singapore,236,10
-8.222.215.228,2087,,TRUE,SIN158,Asia Pacific,Singapore,45,10
-8.222.224.163,2096,,TRUE,SIN159,Asia Pacific,Singapore,49,10
-47.236.97.254,8443,,TRUE,SIN160,Asia Pacific,Singapore,40,10
-47.236.99.131,2096,,TRUE,SIN161,Asia Pacific,Singapore,228,10
-47.236.97.254,2087,,TRUE,SIN162,Asia Pacific,Singapore,232,10
-47.236.7.206,2096,,TRUE,SIN163,Asia Pacific,Singapore,220,10
-47.236.147.146,2096,,TRUE,SIN164,Asia Pacific,Singapore,63,10
-8.222.160.61,2096,,TRUE,SIN165,Asia Pacific,Singapore,225,10
-8.222.131.102,8443,,TRUE,SIN166,Asia Pacific,Singapore,57,10
-47.236.174.206,2083,,TRUE,SIN167,Asia Pacific,Singapore,230,10
-8.222.211.124,2053,,TRUE,SIN168,Asia Pacific,Singapore,50,10
-8.222.144.50,2087,,TRUE,SIN169,Asia Pacific,Singapore,235,10
-47.236.180.51,8443,,TRUE,SIN170,Asia Pacific,Singapore,46,10
-47.236.97.254,2096,,TRUE,SIN171,Asia Pacific,Singapore,42,10
-8.222.182.10,8443,,TRUE,SIN172,Asia Pacific,Singapore,54,10
-47.236.96.141,8443,,TRUE,SIN173,Asia Pacific,Singapore,226,10
-8.222.187.107,8443,,TRUE,SIN174,Asia Pacific,Singapore,229,10
-47.236.76.199,2053,,TRUE,SIN175,Asia Pacific,Singapore,231,10
-47.236.163.221,2053,,TRUE,SIN176,Asia Pacific,Singapore,235,10
-8.222.144.219,2083,,TRUE,SIN177,Asia Pacific,Singapore,70,10
-8.222.212.116,2053,,TRUE,SIN178,Asia Pacific,Singapore,60,10
-47.236.149.107,2096,,TRUE,SIN179,Asia Pacific,Singapore,53,10
-8.222.164.44,2087,,TRUE,SIN180,Asia Pacific,Singapore,53,10
-47.236.7.13,2096,,TRUE,SIN181,Asia Pacific,Singapore,50,10
-47.236.7.246,8443,,TRUE,SIN182,Asia Pacific,Singapore,54,10
-47.236.99.131,2053,,TRUE,SIN183,Asia Pacific,Singapore,53,10
-47.236.104.123,2096,,TRUE,SIN184,Asia Pacific,Singapore,51,10
-47.236.180.51,2053,,TRUE,SIN185,Asia Pacific,Singapore,75,10
-8.222.184.198,2087,,TRUE,SIN186,Asia Pacific,Singapore,225,10
-47.236.150.109,2083,,TRUE,SIN187,Asia Pacific,Singapore,50,10
-8.222.244.192,2053,,TRUE,SIN188,Asia Pacific,Singapore,56,10
-8.222.130.137,2087,,TRUE,SIN189,Asia Pacific,Singapore,50,10
-47.236.150.13,2087,,TRUE,SIN190,Asia Pacific,Singapore,57,10
-8.222.190.225,2083,,TRUE,SIN191,Asia Pacific,Singapore,59,10
-47.236.104.11,8443,,TRUE,SIN192,Asia Pacific,Singapore,50,10
-47.236.7.206,2053,,TRUE,SIN193,Asia Pacific,Singapore,66,10
-47.236.119.253,2083,,TRUE,SIN194,Asia Pacific,Singapore,68,10
-47.236.150.109,2087,,TRUE,SIN195,Asia Pacific,Singapore,54,10
-47.236.4.129,2087,,TRUE,SIN196,Asia Pacific,Singapore,57,10
-8.222.237.131,2053,,TRUE,SIN197,Asia Pacific,Singapore,56,10
-47.236.97.90,2083,,TRUE,SIN198,Asia Pacific,Singapore,59,10
-47.236.172.41,2053,,TRUE,SIN199,Asia Pacific,Singapore,50,10
-47.236.193.208,2096,,TRUE,SIN200,Asia Pacific,Singapore,65,10
-47.236.167.231,8443,,TRUE,SIN201,Asia Pacific,Singapore,54,10
-47.236.144.156,2053,,TRUE,SIN202,Asia Pacific,Singapore,54,10
-47.236.7.246,2087,,TRUE,SIN203,Asia Pacific,Singapore,46,10
-8.222.255.15,2096,,TRUE,SIN204,Asia Pacific,Singapore,68,10
-47.236.104.11,2083,3-30-iptest,TRUE,SIN205,Asia Pacific,Singapore,41,10
-47.236.87.246,2053,3-30-iptest,TRUE,SIN206,Asia Pacific,Singapore,,10
-47.236.76.199,2096,3-30-iptest,TRUE,SIN207,Asia Pacific,Singapore,,10
-8.222.154.227,8443,3-30-iptest,TRUE,SIN208,Asia Pacific,Singapore,,10
-8.222.152.71,8443,3-30-iptest,TRUE,SIN209,Asia Pacific,Singapore,,10
-8.222.137.178,2096,3-30-iptest,TRUE,SIN210,Asia Pacific,Singapore,,10
-47.236.150.13,2083,3-30-iptest,TRUE,SIN211,Asia Pacific,Singapore,,10
-47.236.172.41,2096,3-30-iptest,TRUE,SIN212,Asia Pacific,Singapore,,10
-47.236.106.37,8443,3-30-iptest,TRUE,SIN213,Asia Pacific,Singapore,,10
-8.222.167.8,2096,3-30-iptest,TRUE,SIN214,Asia Pacific,Singapore,,10
-47.236.161.155,2083,3-30-iptest,TRUE,SIN215,Asia Pacific,Singapore,,10
-8.219.42.72,8443,3-30-iptest,TRUE,SIN216,Asia Pacific,Singapore,,10
-47.236.82.218,2086,3-30-iptest,FALSE,SIN217,Asia Pacific,Singapore,,10
-47.236.11.68,2095,3-30-iptest,FALSE,SIN218,Asia Pacific,Singapore,,10
-8.222.152.71,8080,3-30-iptest,FALSE,SIN219,Asia Pacific,Singapore,,10
-8.222.248.188,80,3-30-iptest,FALSE,SIN220,Asia Pacific,Singapore,,10
-47.236.176.144,2052,3-30-iptest,FALSE,SIN221,Asia Pacific,Singapore,,10
-8.222.224.162,2082,3-30-iptest,FALSE,SIN222,Asia Pacific,Singapore,,10
-47.236.79.87,2086,3-30-iptest,FALSE,SIN223,Asia Pacific,Singapore,,10
-47.236.87.206,2082,3-30-iptest,FALSE,SIN224,Asia Pacific,Singapore,,10
-47.236.82.218,2095,3-30-iptest,FALSE,SIN225,Asia Pacific,Singapore,,10
-47.236.10.100,2095,3-30-iptest,FALSE,SIN226,Asia Pacific,Singapore,,10
-47.236.97.90,8880,3-30-iptest,FALSE,SIN227,Asia Pacific,Singapore,,10
-8.222.237.131,8080,3-30-iptest,FALSE,SIN228,Asia Pacific,Singapore,,10
-47.236.104.123,2095,3-30-iptest,FALSE,SIN229,Asia Pacific,Singapore,,10
-8.222.164.44,2086,3-30-iptest,FALSE,SIN230,Asia Pacific,Singapore,,10
-47.236.114.23,2052,3-30-iptest,FALSE,SIN231,Asia Pacific,Singapore,,10
-47.236.83.196,2095,3-30-iptest,FALSE,SIN232,Asia Pacific,Singapore,,10
-47.236.7.13,80,3-30-iptest,FALSE,SIN233,Asia Pacific,Singapore,,10
-47.236.174.206,2052,3-30-iptest,FALSE,SIN234,Asia Pacific,Singapore,,10
-47.236.12.73,2095,3-30-iptest,FALSE,SIN235,Asia Pacific,Singapore,,10
-8.219.253.18,2052,3-30-iptest,FALSE,SIN236,Asia Pacific,Singapore,,10
-47.236.166.84,8080,3-31-iptest,FALSE,SIN237,Asia Pacific,Singapore,,10
-8.222.184.198,8080,3-31-iptest,FALSE,SIN238,Asia Pacific,Singapore,,10
-47.236.172.41,8080,3-31-iptest,FALSE,SIN239,Asia Pacific,Singapore,,10
-8.222.144.50,2086,3-31-iptest,FALSE,SIN240,Asia Pacific,Singapore,,10
-47.236.96.141,2083,3-31-iptest,TRUE,SIN241,Asia Pacific,Singapore,,10
-8.222.137.166,80,3-31-iptest,FALSE,SIN242,Asia Pacific,Singapore,,10
-8.222.160.176,2082,3-31-iptest,FALSE,SIN243,Asia Pacific,Singapore,,10
-8.222.129.245,2095,3-31-iptest,FALSE,SIN244,Asia Pacific,Singapore,,10
-47.236.167.231,2053,3-31-iptest,TRUE,SIN245,Asia Pacific,Singapore,,10
-47.236.97.90,2052,3-31-iptest,FALSE,SIN246,Asia Pacific,Singapore,,10
-47.236.176.144,2082,3-31-iptest,FALSE,SIN247,Asia Pacific,Singapore,,10
-8.219.101.138,2083,3-31-iptest,TRUE,SIN248,Asia Pacific,Singapore,,10
-8.222.211.124,2086,3-31-iptest,FALSE,SIN249,Asia Pacific,Singapore,,10
-8.222.224.162,2086,3-31-iptest,FALSE,SIN250,Asia Pacific,Singapore,,10
-8.219.6.157,80,3-31-iptest,FALSE,SIN251,Asia Pacific,Singapore,,10
-8.219.174.213,80,3-31-iptest,FALSE,SIN252,Asia Pacific,Singapore,,10
-8.219.210.64,8443,3-31-iptest,TRUE,SIN253,Asia Pacific,Singapore,,10
-47.236.172.41,2083,3-31-iptest,TRUE,SIN254,Asia Pacific,Singapore,,10
-8.219.242.208,2052,3-31-iptest,FALSE,SIN255,Asia Pacific,Singapore,,10
-47.236.116.208,8443,3-31-iptest,TRUE,SIN256,Asia Pacific,Singapore,,10
-8.222.144.219,2082,3-31-iptest,FALSE,SIN257,Asia Pacific,Singapore,,10
-47.236.71.226,8443,3-31-iptest,TRUE,SIN258,Asia Pacific,Singapore,,10
-47.236.12.73,8080,3-31-iptest,FALSE,SIN259,Asia Pacific,Singapore,,10
-8.222.162.45,80,3-31-iptest,FALSE,SIN260,Asia Pacific,Singapore,,10
-47.236.145.85,2052,3-31-iptest,FALSE,SIN261,Asia Pacific,Singapore,,10
-47.236.82.218,80,3-31-iptest,FALSE,SIN262,Asia Pacific,Singapore,,10
-47.236.7.246,2052,3-31-iptest,FALSE,SIN263,Asia Pacific,Singapore,,10
-47.236.166.84,2087,3-31-iptest,TRUE,SIN264,Asia Pacific,Singapore,,10
-8.222.154.227,2086,3-31-iptest,FALSE,SIN265,Asia Pacific,Singapore,,10
-47.236.194.67,8080,3-31-iptest,FALSE,SIN266,Asia Pacific,Singapore,,10
-47.236.145.180,2083,3-31-iptest,TRUE,SIN268,Asia Pacific,Singapore,,10
-47.236.5.223,2096,3-31-iptest,TRUE,SIN269,Asia Pacific,Singapore,,10
-47.236.5.223,2086,3-31-iptest,FALSE,SIN270,Asia Pacific,Singapore,,10
-47.236.123.133,80,4-1iptest,FALSE,SIN273,Asia Pacific,Singapore,,10
-8.222.187.107,2086,4-1iptest,FALSE,SIN274,Asia Pacific,Singapore,,10
-8.219.170.58,8080,4-1iptest,FALSE,SIN276,Asia Pacific,Singapore,,10
-8.222.128.131,2082,4-1iptest,FALSE,SIN277,Asia Pacific,Singapore,,10
-47.236.192.198,2052,4-1iptest,FALSE,SIN278,Asia Pacific,Singapore,,10
-47.236.88.181,8080,4-1iptest,FALSE,SIN279,Asia Pacific,Singapore,,10
-8.219.171.6,2087,4-1iptest,TRUE,SIN280,Asia Pacific,Singapore,,10
-8.222.168.155,2087,4-1iptest,TRUE,SIN282,Asia Pacific,Singapore,,10
-8.222.167.147,2096,4-1iptest,TRUE,SIN283,Asia Pacific,Singapore,,10
-47.236.76.199,8080,4-1iptest,FALSE,SIN284,Asia Pacific,Singapore,,10
-8.219.113.232,2053,4-1iptest,TRUE,SIN285,Asia Pacific,Singapore,,10
-8.219.171.6,8880,4-1iptest,FALSE,SIN286,Asia Pacific,Singapore,,10
-8.222.140.185,2082,4-1iptest,FALSE,SIN287,Asia Pacific,Singapore,,11
-8.222.191.158,2086,4-1iptest,FALSE,SIN288,Asia Pacific,Singapore,,12
-8.219.42.72,80,4-1iptest,FALSE,SIN289,Asia Pacific,Singapore,,13
-8.219.198.139,2052,4-1iptest,FALSE,SIN290,Asia Pacific,Singapore,,14
-47.236.94.109,8880,4-1iptest,FALSE,SIN291,Asia Pacific,Singapore,,15
-47.236.99.131,2095,4-1iptest,FALSE,SIN292,Asia Pacific,Singapore,,16
-8.222.238.141,80,4-1iptest,FALSE,SIN293,Asia Pacific,Singapore,,17
-47.236.176.144,8080,4-1iptest,FALSE,SIN294,Asia Pacific,Singapore,,18
-8.222.164.209,2086,4-1iptest,FALSE,SIN295,Asia Pacific,Singapore,,19
-8.222.128.131,8080,4-1iptest,FALSE,SIN296,Asia Pacific,Singapore,,20
-47.236.94.113,80,4-1iptest,FALSE,SIN297,Asia Pacific,Singapore,,21
-47.236.169.236,80,4-1iptest,FALSE,SIN298,Asia Pacific,Singapore,,22
-8.222.154.227,80,4-1iptest,FALSE,SIN299,Asia Pacific,Singapore,,23
-8.222.155.242,2082,4-1iptest,FALSE,SIN300,Asia Pacific,Singapore,,24
-47.236.114.167,2087,4-1iptest,TRUE,SIN301,Asia Pacific,Singapore,,25
-8.219.6.157,2096,4-1iptest,TRUE,SIN302,Asia Pacific,Singapore,,26
-8.222.167.8,80,4-1iptest,FALSE,SIN303,Asia Pacific,Singapore,,27
-47.236.92.191,2087,4-1iptest,TRUE,SIN304,Asia Pacific,Singapore,,28
-8.222.152.71,2086,4-1iptest,FALSE,SIN305,Asia Pacific,Singapore,,29
-47.236.192.198,2087,4-1iptest,TRUE,SIN306,Asia Pacific,Singapore,,30
-47.236.161.110,2053,4-1iptest,TRUE,SIN307,Asia Pacific,Singapore,,31
-47.236.121.7,2096,4-1iptest,TRUE,SIN308,Asia Pacific,Singapore,,32
-47.236.92.191,2083,4-2iptest,TRUE,SIN309,Asia Pacific,Singapore,,33
-8.222.164.44,2096,4-2iptest,TRUE,SIN310,Asia Pacific,Singapore,,34
-8.219.139.86,2053,4-2iptest,TRUE,SIN311,Asia Pacific,Singapore,,35
-8.219.174.213,2086,4-2iptest,FALSE,SIN312,Asia Pacific,Singapore,,36
-47.236.76.199,2086,4-2iptest,FALSE,SIN313,Asia Pacific,Singapore,,37
-8.219.6.157,2083,4-2iptest,TRUE,SIN314,Asia Pacific,Singapore,,38
-47.236.187.144,8080,4-2iptest,FALSE,SIN315,Asia Pacific,Singapore,,39
-47.236.97.111,8080,4-2iptest,FALSE,SIN316,Asia Pacific,Singapore,,40
-8.222.154.50,2082,4-2iptest,FALSE,SIN317,Asia Pacific,Singapore,,41
-47.236.97.90,2086,4-2iptest,FALSE,SIN318,Asia Pacific,Singapore,,42
-47.236.167.231,80,4-2iptest,FALSE,SIN319,Asia Pacific,Singapore,,43
-8.222.219.252,8080,4-2iptest,FALSE,SIN320,Asia Pacific,Singapore,,44
-8.222.140.185,2095,4-2iptest,FALSE,SIN321,Asia Pacific,Singapore,,45
-47.236.169.164,8880,4-2iptest,FALSE,SIN322,Asia Pacific,Singapore,,46
-47.236.172.71,80,4-2iptest,FALSE,SIN323,Asia Pacific,Singapore,,47
-47.236.169.236,2052,4-2iptest,FALSE,SIN324,Asia Pacific,Singapore,,47
-8.222.136.247,2095,4-2iptest,FALSE,SIN325,Asia Pacific,Singapore,,47
-8.219.123.244,2096,4-2iptest,TRUE,SIN326,Asia Pacific,Singapore,,47
-8.222.131.102,2082,4-2iptest,FALSE,SIN327,Asia Pacific,Singapore,,47
-8.219.77.91,2052,4-2iptest,FALSE,SIN328,Asia Pacific,Singapore,,47
-8.222.227.191,8880,4-2iptest,FALSE,SIN329,Asia Pacific,Singapore,,47
-8.222.133.247,2086,4-2iptest,FALSE,SIN330,Asia Pacific,Singapore,,47
-47.236.71.226,2052,4-2iptest,FALSE,SIN331,Asia Pacific,Singapore,,47
-47.236.171.20,2095,4-2iptest,FALSE,SIN332,Asia Pacific,Singapore,,47
-8.222.134.170,2052,4-2iptest,FALSE,SIN333,Asia Pacific,Singapore,,47
-47.236.92.191,2095,4-2iptest,FALSE,SIN334,Asia Pacific,Singapore,,47
-47.236.144.208,2095,4-2iptest,FALSE,SIN335,Asia Pacific,Singapore,,47
-8.219.65.191,2082,4-2iptest,FALSE,SIN336,Asia Pacific,Singapore,,47
-47.236.11.68,2082,4-2iptest,FALSE,SIN337,Asia Pacific,Singapore,,47
-47.236.79.77,2096,4-2iptest,TRUE,SIN338,Asia Pacific,Singapore,,47
-47.236.93.176,2086,4-2iptest,FALSE,SIN339,Asia Pacific,Singapore,,47
-8.222.152.71,80,4-2iptest,FALSE,SIN340,Asia Pacific,Singapore,,47
-8.222.131.102,2086,4-2iptest,FALSE,SIN341,Asia Pacific,Singapore,,47
-47.236.150.109,8080,4-2iptest,FALSE,SIN342,Asia Pacific,Singapore,,47
-8.222.150.197,80,4-2iptest,FALSE,SIN343,Asia Pacific,Singapore,,47
-47.236.11.84,2082,4-2iptest,FALSE,SIN344,Asia Pacific,Singapore,,47
-47.236.189.173,8443,4-2iptest,TRUE,SIN345,Asia Pacific,Singapore,,47
-47.236.172.95,2052,4-2iptest,FALSE,SIN346,Asia Pacific,Singapore,,47
-47.236.116.182,2083,4-2iptest,TRUE,SIN347,Asia Pacific,Singapore,,47
-8.222.140.185,80,4-2iptest,FALSE,SIN348,Asia Pacific,Singapore,,47
-8.222.145.164,2052,4-2iptest,FALSE,SIN349,Asia Pacific,Singapore,,47
-8.219.65.191,2083,4-2iptest,TRUE,SIN350,Asia Pacific,Singapore,,47
-47.236.123.133,2083,4-2iptest,TRUE,SIN351,Asia Pacific,Singapore,,47
-47.236.198.189,2052,4-2iptest,FALSE,SIN352,Asia Pacific,Singapore,,47
-8.222.182.10,80,4-2iptest,FALSE,SIN353,Asia Pacific,Singapore,,47
-8.219.151.193,2052,4-2iptest,FALSE,SIN354,Asia Pacific,Singapore,,47
-8.219.65.191,2087,4-2iptest,TRUE,SIN355,Asia Pacific,Singapore,,47
-47.236.187.144,2087,4-2iptest,TRUE,SIN356,Asia Pacific,Singapore,,47
-8.222.164.44,2082,4-2iptest,FALSE,SIN357,Asia Pacific,Singapore,,47
-158.178.242.5,80,4-2iptest,FALSE,SIN358,Asia Pacific,Singapore,,47
-,,,,SIN359,Asia Pacific,Singapore,,47
-,,,,SIN360,Asia Pacific,Singapore,,47
-,,,,SIN361,Asia Pacific,Singapore,,47
-,,,,SIN362,Asia Pacific,Singapore,,47
-,,,,SIN363,Asia Pacific,Singapore,,47
-,,,,SIN364,Asia Pacific,Singapore,,47
-,,,,SIN365,Asia Pacific,Singapore,,47
-,,,,SIN366,Asia Pacific,Singapore,,47
-,,,,SIN367,Asia Pacific,Singapore,,47
-,,,,SIN368,Asia Pacific,Singapore,,47
-,,,,SIN369,Asia Pacific,Singapore,,47
-,,,,SIN370,Asia Pacific,Singapore,,47
-,,,,SIN371,Asia Pacific,Singapore,,47
-,,,,SIN372,Asia Pacific,Singapore,,47
-,,,,SIN373,Asia Pacific,Singapore,,47
+47.236.166.184,2053,,TRUE,SIN013,Asia Pacific,Singapore,107,10
+8.222.238.141,8443,,TRUE,SIN014,Asia Pacific,Singapore,95,10
+47.236.166.131,8443,,TRUE,SIN015,Asia Pacific,Singapore,117,10
+8.222.238.141,2053,,TRUE,SIN016,Asia Pacific,Singapore,87,10
+47.236.171.20,2087,,TRUE,SIN017,Asia Pacific,Singapore,161,10
+47.236.116.182,2096,,TRUE,SIN018,Asia Pacific,Singapore,146,10
+8.222.238.141,2096,,TRUE,SIN019,Asia Pacific,Singapore,59,10
+47.236.87.206,2053,,TRUE,SIN020,Asia Pacific,Singapore,161,10
+47.236.65.177,2087,,TRUE,SIN021,Asia Pacific,Singapore,91,10
+8.222.168.234,2083,,TRUE,SIN022,Asia Pacific,Singapore,122,10
+8.222.221.197,8443,,TRUE,SIN023,Asia Pacific,Singapore,137,10
+8.222.137.178,2053,,TRUE,SIN024,Asia Pacific,Singapore,96,10
+47.236.94.109,2087,,TRUE,SIN025,Asia Pacific,Singapore,91,10
+47.236.79.87,2096,,TRUE,SIN026,Asia Pacific,Singapore,45,10
+47.236.106.37,2083,,TRUE,SIN027,Asia Pacific,Singapore,48,10
+47.236.163.221,8443,,TRUE,SIN028,Asia Pacific,Singapore,67,10
+47.236.87.206,2087,,TRUE,SIN029,Asia Pacific,Singapore,84,10
+8.222.187.107,2083,,TRUE,SIN030,Asia Pacific,Singapore,112,10
+47.236.103.153,2053,,TRUE,SIN031,Asia Pacific,Singapore,208,10
+47.236.71.226,2083,,TRUE,SIN032,Asia Pacific,Singapore,76,10
+8.222.240.47,8443,,TRUE,SIN033,Asia Pacific,Singapore,113,10
+47.236.79.87,2083,,TRUE,SIN034,Asia Pacific,Singapore,174,10
+47.236.168.17,2087,,TRUE,SIN035,Asia Pacific,Singapore,101,10
+8.222.154.227,2083,,TRUE,SIN036,Asia Pacific,Singapore,91,10
+47.236.121.7,443,,TRUE,SIN037,Asia Pacific,Singapore,125,10
+47.236.103.153,2096,,TRUE,SIN038,Asia Pacific,Singapore,79,10
+47.236.145.180,2087,,TRUE,SIN039,Asia Pacific,Singapore,42,10
+8.222.136.247,2087,,TRUE,SIN040,Asia Pacific,Singapore,132,10
+8.219.60.130,2083,,TRUE,SIN041,Asia Pacific,Singapore,118,10
+8.222.147.203,2083,,TRUE,SIN042,Asia Pacific,Singapore,112,10
+8.222.237.131,2087,,TRUE,SIN043,Asia Pacific,Singapore,60,10
+8.222.174.108,2053,,TRUE,SIN044,Asia Pacific,Singapore,156,10
+8.222.227.191,2087,,TRUE,SIN045,Asia Pacific,Singapore,130,10
+47.236.19.51,2096,,TRUE,SIN046,Asia Pacific,Singapore,101,10
+8.222.162.45,2087,,TRUE,SIN047,Asia Pacific,Singapore,62,10
+8.222.147.203,2087,,TRUE,SIN048,Asia Pacific,Singapore,117,10
+47.236.96.141,2096,,TRUE,SIN049,Asia Pacific,Singapore,99,10
+47.236.123.133,2087,,TRUE,SIN050,Asia Pacific,Singapore,38,10
+47.236.97.90,8443,,TRUE,SIN051,Asia Pacific,Singapore,70,10
+47.236.144.196,2053,,TRUE,SIN052,Asia Pacific,Singapore,61,10
+47.236.165.25,8443,,TRUE,SIN053,Asia Pacific,Singapore,90,10
+47.236.121.23,2096,,TRUE,SIN054,Asia Pacific,Singapore,149,10
+47.236.93.176,2083,,TRUE,SIN055,Asia Pacific,Singapore,88,10
+8.222.144.50,8443,,TRUE,SIN056,Asia Pacific,Singapore,90,10
+47.236.180.51,2083,,TRUE,SIN057,Asia Pacific,Singapore,141,10
+47.236.5.223,8443,,TRUE,SIN058,Asia Pacific,Singapore,90,10
+8.222.240.47,2083,,TRUE,SIN059,Asia Pacific,Singapore,199,10
+47.236.172.95,2053,,TRUE,SIN060,Asia Pacific,Singapore,89,10
+47.236.10.100,2096,,TRUE,SIN061,Asia Pacific,Singapore,89,10
+47.236.163.221,2083,,TRUE,SIN062,Asia Pacific,Singapore,149,10
+47.236.163.95,2053,,TRUE,SIN063,Asia Pacific,Singapore,99,10
+47.236.106.37,2096,,TRUE,SIN064,Asia Pacific,Singapore,62,10
+47.236.121.7,8443,,TRUE,SIN065,Asia Pacific,Singapore,67,10
+47.236.171.20,2083,,TRUE,SIN066,Asia Pacific,Singapore,91,10
+47.236.29.235,2087,,TRUE,SIN067,Asia Pacific,Singapore,69,10
+47.236.166.131,2053,,TRUE,SIN068,Asia Pacific,Singapore,157,10
+47.236.174.206,2053,,TRUE,SIN069,Asia Pacific,Singapore,104,10
+47.236.123.218,2083,,TRUE,SIN070,Asia Pacific,Singapore,151,10
+47.236.163.95,8443,,TRUE,SIN071,Asia Pacific,Singapore,5,10
+47.236.119.253,8443,,TRUE,SIN072,Asia Pacific,Singapore,124,10
+47.236.123.218,2053,,TRUE,SIN073,Asia Pacific,Singapore,89,10
+8.222.219.252,2087,,TRUE,SIN074,Asia Pacific,Singapore,107,10
+8.222.237.131,2096,,TRUE,SIN075,Asia Pacific,Singapore,23,10
+47.236.97.254,2053,,TRUE,SIN076,Asia Pacific,Singapore,115,10
+47.236.97.111,2096,,TRUE,SIN077,Asia Pacific,Singapore,74,10
+47.236.114.23,2053,,TRUE,SIN078,Asia Pacific,Singapore,1019,10
+47.236.145.85,2083,,TRUE,SIN079,Asia Pacific,Singapore,113,10
+8.222.164.44,2053,,TRUE,SIN080,Asia Pacific,Singapore,99,10
+47.236.145.85,2053,,TRUE,SIN081,Asia Pacific,Singapore,83,10
+8.222.240.47,2096,,TRUE,SIN082,Asia Pacific,Singapore,35,10
+47.236.79.77,2053,,TRUE,SIN083,Asia Pacific,Singapore,136,10
+47.236.87.206,443,,TRUE,SIN084,Asia Pacific,Singapore,71,10
+47.236.144.208,2087,,TRUE,SIN085,Asia Pacific,Singapore,92,10
+8.222.249.190,2083,,TRUE,SIN086,Asia Pacific,Singapore,83,10
+8.222.237.131,2083,,TRUE,SIN087,Asia Pacific,Singapore,99,10
+8.222.133.247,2087,,TRUE,SIN088,Asia Pacific,Singapore,132,10
+8.219.60.130,2087,,TRUE,SIN089,Asia Pacific,Singapore,89,10
+47.236.99.131,2083,,TRUE,SIN090,Asia Pacific,Singapore,85,10
+47.236.7.246,2096,,TRUE,SIN091,Asia Pacific,Singapore,128,10
+47.236.94.113,2087,,TRUE,SIN092,Asia Pacific,Singapore,105,10
+47.236.165.25,2053,,TRUE,SIN093,Asia Pacific,Singapore,13,10
+47.236.76.199,8443,,TRUE,SIN094,Asia Pacific,Singapore,132,10
+47.236.166.184,2096,,TRUE,SIN095,Asia Pacific,Singapore,120,10
+8.222.167.147,8443,,TRUE,SIN096,Asia Pacific,Singapore,105,10
+47.236.65.177,2083,,TRUE,SIN097,Asia Pacific,Singapore,59,10
+47.236.171.205,2087,,TRUE,SIN098,Asia Pacific,Singapore,100,10
+47.236.121.7,2053,,TRUE,SIN099,Asia Pacific,Singapore,115,10
+47.236.144.208,8443,,TRUE,SIN100,Asia Pacific,Singapore,128,10
+47.236.7.206,8443,,TRUE,SIN101,Asia Pacific,Singapore,103,10
+47.236.163.221,2087,,TRUE,SIN102,Asia Pacific,Singapore,63,10
+47.236.11.68,2053,,TRUE,SIN103,Asia Pacific,Singapore,85,10
+8.222.248.188,2087,,TRUE,SIN104,Asia Pacific,Singapore,77,10
+8.222.137.166,2096,,TRUE,SIN105,Asia Pacific,Singapore,58,10
+47.236.114.23,2096,,TRUE,SIN106,Asia Pacific,Singapore,150,10
+47.236.5.223,2053,,TRUE,SIN107,Asia Pacific,Singapore,5,10
+8.222.224.163,8443,,TRUE,SIN108,Asia Pacific,Singapore,116,10
+47.236.172.71,8443,,TRUE,SIN109,Asia Pacific,Singapore,105,10
+47.236.130.95,2096,,TRUE,SIN110,Asia Pacific,Singapore,90,10
+47.236.116.182,2053,,TRUE,SIN111,Asia Pacific,Singapore,109,10
+47.236.38.38,443,,TRUE,SIN112,Asia Pacific,Singapore,146,10
+47.236.144.156,2083,,TRUE,SIN113,Asia Pacific,Singapore,138,10
+47.236.96.141,2087,,TRUE,SIN114,Asia Pacific,Singapore,119,10
+8.222.182.10,2083,,TRUE,SIN115,Asia Pacific,Singapore,93,10
+8.222.224.162,8443,,TRUE,SIN116,Asia Pacific,Singapore,75,10
+8.222.211.124,2087,,TRUE,SIN117,Asia Pacific,Singapore,116,10
+47.236.87.246,2083,,TRUE,SIN118,Asia Pacific,Singapore,65,10
+8.222.248.188,2096,,TRUE,SIN119,Asia Pacific,Singapore,89,10
+8.222.155.242,2053,,TRUE,SIN120,Asia Pacific,Singapore,140,10
+47.236.10.100,2053,,TRUE,SIN121,Asia Pacific,Singapore,120,10
+47.236.114.167,2096,,TRUE,SIN122,Asia Pacific,Singapore,59,10
+47.236.148.174,2083,,TRUE,SIN123,Asia Pacific,Singapore,101,10
+47.236.79.77,2083,,TRUE,SIN124,Asia Pacific,Singapore,46,10
+8.222.129.245,2083,,TRUE,SIN125,Asia Pacific,Singapore,56,10
+47.236.7.206,2087,,TRUE,SIN126,Asia Pacific,Singapore,78,10
+8.222.154.50,2053,,TRUE,SIN127,Asia Pacific,Singapore,109,10
+47.236.65.177,2096,,TRUE,SIN128,Asia Pacific,Singapore,73,10
+8.222.150.197,2083,,TRUE,SIN129,Asia Pacific,Singapore,67,10
+47.236.83.239,2083,,TRUE,SIN130,Asia Pacific,Singapore,50,10
+8.222.150.197,2096,,TRUE,SIN131,Asia Pacific,Singapore,49,10
+47.236.19.51,2053,,TRUE,SIN132,Asia Pacific,Singapore,229,10
+47.236.83.239,2096,,TRUE,SIN133,Asia Pacific,Singapore,63,10
+47.236.161.155,2053,,TRUE,SIN134,Asia Pacific,Singapore,,10
+8.222.168.24,2087,,TRUE,SIN135,Asia Pacific,Singapore,,10
+47.236.123.133,2096,,TRUE,SIN136,Asia Pacific,Singapore,,10
+47.236.83.196,2096,,TRUE,SIN137,Asia Pacific,Singapore,,10
+8.222.227.191,2096,,TRUE,SIN138,Asia Pacific,Singapore,,10
+47.236.169.236,2087,,TRUE,SIN139,Asia Pacific,Singapore,,10
+47.236.75.113,2083,,TRUE,SIN140,Asia Pacific,Singapore,,10
+8.222.188.56,2053,,TRUE,SIN141,Asia Pacific,Singapore,,10
+47.236.82.218,2087,,TRUE,SIN142,Asia Pacific,Singapore,,10
+47.236.15.73,2083,,TRUE,SIN143,Asia Pacific,Singapore,,10
+8.222.229.22,2087,,TRUE,SIN144,Asia Pacific,Singapore,,10
+8.222.145.110,2053,,TRUE,SIN145,Asia Pacific,Singapore,,10
+47.236.15.73,2053,,TRUE,SIN146,Asia Pacific,Singapore,,10
+8.222.187.107,2087,,TRUE,SIN147,Asia Pacific,Singapore,232,10
+47.236.93.176,2087,,TRUE,SIN148,Asia Pacific,Singapore,224,10
+8.222.137.178,2083,,TRUE,SIN149,Asia Pacific,Singapore,239,10
+8.222.238.141,2083,,TRUE,SIN150,Asia Pacific,Singapore,238,10
+8.222.224.162,2087,,TRUE,SIN151,Asia Pacific,Singapore,47,10
+8.222.182.10,2096,,TRUE,SIN152,Asia Pacific,Singapore,237,10
+8.222.215.228,2096,,TRUE,SIN153,Asia Pacific,Singapore,233,10
+8.222.160.61,2087,,TRUE,SIN154,Asia Pacific,Singapore,227,10
+47.236.172.95,2083,,TRUE,SIN155,Asia Pacific,Singapore,216,10
+8.222.215.228,2087,,TRUE,SIN156,Asia Pacific,Singapore,235,10
+8.222.224.163,2096,,TRUE,SIN157,Asia Pacific,Singapore,236,10
+47.236.97.254,8443,,TRUE,SIN158,Asia Pacific,Singapore,45,10
+47.236.99.131,2096,,TRUE,SIN159,Asia Pacific,Singapore,49,10
+47.236.97.254,2087,,TRUE,SIN160,Asia Pacific,Singapore,40,10
+47.236.7.206,2096,,TRUE,SIN161,Asia Pacific,Singapore,228,10
+47.236.147.146,2096,,TRUE,SIN162,Asia Pacific,Singapore,232,10
+8.222.160.61,2096,,TRUE,SIN163,Asia Pacific,Singapore,220,10
+8.222.131.102,8443,,TRUE,SIN164,Asia Pacific,Singapore,63,10
+47.236.174.206,2083,,TRUE,SIN165,Asia Pacific,Singapore,225,10
+8.222.211.124,2053,,TRUE,SIN166,Asia Pacific,Singapore,57,10
+8.222.144.50,2087,,TRUE,SIN167,Asia Pacific,Singapore,230,10
+47.236.180.51,8443,,TRUE,SIN168,Asia Pacific,Singapore,50,10
+47.236.97.254,2096,,TRUE,SIN169,Asia Pacific,Singapore,235,10
+8.222.182.10,8443,,TRUE,SIN170,Asia Pacific,Singapore,46,10
+47.236.96.141,8443,,TRUE,SIN171,Asia Pacific,Singapore,42,10
+8.222.187.107,8443,,TRUE,SIN172,Asia Pacific,Singapore,54,10
+47.236.76.199,2053,,TRUE,SIN173,Asia Pacific,Singapore,226,10
+47.236.163.221,2053,,TRUE,SIN174,Asia Pacific,Singapore,229,10
+8.222.144.219,2083,,TRUE,SIN175,Asia Pacific,Singapore,231,10
+8.222.212.116,2053,,TRUE,SIN176,Asia Pacific,Singapore,235,10
+47.236.149.107,2096,,TRUE,SIN177,Asia Pacific,Singapore,70,10
+8.222.164.44,2087,,TRUE,SIN178,Asia Pacific,Singapore,60,10
+47.236.7.13,2096,,TRUE,SIN179,Asia Pacific,Singapore,53,10
+47.236.7.246,8443,,TRUE,SIN180,Asia Pacific,Singapore,53,10
+47.236.99.131,2053,,TRUE,SIN181,Asia Pacific,Singapore,50,10
+47.236.104.123,2096,,TRUE,SIN182,Asia Pacific,Singapore,54,10
+47.236.180.51,2053,,TRUE,SIN183,Asia Pacific,Singapore,53,10
+8.222.184.198,2087,,TRUE,SIN184,Asia Pacific,Singapore,51,10
+47.236.150.109,2083,,TRUE,SIN185,Asia Pacific,Singapore,75,10
+8.222.244.192,2053,,TRUE,SIN186,Asia Pacific,Singapore,225,10
+8.222.130.137,2087,,TRUE,SIN187,Asia Pacific,Singapore,50,10
+47.236.150.13,2087,,TRUE,SIN188,Asia Pacific,Singapore,56,10
+8.222.190.225,2083,,TRUE,SIN189,Asia Pacific,Singapore,50,10
+47.236.104.11,8443,,TRUE,SIN190,Asia Pacific,Singapore,57,10
+47.236.7.206,2053,,TRUE,SIN191,Asia Pacific,Singapore,59,10
+47.236.119.253,2083,,TRUE,SIN192,Asia Pacific,Singapore,50,10
+47.236.150.109,2087,,TRUE,SIN193,Asia Pacific,Singapore,66,10
+47.236.4.129,2087,,TRUE,SIN194,Asia Pacific,Singapore,68,10
+8.222.237.131,2053,,TRUE,SIN195,Asia Pacific,Singapore,54,10
+47.236.97.90,2083,,TRUE,SIN196,Asia Pacific,Singapore,57,10
+47.236.172.41,2053,,TRUE,SIN197,Asia Pacific,Singapore,56,10
+47.236.193.208,2096,,TRUE,SIN198,Asia Pacific,Singapore,59,10
+47.236.167.231,8443,,TRUE,SIN199,Asia Pacific,Singapore,50,10
+47.236.144.156,2053,,TRUE,SIN200,Asia Pacific,Singapore,65,10
+47.236.7.246,2087,,TRUE,SIN201,Asia Pacific,Singapore,54,10
+8.222.255.15,2096,,TRUE,SIN202,Asia Pacific,Singapore,54,10
+47.236.104.11,2083,3-30-iptest,TRUE,SIN203,Asia Pacific,Singapore,46,10
+47.236.87.246,2053,3-30-iptest,TRUE,SIN204,Asia Pacific,Singapore,68,10
+47.236.76.199,2096,3-30-iptest,TRUE,SIN205,Asia Pacific,Singapore,41,10
+8.222.154.227,8443,3-30-iptest,TRUE,SIN206,Asia Pacific,Singapore,,10
+8.222.152.71,8443,3-30-iptest,TRUE,SIN207,Asia Pacific,Singapore,,10
+8.222.137.178,2096,3-30-iptest,TRUE,SIN208,Asia Pacific,Singapore,,10
+47.236.150.13,2083,3-30-iptest,TRUE,SIN209,Asia Pacific,Singapore,,10
+47.236.172.41,2096,3-30-iptest,TRUE,SIN210,Asia Pacific,Singapore,,10
+47.236.106.37,8443,3-30-iptest,TRUE,SIN211,Asia Pacific,Singapore,,10
+8.222.167.8,2096,3-30-iptest,TRUE,SIN212,Asia Pacific,Singapore,,10
+47.236.161.155,2083,3-30-iptest,TRUE,SIN213,Asia Pacific,Singapore,,10
+47.236.82.218,2086,3-30-iptest,FALSE,SIN214,Asia Pacific,Singapore,,10
+47.236.11.68,2095,3-30-iptest,FALSE,SIN215,Asia Pacific,Singapore,,10
+8.222.152.71,8080,3-30-iptest,FALSE,SIN216,Asia Pacific,Singapore,,10
+8.222.248.188,80,3-30-iptest,FALSE,SIN217,Asia Pacific,Singapore,,10
+47.236.176.144,2052,3-30-iptest,FALSE,SIN218,Asia Pacific,Singapore,,10
+8.222.224.162,2082,3-30-iptest,FALSE,SIN219,Asia Pacific,Singapore,,10
+47.236.79.87,2086,3-30-iptest,FALSE,SIN220,Asia Pacific,Singapore,,10
+47.236.87.206,2082,3-30-iptest,FALSE,SIN221,Asia Pacific,Singapore,,10
+47.236.82.218,2095,3-30-iptest,FALSE,SIN222,Asia Pacific,Singapore,,10
+47.236.10.100,2095,3-30-iptest,FALSE,SIN223,Asia Pacific,Singapore,,10
+47.236.97.90,8880,3-30-iptest,FALSE,SIN224,Asia Pacific,Singapore,,10
+8.222.237.131,8080,3-30-iptest,FALSE,SIN225,Asia Pacific,Singapore,,10
+47.236.104.123,2095,3-30-iptest,FALSE,SIN226,Asia Pacific,Singapore,,10
+8.222.164.44,2086,3-30-iptest,FALSE,SIN227,Asia Pacific,Singapore,,10
+47.236.114.23,2052,3-30-iptest,FALSE,SIN228,Asia Pacific,Singapore,,10
+47.236.83.196,2095,3-30-iptest,FALSE,SIN229,Asia Pacific,Singapore,,10
+47.236.7.13,80,3-30-iptest,FALSE,SIN230,Asia Pacific,Singapore,,10
+47.236.174.206,2052,3-30-iptest,FALSE,SIN231,Asia Pacific,Singapore,,10
+47.236.12.73,2095,3-30-iptest,FALSE,SIN232,Asia Pacific,Singapore,,10
+47.236.166.84,8080,3-31-iptest,FALSE,SIN233,Asia Pacific,Singapore,,10
+8.222.184.198,8080,3-31-iptest,FALSE,SIN234,Asia Pacific,Singapore,,10
+47.236.172.41,8080,3-31-iptest,FALSE,SIN235,Asia Pacific,Singapore,,10
+8.222.144.50,2086,3-31-iptest,FALSE,SIN236,Asia Pacific,Singapore,,10
+47.236.96.141,2083,3-31-iptest,TRUE,SIN237,Asia Pacific,Singapore,,10
+8.222.137.166,80,3-31-iptest,FALSE,SIN238,Asia Pacific,Singapore,,10
+8.222.160.176,2082,3-31-iptest,FALSE,SIN239,Asia Pacific,Singapore,,10
+8.222.129.245,2095,3-31-iptest,FALSE,SIN240,Asia Pacific,Singapore,,10
+47.236.167.231,2053,3-31-iptest,TRUE,SIN241,Asia Pacific,Singapore,,10
+47.236.97.90,2052,3-31-iptest,FALSE,SIN242,Asia Pacific,Singapore,,10
+47.236.176.144,2082,3-31-iptest,FALSE,SIN243,Asia Pacific,Singapore,,10
+8.219.101.138,2083,3-31-iptest,TRUE,SIN244,Asia Pacific,Singapore,,10
+8.222.211.124,2086,3-31-iptest,FALSE,SIN245,Asia Pacific,Singapore,,10
+8.222.224.162,2086,3-31-iptest,FALSE,SIN246,Asia Pacific,Singapore,,10
+8.219.174.213,80,3-31-iptest,FALSE,SIN247,Asia Pacific,Singapore,,10
+47.236.172.41,2083,3-31-iptest,TRUE,SIN248,Asia Pacific,Singapore,,10
+47.236.116.208,8443,3-31-iptest,TRUE,SIN249,Asia Pacific,Singapore,,10
+8.222.144.219,2082,3-31-iptest,FALSE,SIN250,Asia Pacific,Singapore,,10
+47.236.71.226,8443,3-31-iptest,TRUE,SIN251,Asia Pacific,Singapore,,10
+47.236.12.73,8080,3-31-iptest,FALSE,SIN252,Asia Pacific,Singapore,,10
+8.222.162.45,80,3-31-iptest,FALSE,SIN253,Asia Pacific,Singapore,,10
+47.236.145.85,2052,3-31-iptest,FALSE,SIN254,Asia Pacific,Singapore,,10
+47.236.82.218,80,3-31-iptest,FALSE,SIN255,Asia Pacific,Singapore,,10
+47.236.7.246,2052,3-31-iptest,FALSE,SIN256,Asia Pacific,Singapore,,10
+47.236.166.84,2087,3-31-iptest,TRUE,SIN257,Asia Pacific,Singapore,,10
+8.222.154.227,2086,3-31-iptest,FALSE,SIN258,Asia Pacific,Singapore,,10
+47.236.194.67,8080,3-31-iptest,FALSE,SIN259,Asia Pacific,Singapore,,10
+47.236.145.180,2083,3-31-iptest,TRUE,SIN260,Asia Pacific,Singapore,,10
+47.236.5.223,2096,3-31-iptest,TRUE,SIN261,Asia Pacific,Singapore,,10
+47.236.5.223,2086,3-31-iptest,FALSE,SIN262,Asia Pacific,Singapore,,10
+47.236.123.133,80,4-1iptest,FALSE,SIN263,Asia Pacific,Singapore,,10
+8.222.187.107,2086,4-1iptest,FALSE,SIN264,Asia Pacific,Singapore,,10
+8.222.128.131,2082,4-1iptest,FALSE,SIN265,Asia Pacific,Singapore,,10
+47.236.192.198,2052,4-1iptest,FALSE,SIN266,Asia Pacific,Singapore,,10
+47.236.88.181,8080,4-1iptest,FALSE,SIN268,Asia Pacific,Singapore,,10
+8.219.171.6,2087,4-1iptest,TRUE,SIN269,Asia Pacific,Singapore,,10
+8.222.168.155,2087,4-1iptest,TRUE,SIN270,Asia Pacific,Singapore,,10
+8.222.167.147,2096,4-1iptest,TRUE,SIN273,Asia Pacific,Singapore,,10
+47.236.76.199,8080,4-1iptest,FALSE,SIN274,Asia Pacific,Singapore,,10
+8.219.171.6,8880,4-1iptest,FALSE,SIN276,Asia Pacific,Singapore,,10
+8.222.140.185,2082,4-1iptest,FALSE,SIN277,Asia Pacific,Singapore,,10
+8.222.191.158,2086,4-1iptest,FALSE,SIN278,Asia Pacific,Singapore,,10
+8.219.198.139,2052,4-1iptest,FALSE,SIN279,Asia Pacific,Singapore,,10
+47.236.94.109,8880,4-1iptest,FALSE,SIN280,Asia Pacific,Singapore,,10
+47.236.99.131,2095,4-1iptest,FALSE,SIN282,Asia Pacific,Singapore,,10
+8.222.238.141,80,4-1iptest,FALSE,SIN283,Asia Pacific,Singapore,,10
+47.236.176.144,8080,4-1iptest,FALSE,SIN284,Asia Pacific,Singapore,,10
+8.222.164.209,2086,4-1iptest,FALSE,SIN285,Asia Pacific,Singapore,,10
+8.222.128.131,8080,4-1iptest,FALSE,SIN286,Asia Pacific,Singapore,,10
+47.236.94.113,80,4-1iptest,FALSE,SIN287,Asia Pacific,Singapore,,11
+47.236.169.236,80,4-1iptest,FALSE,SIN288,Asia Pacific,Singapore,,12
+8.222.154.227,80,4-1iptest,FALSE,SIN289,Asia Pacific,Singapore,,13
+8.222.155.242,2082,4-1iptest,FALSE,SIN290,Asia Pacific,Singapore,,14
+47.236.114.167,2087,4-1iptest,TRUE,SIN291,Asia Pacific,Singapore,,15
+8.222.167.8,80,4-1iptest,FALSE,SIN292,Asia Pacific,Singapore,,16
+47.236.92.191,2087,4-1iptest,TRUE,SIN293,Asia Pacific,Singapore,,17
+8.222.152.71,2086,4-1iptest,FALSE,SIN294,Asia Pacific,Singapore,,18
+47.236.192.198,2087,4-1iptest,TRUE,SIN295,Asia Pacific,Singapore,,19
+47.236.161.110,2053,4-1iptest,TRUE,SIN296,Asia Pacific,Singapore,,20
+47.236.121.7,2096,4-1iptest,TRUE,SIN297,Asia Pacific,Singapore,,21
+47.236.92.191,2083,4-2iptest,TRUE,SIN298,Asia Pacific,Singapore,,22
+8.222.164.44,2096,4-2iptest,TRUE,SIN299,Asia Pacific,Singapore,,23
+8.219.174.213,2086,4-2iptest,FALSE,SIN300,Asia Pacific,Singapore,,24
+47.236.76.199,2086,4-2iptest,FALSE,SIN301,Asia Pacific,Singapore,,25
+47.236.187.144,8080,4-2iptest,FALSE,SIN302,Asia Pacific,Singapore,,26
+47.236.97.111,8080,4-2iptest,FALSE,SIN303,Asia Pacific,Singapore,,27
+8.222.154.50,2082,4-2iptest,FALSE,SIN304,Asia Pacific,Singapore,,28
+47.236.97.90,2086,4-2iptest,FALSE,SIN305,Asia Pacific,Singapore,,29
+47.236.167.231,80,4-2iptest,FALSE,SIN306,Asia Pacific,Singapore,,30
+8.222.219.252,8080,4-2iptest,FALSE,SIN307,Asia Pacific,Singapore,,31
+8.222.140.185,2095,4-2iptest,FALSE,SIN308,Asia Pacific,Singapore,,32
+47.236.169.164,8880,4-2iptest,FALSE,SIN309,Asia Pacific,Singapore,,33
+47.236.172.71,80,4-2iptest,FALSE,SIN310,Asia Pacific,Singapore,,34
+47.236.169.236,2052,4-2iptest,FALSE,SIN311,Asia Pacific,Singapore,,35
+8.222.136.247,2095,4-2iptest,FALSE,SIN312,Asia Pacific,Singapore,,36
+8.219.123.244,2096,4-2iptest,TRUE,SIN313,Asia Pacific,Singapore,,37
+8.222.131.102,2082,4-2iptest,FALSE,SIN314,Asia Pacific,Singapore,,38
+8.219.77.91,2052,4-2iptest,FALSE,SIN315,Asia Pacific,Singapore,,39
+8.222.227.191,8880,4-2iptest,FALSE,SIN316,Asia Pacific,Singapore,,40
+8.222.133.247,2086,4-2iptest,FALSE,SIN317,Asia Pacific,Singapore,,41
+47.236.71.226,2052,4-2iptest,FALSE,SIN318,Asia Pacific,Singapore,,42
+47.236.171.20,2095,4-2iptest,FALSE,SIN319,Asia Pacific,Singapore,,43
+8.222.134.170,2052,4-2iptest,FALSE,SIN320,Asia Pacific,Singapore,,44
+47.236.92.191,2095,4-2iptest,FALSE,SIN321,Asia Pacific,Singapore,,45
+47.236.144.208,2095,4-2iptest,FALSE,SIN322,Asia Pacific,Singapore,,46
+47.236.11.68,2082,4-2iptest,FALSE,SIN323,Asia Pacific,Singapore,,47
+47.236.79.77,2096,4-2iptest,TRUE,SIN324,Asia Pacific,Singapore,,47
+47.236.93.176,2086,4-2iptest,FALSE,SIN325,Asia Pacific,Singapore,,47
+8.222.152.71,80,4-2iptest,FALSE,SIN326,Asia Pacific,Singapore,,47
+8.222.131.102,2086,4-2iptest,FALSE,SIN327,Asia Pacific,Singapore,,47
+47.236.150.109,8080,4-2iptest,FALSE,SIN328,Asia Pacific,Singapore,,47
+8.222.150.197,80,4-2iptest,FALSE,SIN329,Asia Pacific,Singapore,,47
+47.236.189.173,8443,4-2iptest,TRUE,SIN330,Asia Pacific,Singapore,,47
+47.236.172.95,2052,4-2iptest,FALSE,SIN331,Asia Pacific,Singapore,,47
+47.236.116.182,2083,4-2iptest,TRUE,SIN332,Asia Pacific,Singapore,,47
+8.222.140.185,80,4-2iptest,FALSE,SIN333,Asia Pacific,Singapore,,47
+8.222.145.164,2052,4-2iptest,FALSE,SIN334,Asia Pacific,Singapore,,47
+47.236.123.133,2083,4-2iptest,TRUE,SIN335,Asia Pacific,Singapore,,47
+47.236.198.189,2052,4-2iptest,FALSE,SIN336,Asia Pacific,Singapore,,47
+8.222.182.10,80,4-2iptest,FALSE,SIN337,Asia Pacific,Singapore,,47
+8.219.151.193,2052,4-2iptest,FALSE,SIN338,Asia Pacific,Singapore,,47
+47.236.187.144,2087,4-2iptest,TRUE,SIN339,Asia Pacific,Singapore,,47
+8.222.164.44,2082,4-2iptest,FALSE,SIN340,Asia Pacific,Singapore,,47
+8.222.152.71,2096,,TRUE,SIN341,Asia Pacific,Singapore,,47
+8.219.129.38,2053,,TRUE,SIN342,Asia Pacific,Singapore,,47
+47.236.15.73,2096,,TRUE,SIN343,Asia Pacific,Singapore,,47
+47.236.65.177,2053,,TRUE,SIN344,Asia Pacific,Singapore,,47
+47.236.201.98,2053,,TRUE,SIN345,Asia Pacific,Singapore,,47
+8.219.201.245,2083,,TRUE,SIN346,Asia Pacific,Singapore,,47
+8.222.215.228,2053,,TRUE,SIN347,Asia Pacific,Singapore,,47
+8.222.180.86,8443,,TRUE,SIN348,Asia Pacific,Singapore,,47
+8.222.145.164,2083,,TRUE,SIN349,Asia Pacific,Singapore,,47
+47.236.189.173,2096,,TRUE,SIN350,Asia Pacific,Singapore,,47
+8.219.178.225,8443,,TRUE,SIN351,Asia Pacific,Singapore,,47
+8.222.212.116,2083,,TRUE,SIN352,Asia Pacific,Singapore,,47
+8.222.134.170,2087,,TRUE,SIN353,Asia Pacific,Singapore,,47
+8.219.147.58,2087,,TRUE,SIN354,Asia Pacific,Singapore,,47
+8.219.101.138,2087,,TRUE,SIN355,Asia Pacific,Singapore,,47
+8.222.136.196,2053,,TRUE,SIN356,Asia Pacific,Singapore,,47
+8.219.151.193,2053,,TRUE,SIN357,Asia Pacific,Singapore,,47
+8.219.206.180,2083,,TRUE,SIN358,Asia Pacific,Singapore,,47
+8.219.198.139,2083,,TRUE,SIN359,Asia Pacific,Singapore,,47
+47.236.87.246,2096,,TRUE,SIN360,Asia Pacific,Singapore,,47
+8.222.129.32,2096,,TRUE,SIN361,Asia Pacific,Singapore,,47
+8.219.114.201,2053,,TRUE,SIN362,Asia Pacific,Singapore,,47
+47.236.154.50,2096,,TRUE,SIN363,Asia Pacific,Singapore,,47
+47.236.83.239,2053,,TRUE,SIN364,Asia Pacific,Singapore,,47
+8.222.154.50,2096,,TRUE,SIN365,Asia Pacific,Singapore,,47
+47.236.87.231,2083,,TRUE,SIN366,Asia Pacific,Singapore,,47
+8.219.247.53,2087,,TRUE,SIN367,Asia Pacific,Singapore,,47
+8.219.156.148,2053,,TRUE,SIN368,Asia Pacific,Singapore,,47
+47.236.167.231,2083,,TRUE,SIN369,Asia Pacific,Singapore,,47
+8.219.161.129,2096,,TRUE,SIN370,Asia Pacific,Singapore,,47
+47.236.114.167,2083,,TRUE,SIN371,Asia Pacific,Singapore,,47
+8.219.177.205,2087,,TRUE,SIN372,Asia Pacific,Singapore,,47
+47.236.170.54,8443,,TRUE,SIN373,Asia Pacific,Singapore,,47
+47.236.171.112,2096,,TRUE,SIN374,Asia Pacific,Singapore,,47
+47.236.7.206,2083,,TRUE,SIN375,Asia Pacific,Singapore,,47
+47.236.168.17,8443,,TRUE,SIN376,Asia Pacific,Singapore,,47
+8.219.122.96,2053,,TRUE,SIN377,Asia Pacific,Singapore,,47
+8.219.122.96,2083,,TRUE,SIN378,Asia Pacific,Singapore,,47
+8.222.155.242,8443,,TRUE,SIN379,Asia Pacific,Singapore,,47
+8.222.215.228,2083,,TRUE,SIN380,Asia Pacific,Singapore,,47
+47.236.88.85,2087,,TRUE,SIN381,Asia Pacific,Singapore,,47
+47.236.192.198,8443,,TRUE,SIN382,Asia Pacific,Singapore,,47
+8.222.167.8,2053,,TRUE,SIN383,Asia Pacific,Singapore,,47
+47.236.116.182,2087,,TRUE,SIN384,Asia Pacific,Singapore,,47
+8.219.161.102,2087,,TRUE,SIN385,Asia Pacific,Singapore,,47
+8.219.174.213,8443,,TRUE,SIN386,Asia Pacific,Singapore,,47
+47.236.39.34,8443,,TRUE,SIN387,Asia Pacific,Singapore,,47
+47.236.145.180,8443,,TRUE,SIN388,Asia Pacific,Singapore,,47
+47.236.156.14,2053,,TRUE,SIN389,Asia Pacific,Singapore,,47
+8.222.249.190,2087,,TRUE,SIN390,Asia Pacific,Singapore,,47
+8.222.152.71,2083,,TRUE,SIN391,Asia Pacific,Singapore,,47
+47.236.166.84,2053,,TRUE,SIN392,Asia Pacific,Singapore,,47
+47.236.173.200,2083,,TRUE,SIN393,Asia Pacific,Singapore,,47
+8.222.229.102,2053,,TRUE,SIN394,Asia Pacific,Singapore,,47
+47.236.116.182,8443,,TRUE,SIN395,Asia Pacific,Singapore,,47
+47.236.204.152,2083,,TRUE,SIN396,Asia Pacific,Singapore,,47
+8.219.230.254,8443,,TRUE,SIN397,Asia Pacific,Singapore,,47
+8.222.181.139,443,,TRUE,SIN398,Asia Pacific,Singapore,,47
+8.222.219.252,8443,,TRUE,SIN399,Asia Pacific,Singapore,,47
+47.236.19.51,2083,,TRUE,SIN400,Asia Pacific,Singapore,,47
+8.219.103.126,2087,,TRUE,SIN401,Asia Pacific,Singapore,,47
+47.236.7.13,8443,,TRUE,SIN402,Asia Pacific,Singapore,,47
+47.236.193.208,2083,,TRUE,SIN403,Asia Pacific,Singapore,,47
+8.219.101.138,2053,,TRUE,SIN404,Asia Pacific,Singapore,,47
+8.219.198.139,2087,,TRUE,SIN405,Asia Pacific,Singapore,,47
+47.236.193.5,2087,,TRUE,SIN406,Asia Pacific,Singapore,,47
+8.219.129.38,2087,,TRUE,SIN407,Asia Pacific,Singapore,,47
+8.219.67.133,8443,,TRUE,SIN408,Asia Pacific,Singapore,,47
+47.236.172.95,2087,,TRUE,SIN409,Asia Pacific,Singapore,,47
+47.236.198.189,2083,,TRUE,SIN410,Asia Pacific,Singapore,,47
+47.236.144.48,2096,,TRUE,SIN411,Asia Pacific,Singapore,,47
+47.236.187.144,2096,,TRUE,SIN412,Asia Pacific,Singapore,,47
+8.219.200.145,2053,,TRUE,SIN413,Asia Pacific,Singapore,,47
+8.219.123.244,2083,,TRUE,SIN414,Asia Pacific,Singapore,,47
+8.219.177.205,2053,,TRUE,SIN415,Asia Pacific,Singapore,,47
+8.219.50.180,2087,,TRUE,SIN416,Asia Pacific,Singapore,,47
+47.236.144.208,2053,,TRUE,SIN417,Asia Pacific,Singapore,,47
+8.219.233.6,2096,,TRUE,SIN418,Asia Pacific,Singapore,,47
+8.219.161.102,8443,,TRUE,SIN419,Asia Pacific,Singapore,,47
+47.236.76.199,2083,,TRUE,SIN420,Asia Pacific,Singapore,,47
+47.236.76.199,2087,,TRUE,SIN421,Asia Pacific,Singapore,,47
+47.236.201.98,2096,,TRUE,SIN422,Asia Pacific,Singapore,,47
+47.236.121.23,8443,,TRUE,SIN423,Asia Pacific,Singapore,,47
+8.219.77.91,8443,,TRUE,SIN424,Asia Pacific,Singapore,,47
+47.236.88.134,2087,,TRUE,SIN425,Asia Pacific,Singapore,,47
+8.219.198.139,8443,,TRUE,SIN426,Asia Pacific,Singapore,,47
+8.219.253.114,2083,,TRUE,SIN427,Asia Pacific,Singapore,,47
+8.219.171.6,8443,,TRUE,SIN428,Asia Pacific,Singapore,,47
+8.219.198.139,2053,,TRUE,SIN429,Asia Pacific,Singapore,,47
+47.236.163.221,2096,,TRUE,SIN430,Asia Pacific,Singapore,,47
+8.219.161.129,2083,,TRUE,SIN431,Asia Pacific,Singapore,,47
+8.219.161.102,2053,,TRUE,SIN432,Asia Pacific,Singapore,,47
+8.219.100.155,8443,,TRUE,SIN433,Asia Pacific,Singapore,,47
+8.219.161.102,2096,,TRUE,SIN434,Asia Pacific,Singapore,,47
+47.236.96.141,2053,,TRUE,SIN435,Asia Pacific,Singapore,,47
+47.236.193.5,2096,,TRUE,SIN436,Asia Pacific,Singapore,,47
+8.219.238.145,2053,,TRUE,SIN437,Asia Pacific,Singapore,,47
+8.222.184.198,2083,,TRUE,SIN438,Asia Pacific,Singapore,,47
+8.219.100.155,2096,,TRUE,SIN439,Asia Pacific,Singapore,,47
+8.222.168.234,2096,,TRUE,SIN440,Asia Pacific,Singapore,,47
+47.236.144.48,2083,,TRUE,SIN441,Asia Pacific,Singapore,,47
+47.236.198.189,8443,,TRUE,SIN442,Asia Pacific,Singapore,,47
+8.219.201.245,2096,,TRUE,SIN443,Asia Pacific,Singapore,,47
+8.219.114.201,2087,,TRUE,SIN444,Asia Pacific,Singapore,,47
+47.245.93.74,2087,,TRUE,SIN445,Asia Pacific,Singapore,,47
+8.222.167.147,2053,,TRUE,SIN446,Asia Pacific,Singapore,,47
+8.222.190.225,2096,,TRUE,SIN447,Asia Pacific,Singapore,,47
+8.222.191.158,2096,,TRUE,SIN448,Asia Pacific,Singapore,,47
+8.219.134.117,2083,,TRUE,SIN449,Asia Pacific,Singapore,,47
+47.236.189.173,2053,,TRUE,SIN450,Asia Pacific,Singapore,,47
+8.219.198.139,2096,,TRUE,SIN451,Asia Pacific,Singapore,,47
+47.236.104.11,2087,,TRUE,SIN452,Asia Pacific,Singapore,,47
+47.236.65.232,2096,,TRUE,SIN453,Asia Pacific,Singapore,,47
+8.219.202.130,2053,,TRUE,SIN454,Asia Pacific,Singapore,,47
+8.222.211.124,8443,,TRUE,SIN455,Asia Pacific,Singapore,,47
+8.219.171.6,2096,,TRUE,SIN456,Asia Pacific,Singapore,,47
+47.236.145.85,2087,,TRUE,SIN457,Asia Pacific,Singapore,,47
+8.219.156.148,2096,,TRUE,SIN458,Asia Pacific,Singapore,,47
+8.219.204.120,2053,,TRUE,SIN459,Asia Pacific,Singapore,,47
+47.236.171.20,2053,,TRUE,SIN460,Asia Pacific,Singapore,,47
+8.219.103.126,2096,,TRUE,SIN461,Asia Pacific,Singapore,,47
+47.236.204.152,8443,,TRUE,SIN462,Asia Pacific,Singapore,,47
+8.222.229.102,2087,,TRUE,SIN463,Asia Pacific,Singapore,,47
+47.236.169.164,8443,,TRUE,SIN464,Asia Pacific,Singapore,,47
+47.236.123.218,2096,,TRUE,SIN465,Asia Pacific,Singapore,,47
+8.219.230.254,2087,,TRUE,SIN466,Asia Pacific,Singapore,,47
+47.236.147.146,2053,,TRUE,SIN467,Asia Pacific,Singapore,,47
+47.236.87.206,8443,,TRUE,SIN468,Asia Pacific,Singapore,,47
+47.236.83.196,2083,,TRUE,SIN469,Asia Pacific,Singapore,,47
+47.236.87.246,2087,,TRUE,SIN470,Asia Pacific,Singapore,,47
+47.236.5.223,2087,,TRUE,SIN471,Asia Pacific,Singapore,,47
+47.236.144.156,2096,,TRUE,SIN472,Asia Pacific,Singapore,,47
+8.219.74.35,8443,,TRUE,SIN473,Asia Pacific,Singapore,,47
+8.222.137.166,2087,,TRUE,SIN474,Asia Pacific,Singapore,,47
+47.236.164.215,2083,,TRUE,SIN475,Asia Pacific,Singapore,,47
+8.222.175.78,2083,,TRUE,SIN476,Asia Pacific,Singapore,,47
+8.222.180.86,2053,,TRUE,SIN477,Asia Pacific,Singapore,,47
+8.219.171.6,2083,,TRUE,SIN478,Asia Pacific,Singapore,,47
+8.219.100.155,2083,,TRUE,SIN479,Asia Pacific,Singapore,,47
+8.222.160.61,2083,,TRUE,SIN480,Asia Pacific,Singapore,,47
+8.219.209.14,2083,,TRUE,SIN481,Asia Pacific,Singapore,,47
+8.219.178.9,2096,,TRUE,SIN482,Asia Pacific,Singapore,,47
+47.236.187.144,2053,,TRUE,SIN483,Asia Pacific,Singapore,,47
+47.236.119.253,2053,,TRUE,SIN484,Asia Pacific,Singapore,,47
+47.236.202.91,2087,,TRUE,SIN485,Asia Pacific,Singapore,,47
+8.222.249.190,2096,,TRUE,SIN486,Asia Pacific,Singapore,,47
+47.236.169.141,8443,,TRUE,SIN487,Asia Pacific,Singapore,,47
+8.219.206.180,443,,TRUE,SIN488,Asia Pacific,Singapore,,47
+47.236.161.110,2096,,TRUE,SIN489,Asia Pacific,Singapore,,47
+8.219.110.88,2087,,TRUE,SIN490,Asia Pacific,Singapore,,47
+8.222.147.203,8443,,TRUE,SIN491,Asia Pacific,Singapore,,47
+47.236.184.14,2083,,TRUE,SIN492,Asia Pacific,Singapore,,47
+47.236.168.17,2053,,TRUE,SIN493,Asia Pacific,Singapore,,47
+8.219.110.88,2053,,TRUE,SIN494,Asia Pacific,Singapore,,47
+8.222.188.56,8443,,TRUE,SIN495,Asia Pacific,Singapore,,47
+8.219.142.191,8443,,TRUE,SIN496,Asia Pacific,Singapore,,47
+47.236.97.90,2087,,TRUE,SIN497,Asia Pacific,Singapore,,47
+8.219.222.8,2096,,TRUE,SIN498,Asia Pacific,Singapore,,47
+47.236.173.200,2087,,TRUE,SIN499,Asia Pacific,Singapore,,47
+8.219.147.58,2096,,TRUE,SIN500,Asia Pacific,Singapore,,47
+47.236.121.23,2053,,TRUE,SIN501,Asia Pacific,Singapore,,47
+47.236.97.58,8443,,TRUE,SIN502,Asia Pacific,Singapore,,47
+47.236.156.14,2083,,TRUE,SIN503,Asia Pacific,Singapore,,47
+8.219.67.133,2087,,TRUE,SIN504,Asia Pacific,Singapore,,47
+8.222.154.50,2087,,TRUE,SIN505,Asia Pacific,Singapore,,47
+8.219.210.93,2053,,TRUE,SIN506,Asia Pacific,Singapore,,47
+8.222.175.78,2053,,TRUE,SIN507,Asia Pacific,Singapore,,47
+47.236.17.165,8443,,TRUE,SIN508,Asia Pacific,Singapore,,47
+8.219.238.145,8443,,TRUE,SIN509,Asia Pacific,Singapore,,47
+47.245.108.213,2053,,TRUE,SIN510,Asia Pacific,Singapore,,47
+,,,,SIN511,Asia Pacific,Singapore,,47
+,,,,SIN512,Asia Pacific,Singapore,,47
+,,,,SIN513,Asia Pacific,Singapore,,47
+,,,,SIN514,Asia Pacific,Singapore,,47
+,,,,SIN515,Asia Pacific,Singapore,,47
+,,,,SIN516,Asia Pacific,Singapore,,47
+,,,,SIN517,Asia Pacific,Singapore,,47
+,,,,SIN518,Asia Pacific,Singapore,,47
+,,,,SIN519,Asia Pacific,Singapore,,47
+,,,,SIN520,Asia Pacific,Singapore,,47
+,,,,SIN521,Asia Pacific,Singapore,,47
+,,,,SIN522,Asia Pacific,Singapore,,47
+,,,,SIN523,Asia Pacific,Singapore,,47
+,,,,SIN524,Asia Pacific,Singapore,,47
+,,,,SIN525,Asia Pacific,Singapore,,47
+,,,,SIN526,Asia Pacific,Singapore,,47
+,,,,SIN527,Asia Pacific,Singapore,,47
+,,,,SIN528,Asia Pacific,Singapore,,47
+,,,,SIN529,Asia Pacific,Singapore,,47
+,,,,SIN530,Asia Pacific,Singapore,,47
+,,,,SIN531,Asia Pacific,Singapore,,47
+,,,,SIN532,Asia Pacific,Singapore,,47
+,,,,SIN533,Asia Pacific,Singapore,,47
+,,,,SIN534,Asia Pacific,Singapore,,47
+,,,,SIN535,Asia Pacific,Singapore,,47
+,,,,SIN536,Asia Pacific,Singapore,,47
+,,,,SIN537,Asia Pacific,Singapore,,47
+,,,,SIN538,Asia Pacific,Singapore,,47
+,,,,SIN539,Asia Pacific,Singapore,,47
+,,,,SIN540,Asia Pacific,Singapore,,47
+,,,,SIN541,Asia Pacific,Singapore,,47
+,,,,SIN542,Asia Pacific,Singapore,,47
+,,,,SIN543,Asia Pacific,Singapore,,47
+,,,,SIN544,Asia Pacific,Singapore,,47
+,,,,SIN545,Asia Pacific,Singapore,,47
+,,,TRUE,SIN546,Asia Pacific,Singapore,,47
+,,,TRUE,SIN547,Asia Pacific,Singapore,,47
+,,,TRUE,SIN548,Asia Pacific,Singapore,,47
+,,,TRUE,SIN549,Asia Pacific,Singapore,,47
+,,,TRUE,SIN550,Asia Pacific,Singapore,,47
+,,,TRUE,SIN551,Asia Pacific,Singapore,,47
+,,,TRUE,SIN552,Asia Pacific,Singapore,,47
+,,,TRUE,SIN553,Asia Pacific,Singapore,,47
+,,,TRUE,SIN554,Asia Pacific,Singapore,,47
+,,,TRUE,SIN555,Asia Pacific,Singapore,,47
+,,,TRUE,SIN556,Asia Pacific,Singapore,,47
+,,,TRUE,SIN557,Asia Pacific,Singapore,,47
+,,,TRUE,SIN558,Asia Pacific,Singapore,,47
+,,,TRUE,SIN559,Asia Pacific,Singapore,,47
+,,,TRUE,SIN560,Asia Pacific,Singapore,,47
+,,,TRUE,SIN561,Asia Pacific,Singapore,,47
+,,,TRUE,SIN562,Asia Pacific,Singapore,,47
+,,,TRUE,SIN563,Asia Pacific,Singapore,,47
+,,,TRUE,SIN564,Asia Pacific,Singapore,,47
+,,,TRUE,SIN565,Asia Pacific,Singapore,,47
+,,,TRUE,SIN566,Asia Pacific,Singapore,,47
+,,,TRUE,SIN567,Asia Pacific,Singapore,,47
+,,,TRUE,SIN568,Asia Pacific,Singapore,,47
+,,,TRUE,SIN569,Asia Pacific,Singapore,,47
+,,,TRUE,SIN570,Asia Pacific,Singapore,,47
+,,,TRUE,SIN571,Asia Pacific,Singapore,,47
+,,,TRUE,SIN572,Asia Pacific,Singapore,,47
+,,,TRUE,SIN573,Asia Pacific,Singapore,,47
+,,,TRUE,SIN574,Asia Pacific,Singapore,,47
+,,,TRUE,SIN575,Asia Pacific,Singapore,,47
+,,,TRUE,SIN576,Asia Pacific,Singapore,,47
+,,,TRUE,SIN577,Asia Pacific,Singapore,,47
+,,,TRUE,SIN578,Asia Pacific,Singapore,,47
+,,,TRUE,SIN579,Asia Pacific,Singapore,,47
+,,,TRUE,SIN580,Asia Pacific,Singapore,,47
+,,,TRUE,SIN581,Asia Pacific,Singapore,,47
+,,,TRUE,SIN582,Asia Pacific,Singapore,,47
+,,,TRUE,SIN583,Asia Pacific,Singapore,,47
+,,,TRUE,SIN584,Asia Pacific,Singapore,,47
+,,,TRUE,SIN585,Asia Pacific,Singapore,,47
+,,,TRUE,SIN586,Asia Pacific,Singapore,,47
+,,,TRUE,SIN587,Asia Pacific,Singapore,,47
+,,,TRUE,SIN588,Asia Pacific,Singapore,,47
+,,,TRUE,SIN589,Asia Pacific,Singapore,,47
+,,,TRUE,SIN590,Asia Pacific,Singapore,,47
+,,,TRUE,SIN591,Asia Pacific,Singapore,,47
+,,,TRUE,SIN592,Asia Pacific,Singapore,,47
+,,,,,,,,
 ,,,,,,,,
 ,,,,,,,,
 ,,,,,,,,
@@ -659,22 +1059,22 @@ IP地址,端口,回源端口,TLS,数据中心,地区,城市,TCP延迟(ms),速度
 58.140.88.28,30061,,TRUE,ICN016,Asia Pacific,Seoul,86,10
 111.118.49.163,10346,,TRUE,ICN017,Asia Pacific,Seoul,83,10
 58.141.125.141,30066,,TRUE,ICN018,Asia Pacific,Seoul,87,10
-193.122.122.16,40377,,TRUE,ICN019,Asia Pacific,Seoul,81,10
-180.70.218.108,10411,,TRUE,ICN020,Asia Pacific,Seoul,74,10
-110.11.25.32,10488,,TRUE,ICN021,Asia Pacific,Seoul,84,10
-58.141.125.141,30053,,TRUE,ICN022,Asia Pacific,Seoul,77,10
-27.35.13.136,31703,,TRUE,ICN023,Asia Pacific,Seoul,83,10
-58.140.88.28,30054,,TRUE,ICN024,Asia Pacific,Seoul,77,10
-58.76.172.250,30055,,TRUE,ICN025,Asia Pacific,Seoul,205,10
-45.93.28.81,17975,,TRUE,ICN026,Asia Pacific,Seoul,78,10
-52.141.31.169,8443,3-30-iptest,TRUE,ICN027,Asia Pacific,Seoul,83,10
-58.76.172.250,30059,3-30-iptest,TRUE,ICN028,Asia Pacific,Seoul,99,10
-20.39.192.30,8443,4-2iptest,TRUE,ICN029,Asia Pacific,Seoul,79,10
-20.39.192.30,2053,4-2iptest,TRUE,ICN030,Asia Pacific,Seoul,72,10
-49.1.224.137,15262,4-2iptest,TRUE,ICN031,Asia Pacific,Seoul,87,10
-49.1.224.137,12077,4-2iptest,TRUE,ICN032,Asia Pacific,Seoul,86,10
-101.235.197.211,15855,4-2iptest,TRUE,ICN033,Asia Pacific,Seoul,87,11
-101.235.197.211,33272,4-2iptest,TRUE,ICN034,Asia Pacific,Seoul,88,12
+180.70.218.108,10411,,TRUE,ICN019,Asia Pacific,Seoul,81,10
+58.141.125.141,30053,,TRUE,ICN020,Asia Pacific,Seoul,74,10
+27.35.13.136,31703,,TRUE,ICN021,Asia Pacific,Seoul,84,10
+58.140.88.28,30054,,TRUE,ICN022,Asia Pacific,Seoul,77,10
+58.76.172.250,30055,,TRUE,ICN023,Asia Pacific,Seoul,83,10
+45.93.28.81,17975,,TRUE,ICN024,Asia Pacific,Seoul,77,10
+52.141.31.169,8443,3-30-iptest,TRUE,ICN025,Asia Pacific,Seoul,205,10
+58.76.172.250,30059,3-30-iptest,TRUE,ICN026,Asia Pacific,Seoul,78,10
+20.39.192.30,8443,4-2iptest,TRUE,ICN027,Asia Pacific,Seoul,83,10
+20.39.192.30,2053,4-2iptest,TRUE,ICN028,Asia Pacific,Seoul,99,10
+49.1.224.137,15262,4-2iptest,TRUE,ICN029,Asia Pacific,Seoul,79,10
+49.1.224.137,12077,4-2iptest,TRUE,ICN030,Asia Pacific,Seoul,72,10
+144.24.78.162,443,,TRUE,ICN031,Asia Pacific,Seoul,87,10
+144.24.85.158,443,,TRUE,ICN032,Asia Pacific,Seoul,86,10
+193.123.250.209,2087,,TRUE,ICN033,Asia Pacific,Seoul,87,11
+138.2.124.21,443,,TRUE,ICN034,Asia Pacific,Seoul,88,12
 ,,,,ICN035,Asia Pacific,Seoul,89,13
 ,,,,ICN036,Asia Pacific,Seoul,90,14
 ,,,,,,,,
@@ -837,23 +1237,37 @@ IP地址,端口,回源端口,TLS,数据中心,地区,城市,TCP延迟(ms),速度
 13.36.230.17,8443,443,TRUE,CDG01,Europe,Paris,165,10
 141.147.45.195,2052,443,TRUE,CDG02,Europe,Paris,177,10
 141.144.204.27,8443,443,TRUE,AMS01,Europe,Amsterdam,180,10
-82.115.31.87,38057,,TRUE,FRA01,Europe,Frankfurt,232,10
-3.66.84.249,8443,,TRUE,FRA02,Europe,Frankfurt,165,10
-185.217.109.108,10001,,TRUE,FRA03,Europe,Frankfurt,166,10
-144.24.169.81,2053,,TRUE,FRA04,Europe,Frankfurt,151,10
-144.24.169.81,8443,,TRUE,FRA05,Europe,Frankfurt,148,10
-130.162.211.207,8443,,TRUE,FRA06,Europe,Frankfurt,189,10
-130.61.23.77,443,,TRUE,FRA07,Europe,Frankfurt,205,10
-130.61.109.6,2053,,TRUE,FRA08,Europe,Frankfurt,172,10
-144.24.173.250,2053,,TRUE,FRA09,Europe,Frankfurt,201,10
-144.24.173.250,2096,,TRUE,FRA10,Europe,Frankfurt,194,10
-144.24.189.21,8443,,TRUE,FRA11,Europe,Frankfurt,183,10
-129.159.241.172,443,,TRUE,FRA12,Europe,Frankfurt,182,10
-104.27.234.123,443,,TRUE,FRA13,Europe,Frankfurt,180,10
-104.28.42.19,443,,TRUE,FRA14,Europe,Frankfurt,179,10
-104.27.230.218,443,,TRUE,FRA15,Europe,Frankfurt,203,10
-34.116.152.212,443,4-1iptest,TRUE,FRA16,Europe,Frankfurt,209,10
-18.158.156.249,2053,4-1iptest,TRUE,FRA17,Europe,Frankfurt,212,10
-18.184.27.249,443,4-1iptest,TRUE,FRA18,Europe,Frankfurt,213,11
-141.147.61.116,2053,4-1iptest,TRUE,FRA19,Europe,Frankfurt,214,12
-34.65.137.19,443,4-1iptest,TRUE,FRA20,Europe,Frankfurt,215,13
+3.66.84.249,8443,,TRUE,FRA01,Europe,Frankfurt,232,10
+185.217.109.108,10001,,TRUE,FRA02,Europe,Frankfurt,165,10
+144.24.169.81,2053,,TRUE,FRA03,Europe,Frankfurt,166,10
+144.24.169.81,8443,,TRUE,FRA04,Europe,Frankfurt,151,10
+130.162.211.207,8443,,TRUE,FRA05,Europe,Frankfurt,148,10
+130.61.23.77,443,,TRUE,FRA06,Europe,Frankfurt,189,10
+130.61.109.6,2053,,TRUE,FRA07,Europe,Frankfurt,205,10
+144.24.173.250,2053,,TRUE,FRA08,Europe,Frankfurt,172,10
+144.24.173.250,2096,,TRUE,FRA09,Europe,Frankfurt,201,10
+144.24.189.21,8443,,TRUE,FRA10,Europe,Frankfurt,194,10
+129.159.241.172,443,,TRUE,FRA11,Europe,Frankfurt,183,10
+18.158.156.249,2053,4-1iptest,TRUE,FRA12,Europe,Frankfurt,182,10
+18.184.27.249,443,4-1iptest,TRUE,FRA13,Europe,Frankfurt,180,10
+141.147.61.116,2053,4-1iptest,TRUE,FRA14,Europe,Frankfurt,179,10
+141.148.240.197,443,,TRUE,FRA15,Europe,Frankfurt,203,10
+141.147.100.155,443,,TRUE,FRA16,Europe,Frankfurt,209,10
+158.180.14.71,443,,TRUE,FRA17,Europe,Frankfurt,212,10
+144.21.40.146,443,,TRUE,FRA18,Europe,Frankfurt,213,11
+132.226.208.144,443,,TRUE,FRA19,Europe,Frankfurt,214,12
+141.144.226.83,443,,TRUE,FRA20,Europe,Frankfurt,215,13
+130.61.203.115,8443,,TRUE,FRA21,Europe,Frankfurt,216,14
+141.148.234.141,443,,TRUE,FRA22,Europe,Frankfurt,217,15
+143.47.225.35,443,,TRUE,FRA23,Europe,Frankfurt,218,16
+84.8.147.154,443,,TRUE,FRA24,Europe,Frankfurt,219,17
+141.148.239.167,443,,TRUE,FRA25,Europe,Frankfurt,220,18
+138.2.140.238,443,,TRUE,FRA26,Europe,Frankfurt,221,19
+143.47.226.249,443,,TRUE,FRA27,Europe,Frankfurt,222,20
+141.147.9.183,443,,TRUE,FRA28,Europe,Frankfurt,223,21
+141.147.73.43,443,,TRUE,FRA29,Europe,Frankfurt,224,22
+141.144.232.159,443,,TRUE,FRA30,Europe,Frankfurt,225,23
+143.47.179.33,443,,TRUE,FRA31,Europe,Frankfurt,226,24
+141.147.47.32,8443,,TRUE,FRA32,Europe,Frankfurt,227,25
+,,,,FRA33,Europe,Frankfurt,228,26
+,,,,FRA34,Europe,Frankfurt,229,27
