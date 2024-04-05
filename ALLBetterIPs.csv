@@ -66,8 +66,8 @@ IP地址,端口,回源端口,TLS,数据中心,地区,城市,TCP延迟(ms),速度
 138.2.14.248,2096,,TRUE,HKG062,,Unknow,,10
 132.145.121.242,2087,,TRUE,HKG063,,Unknow,,10
 47.76.37.57,2053,,TRUE,HKG064,,Unknow,,10
-,,,TRUE,HKG065,,Unknow,,10
-,,,TRUE,HKG066,,Unknow,,10
+47.236.75.113,2083,2083,TRUE,HKG065,,Unknow,,10
+8.222.227.191,2083,2083,TRUE,HKG066,,Unknow,,10
 ,,,TRUE,HKG067,,Unknow,,10
 ,,,TRUE,HKG068,,Unknow,,10
 ,,,TRUE,HKG069,,Unknow,,10
@@ -162,235 +162,235 @@ IP地址,端口,回源端口,TLS,数据中心,地区,城市,TCP延迟(ms),速度
 151.145.65.203,80,4-1iptest,FALSE,JP048,,Unknow,,10
 140.238.35.138,80,4-1iptest,FALSE,JP049,,Unknow,,10
 47.91.19.249,2087,4-1iptest,TRUE,JP050,,Unknow,,10
-150.230.219.83,2082,4-1iptest,FALSE,JP051,,Unknow,,10
-152.70.86.93,443,4-1iptest,TRUE,JP052,,Unknow,,10
-168.138.47.238,8443,4-1iptest,FALSE,JP053,,Unknow,,10
-140.83.57.116,8443,4-1iptest,FALSE,JP054,,Unknow,,10
-64.110.103.69,443,4-1iptest,TRUE,JP055,,Unknow,,10
-64.110.104.30,443,4-1iptest,TRUE,JP056,,Unknow,,10
-13.114.123.213,80,4-1iptest,TRUE,JP057,,Unknow,,10
-47.245.52.153,2086,4-2iptest,FALSE,JP058,,Unknow,,10
-140.83.38.243,2082,4-2iptest,FALSE,JP059,,Unknow,,10
-47.245.26.167,2096,,TRUE,JP060,,Unknow,,10
-47.245.12.38,2096,,TRUE,JP061,,Unknow,,10
-47.245.56.207,8443,,TRUE,JP062,,Unknow,,10
-47.74.27.94,2083,,TRUE,JP063,,Unknow,,10
-47.74.27.94,2096,,TRUE,JP064,,Unknow,,10
-47.245.55.94,2087,,TRUE,JP065,,Unknow,,10
-47.74.27.94,2087,,TRUE,JP066,,Unknow,,10
-47.74.11.219,2087,,TRUE,JP067,,Unknow,,10
-47.74.15.80,2087,,TRUE,JP068,Asia Pacific,Osaka,,10
-47.245.13.93,8443,,TRUE,JP069,Asia Pacific,Osaka,,10
-47.91.16.198,2087,,TRUE,JP070,Asia Pacific,Osaka,,10
-47.91.16.198,2053,,TRUE,JP071,Asia Pacific,Osaka,,10
-47.245.26.167,2083,,TRUE,JP072,Asia Pacific,Osaka,,10
-47.245.26.167,2087,,TRUE,JP073,Asia Pacific,Osaka,,10
-47.91.21.107,2087,,TRUE,JP074,Asia Pacific,Osaka,,10
-47.74.27.94,2053,,TRUE,JP075,Asia Pacific,Osaka,,10
-47.245.52.153,2096,,TRUE,JP076,Asia Pacific,Osaka,,10
-47.245.34.36,8443,,TRUE,JP077,Asia Pacific,Osaka,,10
-47.91.21.107,2053,,TRUE,JP078,Asia Pacific,Osaka,,10
-47.91.21.107,2083,,TRUE,JP079,Asia Pacific,Osaka,,10
-47.74.45.143,2083,,TRUE,JP080,Asia Pacific,Osaka,,10
-47.91.16.198,2083,,TRUE,JP081,Asia Pacific,Osaka,,10
-47.74.4.47,2083,,TRUE,JP082,Asia Pacific,Osaka,,10
-47.74.27.94,8443,,TRUE,JP083,Asia Pacific,Osaka,,10
-47.91.21.107,2096,,TRUE,JP084,Asia Pacific,Osaka,,10
-47.245.13.93,2083,,TRUE,JP085,Asia Pacific,Osaka,,10
-47.91.21.107,8443,,TRUE,JP086,Asia Pacific,Osaka,,10
-47.91.15.247,2083,,TRUE,JP087,Asia Pacific,Osaka,,10
-47.91.19.249,2083,,TRUE,JP088,Asia Pacific,Osaka,,10
-47.91.19.249,8443,,TRUE,JP089,Asia Pacific,Osaka,,10
-8.209.243.172,2087,,TRUE,JP090,Asia Pacific,Osaka,,10
-47.91.31.235,2096,,TRUE,JP091,Asia Pacific,Osaka,,10
-8.219.55.31,2087,,TRUE,JP092,Asia Pacific,Osaka,,10
-138.2.21.31,2083,,TRUE,JP093,Asia Pacific,Osaka,,10
-132.145.120.182,2096,,TRUE,JP094,Asia Pacific,Osaka,,10
-141.147.182.70,8443,,TRUE,JP095,Asia Pacific,Osaka,,10
-140.238.54.164,2083,,TRUE,JP096,Asia Pacific,Osaka,,10
-140.238.40.136,2087,,TRUE,JP097,Asia Pacific,Osaka,,10
-140.238.44.118,2053,,TRUE,JP098,Asia Pacific,Osaka,,10
-158.101.154.70,2087,,TRUE,JP099,Asia Pacific,Osaka,,10
-168.138.200.159,8443,,TRUE,JP100,Asia Pacific,Osaka,,10
-131.186.59.94,2083,,TRUE,JP101,Asia Pacific,Osaka,,10
-158.101.142.103,2053,,TRUE,JP102,Asia Pacific,Osaka,,10
-141.147.179.211,2053,,TRUE,JP103,Asia Pacific,Osaka,,10
-138.2.9.66,2096,,TRUE,JP104,Asia Pacific,Osaka,,10
-141.147.160.221,8443,,TRUE,JP105,Asia Pacific,Osaka,,10
-138.2.20.230,8443,,TRUE,JP106,Asia Pacific,Osaka,,10
-141.147.164.54,2096,,TRUE,JP107,Asia Pacific,Osaka,,10
-132.145.113.148,2096,,TRUE,JP108,Asia Pacific,Osaka,,10
-131.186.60.162,2087,,TRUE,JP109,Asia Pacific,Osaka,,10
-140.238.35.78,2096,,TRUE,JP110,Asia Pacific,Osaka,,10
-140.238.41.253,8443,,TRUE,JP111,Asia Pacific,Osaka,,10
-131.186.39.42,2087,,TRUE,JP112,Asia Pacific,Osaka,,10
-168.138.206.109,2053,,TRUE,JP113,Asia Pacific,Osaka,,10
-140.238.54.166,2087,,TRUE,JP114,Asia Pacific,Osaka,,10
-141.147.178.115,2053,,TRUE,JP115,Asia Pacific,Osaka,,10
-132.145.115.17,2053,,TRUE,JP116,Asia Pacific,Osaka,,10
-140.238.48.97,8443,,TRUE,JP117,Asia Pacific,Osaka,,10
-132.145.127.21,2087,,TRUE,JP118,Asia Pacific,Osaka,,10
-168.138.206.236,2087,,TRUE,JP119,Asia Pacific,Osaka,,10
-168.138.202.145,2096,,TRUE,JP120,Asia Pacific,Osaka,,10
-131.186.43.207,2053,,TRUE,JP121,Asia Pacific,Osaka,,10
-131.186.45.88,2083,,TRUE,JP122,Asia Pacific,Osaka,,10
-131.186.46.75,2087,,TRUE,JP123,Asia Pacific,Osaka,,10
-138.2.13.133,2087,,TRUE,JP124,Asia Pacific,Osaka,,10
-132.145.125.165,8443,,TRUE,JP125,Asia Pacific,Osaka,,10
-132.145.121.247,2083,,TRUE,JP126,Asia Pacific,Osaka,,10
-168.138.205.195,8443,,TRUE,JP127,Asia Pacific,Osaka,,10
-158.101.140.255,2087,,TRUE,JP128,Asia Pacific,Osaka,,10
-141.147.165.179,2053,,TRUE,JP129,Asia Pacific,Osaka,,10
-158.101.158.251,2087,,TRUE,JP130,Asia Pacific,Osaka,,10
-141.147.165.179,2087,,TRUE,JP131,Asia Pacific,Osaka,,10
-140.238.34.208,2053,,TRUE,JP132,Asia Pacific,Osaka,,10
-132.145.126.21,8443,,TRUE,JP133,Asia Pacific,Osaka,,10
-140.238.35.138,8443,,TRUE,JP134,Asia Pacific,Osaka,,10
-131.186.43.207,2087,,TRUE,JP135,Asia Pacific,Osaka,,10
-140.238.40.136,2083,,TRUE,JP136,Asia Pacific,Osaka,,10
-140.238.41.253,2096,,TRUE,JP137,Asia Pacific,Osaka,,10
-141.147.178.115,8443,,TRUE,JP138,Asia Pacific,Osaka,,10
-140.238.54.184,8443,,TRUE,JP139,Asia Pacific,Osaka,,10
-141.147.181.242,2096,,TRUE,JP140,Asia Pacific,Osaka,,10
-141.147.174.7,2096,,TRUE,JP141,Asia Pacific,Osaka,,10
-140.238.48.97,2087,,TRUE,JP142,Asia Pacific,Osaka,,10
-158.101.142.103,2096,,TRUE,JP143,Asia Pacific,Osaka,,10
-168.138.202.145,2083,,TRUE,JP144,Asia Pacific,Osaka,,10
-158.101.155.158,2083,,TRUE,JP145,Asia Pacific,Osaka,,10
-140.238.61.78,2096,,TRUE,JP146,Asia Pacific,Osaka,,10
-131.186.58.151,2053,,TRUE,JP147,Asia Pacific,Osaka,,10
-158.101.140.154,2087,,TRUE,JP148,Asia Pacific,Osaka,,10
-132.145.112.247,2087,,TRUE,JP149,Asia Pacific,Osaka,,10
-158.101.136.239,2053,,TRUE,JP150,Asia Pacific,Osaka,,10
-132.145.123.143,2053,,TRUE,JP151,Asia Pacific,Osaka,,10
-131.186.39.42,2053,,TRUE,JP152,Asia Pacific,Osaka,,10
-158.101.139.42,2087,,TRUE,JP153,Asia Pacific,Osaka,,10
-140.238.48.97,2053,,TRUE,JP154,Asia Pacific,Osaka,,10
-131.186.61.45,2053,,TRUE,JP155,Asia Pacific,Osaka,,10
-141.147.169.195,2083,,TRUE,JP156,Asia Pacific,Osaka,,10
-140.238.35.195,2083,,TRUE,JP157,Asia Pacific,Osaka,,10
-141.147.179.64,2096,,TRUE,JP158,Asia Pacific,Osaka,,10
-141.147.167.40,2087,,TRUE,JP159,Asia Pacific,Osaka,,10
-158.179.178.142,8443,,TRUE,JP160,Asia Pacific,Osaka,,10
-168.138.200.155,2083,,TRUE,JP161,Asia Pacific,Osaka,,10
-138.2.8.232,2053,,TRUE,JP162,Asia Pacific,Osaka,,10
-141.147.182.76,2053,,TRUE,JP163,Asia Pacific,Osaka,,10
-141.147.166.189,2096,,TRUE,JP164,Asia Pacific,Osaka,,10
-140.238.52.81,2083,,TRUE,JP165,Asia Pacific,Osaka,,10
-140.238.44.118,2087,,TRUE,JP166,Asia Pacific,Osaka,,10
-131.186.63.127,2053,,TRUE,JP167,Asia Pacific,Osaka,,10
-131.186.61.45,2087,,TRUE,JP168,Asia Pacific,Osaka,,10
-132.145.123.14,2053,,TRUE,JP169,Asia Pacific,Osaka,,10
-131.186.63.184,8443,,TRUE,JP170,Asia Pacific,Osaka,,10
-131.186.47.223,2096,,TRUE,JP171,Asia Pacific,Osaka,,10
-138.2.7.72,8443,,TRUE,JP172,Asia Pacific,Osaka,,10
-158.101.155.115,2053,,TRUE,JP173,Asia Pacific,Osaka,,10
-131.186.63.35,2087,,TRUE,JP174,Asia Pacific,Osaka,,10
-158.179.188.7,2087,,TRUE,JP175,Asia Pacific,Osaka,,10
-158.101.158.238,2053,,TRUE,JP176,Asia Pacific,Osaka,,10
-141.147.160.221,2083,,TRUE,JP177,Asia Pacific,Osaka,,10
-131.186.37.191,2096,,TRUE,JP178,Asia Pacific,Osaka,,10
-131.186.38.135,2087,,TRUE,JP179,Asia Pacific,Osaka,,10
-141.147.182.70,2053,,TRUE,JP180,Asia Pacific,Osaka,,10
-141.147.169.195,2087,,TRUE,JP181,Asia Pacific,Osaka,,10
-168.138.205.38,2053,,TRUE,JP182,Asia Pacific,Osaka,,10
-138.2.21.31,2087,,TRUE,JP183,Asia Pacific,Osaka,,10
-132.145.112.247,2083,,TRUE,JP184,Asia Pacific,Osaka,,10
-141.147.175.230,2053,,TRUE,JP185,Asia Pacific,Osaka,,10
-138.2.13.200,2096,,TRUE,JP186,Asia Pacific,Osaka,,10
-132.145.125.86,2087,,TRUE,JP187,Asia Pacific,Osaka,,10
-141.147.164.153,2053,,TRUE,JP188,Asia Pacific,Osaka,,10
-140.238.50.32,2053,,TRUE,JP189,Asia Pacific,Osaka,,10
-140.238.52.141,2083,,TRUE,JP190,Asia Pacific,Osaka,,10
-158.101.143.49,2053,,TRUE,JP191,Asia Pacific,Osaka,,10
-138.2.20.48,2053,,TRUE,JP192,Asia Pacific,Osaka,,10
-140.238.50.32,2087,,TRUE,JP193,Asia Pacific,Osaka,,10
-131.186.46.75,2053,,TRUE,JP194,Asia Pacific,Osaka,,10
-140.238.54.166,2053,,TRUE,JP195,Asia Pacific,Osaka,,10
-140.238.61.224,2053,,TRUE,JP196,Asia Pacific,Osaka,,10
-158.101.131.218,2053,,TRUE,JP197,Asia Pacific,Osaka,,10
-158.101.155.246,2083,,TRUE,JP198,Asia Pacific,Osaka,,10
-131.186.60.162,2083,,TRUE,JP199,Asia Pacific,Osaka,,10
-158.101.131.218,2083,,TRUE,JP200,Asia Pacific,Osaka,,10
-141.147.182.76,2083,,TRUE,JP201,Asia Pacific,Osaka,,10
-132.145.127.51,2087,,TRUE,JP202,Asia Pacific,Osaka,,10
-141.147.167.40,8443,,TRUE,JP203,Asia Pacific,Osaka,,10
-131.186.63.35,2083,,TRUE,JP204,Asia Pacific,Osaka,,10
-168.138.202.145,2087,,TRUE,JP205,Asia Pacific,Osaka,,10
-168.138.202.145,8443,,TRUE,JP206,Asia Pacific,Osaka,,10
-140.238.33.94,2096,,TRUE,JP207,Asia Pacific,Osaka,,10
-132.145.127.51,2096,,TRUE,JP208,Asia Pacific,Osaka,,10
-140.238.54.164,2053,,TRUE,JP209,Asia Pacific,Osaka,,10
-132.145.120.103,2096,,TRUE,JP210,Asia Pacific,Osaka,,10
-138.2.20.48,2087,,TRUE,JP211,Asia Pacific,Osaka,,10
-141.147.169.131,2053,,TRUE,JP212,Asia Pacific,Osaka,,10
-141.147.160.221,2087,,TRUE,JP213,Asia Pacific,Osaka,,10
-138.2.14.209,2083,,TRUE,JP214,Asia Pacific,Osaka,,10
-131.186.63.35,2053,,TRUE,JP215,Asia Pacific,Osaka,,10
-132.145.113.148,2087,,TRUE,JP216,Asia Pacific,Osaka,,10
-138.2.7.72,2087,,TRUE,JP217,Asia Pacific,Osaka,,10
-138.2.24.114,2053,,TRUE,JP218,Asia Pacific,Osaka,,10
-138.2.18.11,2053,,TRUE,JP219,Asia Pacific,Osaka,,10
-140.238.35.195,2087,,TRUE,JP220,Asia Pacific,Osaka,,10
-140.238.32.184,8443,,TRUE,JP221,Asia Pacific,Osaka,,10
-132.145.123.143,2096,,TRUE,JP222,Asia Pacific,Osaka,,10
-168.138.200.155,8443,,TRUE,JP223,Asia Pacific,Osaka,,10
-132.145.127.21,2053,,TRUE,JP224,Asia Pacific,Osaka,,10
-158.101.155.246,8443,,TRUE,JP225,Asia Pacific,Osaka,,10
-132.145.114.14,2053,,TRUE,JP226,Asia Pacific,Osaka,,10
-141.147.165.179,2083,,TRUE,JP227,Asia Pacific,Osaka,,10
-140.238.35.78,2053,,TRUE,JP228,Asia Pacific,Osaka,,10
-158.101.139.42,2053,,TRUE,JP229,Asia Pacific,Osaka,,10
-131.186.60.162,2096,,TRUE,JP230,Asia Pacific,Osaka,,10
-140.238.32.184,2053,,TRUE,JP231,Asia Pacific,Osaka,,10
-140.238.61.224,8443,,TRUE,JP232,Asia Pacific,Osaka,,10
-141.147.178.202,8443,,TRUE,JP233,Asia Pacific,Osaka,,10
-141.147.169.131,2087,,TRUE,JP234,Asia Pacific,Osaka,,10
-138.2.6.15,2083,,TRUE,JP235,Asia Pacific,Osaka,,10
-131.186.63.127,8443,,TRUE,JP236,Asia Pacific,Osaka,,10
-158.101.140.255,2096,,TRUE,JP237,Asia Pacific,Osaka,,10
-158.179.180.109,2053,,TRUE,JP238,Asia Pacific,Osaka,,10
-131.186.47.223,2083,,TRUE,JP239,Asia Pacific,Osaka,,10
-158.101.158.238,2096,,TRUE,JP240,Asia Pacific,Osaka,,10
-138.2.7.72,2096,,TRUE,JP241,Asia Pacific,Osaka,,10
-132.145.120.118,2096,,TRUE,JP242,Asia Pacific,Osaka,,10
-132.145.114.14,2087,,TRUE,JP243,Asia Pacific,Osaka,,10
-132.145.120.182,8443,,TRUE,JP244,Asia Pacific,Osaka,,10
-168.138.205.195,2087,,TRUE,JP245,Asia Pacific,Osaka,,10
-138.2.13.133,2096,,TRUE,JP246,Asia Pacific,Osaka,,10
-158.101.136.239,2096,,TRUE,JP247,Asia Pacific,Osaka,,10
-168.138.206.68,2053,,TRUE,JP248,Asia Pacific,Osaka,,10
-138.2.29.102,2053,,TRUE,JP249,Asia Pacific,Osaka,,10
-158.101.143.49,2083,,TRUE,JP250,Asia Pacific,Osaka,,10
-132.145.127.51,2083,,TRUE,JP251,Asia Pacific,Osaka,,10
-141.147.165.179,2096,,TRUE,JP252,Asia Pacific,Osaka,,10
-131.186.37.69,2053,,TRUE,JP253,Asia Pacific,Osaka,,10
-168.138.207.64,2083,,TRUE,JP254,Asia Pacific,Osaka,,10
-131.186.60.162,8443,,TRUE,JP255,Asia Pacific,Osaka,,10
-141.147.164.123,2053,,TRUE,JP256,Asia Pacific,Osaka,,10
-131.186.34.11,2096,,TRUE,JP257,Asia Pacific,Osaka,,10
-141.147.164.54,8443,,TRUE,JP258,Asia Pacific,Osaka,,10
-158.101.159.181,2096,,TRUE,JP259,Asia Pacific,Osaka,,10
-132.145.121.247,2087,,TRUE,JP260,Asia Pacific,Osaka,,10
-141.147.169.195,2053,,TRUE,JP261,Asia Pacific,Osaka,,10
-140.238.51.89,2083,,TRUE,JP262,Asia Pacific,Osaka,,10
-140.238.33.94,2053,,TRUE,JP263,Asia Pacific,Osaka,,10
-158.101.133.129,2083,,TRUE,JP264,Asia Pacific,Osaka,,10
-138.2.19.122,2087,,TRUE,JP265,Asia Pacific,Osaka,,10
-141.147.179.64,2087,,TRUE,JP266,Asia Pacific,Osaka,,10
-132.145.121.34,2087,,TRUE,JP267,Asia Pacific,Osaka,,10
-158.101.159.212,2053,,TRUE,JP268,Asia Pacific,Osaka,,10
-132.145.126.204,2083,,TRUE,JP269,Asia Pacific,Osaka,,10
-138.2.20.230,2096,,TRUE,JP270,Asia Pacific,Osaka,,10
-141.147.164.123,2096,,TRUE,JP271,Asia Pacific,Osaka,,10
-138.2.8.232,2096,,TRUE,JP272,Asia Pacific,Osaka,,10
-131.186.44.38,2083,,TRUE,JP273,Asia Pacific,Osaka,,10
-132.145.120.103,2053,,TRUE,JP274,Asia Pacific,Osaka,,10
-140.238.39.87,8443,,TRUE,JP275,Asia Pacific,Osaka,,10
-131.186.36.248,2053,,TRUE,JP276,Asia Pacific,Osaka,,10
-132.145.114.250,2053,,TRUE,JP277,Asia Pacific,Osaka,,10
-158.101.143.49,8443,,TRUE,JP278,Asia Pacific,Osaka,,10
-132.145.112.247,2053,,TRUE,JP279,Asia Pacific,Osaka,,10
+152.70.86.93,443,4-1iptest,TRUE,JP051,,Unknow,,10
+168.138.47.238,8443,4-1iptest,FALSE,JP052,,Unknow,,10
+140.83.57.116,8443,4-1iptest,FALSE,JP053,,Unknow,,10
+64.110.103.69,443,4-1iptest,TRUE,JP054,,Unknow,,10
+64.110.104.30,443,4-1iptest,TRUE,JP055,,Unknow,,10
+13.114.123.213,80,4-1iptest,TRUE,JP056,,Unknow,,10
+47.245.52.153,2086,4-2iptest,FALSE,JP057,,Unknow,,10
+140.83.38.243,2082,4-2iptest,FALSE,JP058,,Unknow,,10
+47.245.26.167,2096,,TRUE,JP059,,Unknow,,10
+47.245.12.38,2096,,TRUE,JP060,,Unknow,,10
+151.145.69.174,2096,2096,TRUE,JP061,Asia Pacific,Tokyo,1003,7.53
+152.70.86.93,443,,TRUE,JP062,,Unknow,,10
+64.110.104.30,443,,TRUE,JP063,,Unknow,,10
+64.110.103.69,443,,TRUE,JP064,,Unknow,,10
+,,,TRUE,JP065,,Unknow,,10
+,,,TRUE,JP066,,Unknow,,10
+,,,TRUE,JP067,,Unknow,,10
+,,,TRUE,JP068,Asia Pacific,Osaka,,10
+,,,TRUE,JP069,Asia Pacific,Osaka,,10
+,,,TRUE,JP070,Asia Pacific,Osaka,,10
+,,,TRUE,JP071,Asia Pacific,Osaka,,10
+,,,TRUE,JP072,Asia Pacific,Osaka,,10
+,,,TRUE,JP073,Asia Pacific,Osaka,,10
+,,,TRUE,JP074,Asia Pacific,Osaka,,10
+,,,TRUE,JP075,Asia Pacific,Osaka,,10
+,,,TRUE,JP076,Asia Pacific,Osaka,,10
+,,,TRUE,JP077,Asia Pacific,Osaka,,10
+,,,TRUE,JP078,Asia Pacific,Osaka,,10
+,,,TRUE,JP079,Asia Pacific,Osaka,,10
+,,,TRUE,JP080,Asia Pacific,Osaka,,10
+,,,TRUE,JP081,Asia Pacific,Osaka,,10
+,,,TRUE,JP082,Asia Pacific,Osaka,,10
+,,,TRUE,JP083,Asia Pacific,Osaka,,10
+,,,TRUE,JP084,Asia Pacific,Osaka,,10
+,,,TRUE,JP085,Asia Pacific,Osaka,,10
+,,,TRUE,JP086,Asia Pacific,Osaka,,10
+,,,TRUE,JP087,Asia Pacific,Osaka,,10
+,,,TRUE,JP088,Asia Pacific,Osaka,,10
+,,,TRUE,JP089,Asia Pacific,Osaka,,10
+,,,TRUE,JP090,Asia Pacific,Osaka,,10
+,,,TRUE,JP091,Asia Pacific,Osaka,,10
+,,,TRUE,JP092,Asia Pacific,Osaka,,10
+,,,TRUE,JP093,Asia Pacific,Osaka,,10
+,,,TRUE,JP094,Asia Pacific,Osaka,,10
+,,,TRUE,JP095,Asia Pacific,Osaka,,10
+,,,TRUE,JP096,Asia Pacific,Osaka,,10
+,,,TRUE,JP097,Asia Pacific,Osaka,,10
+,,,TRUE,JP098,Asia Pacific,Osaka,,10
+,,,TRUE,JP099,Asia Pacific,Osaka,,10
+,,,TRUE,JP100,Asia Pacific,Osaka,,10
+,,,TRUE,JP101,Asia Pacific,Osaka,,10
+,,,TRUE,JP102,Asia Pacific,Osaka,,10
+,,,TRUE,JP103,Asia Pacific,Osaka,,10
+,,,TRUE,JP104,Asia Pacific,Osaka,,10
+,,,TRUE,JP105,Asia Pacific,Osaka,,10
+,,,TRUE,JP106,Asia Pacific,Osaka,,10
+,,,TRUE,JP107,Asia Pacific,Osaka,,10
+,,,TRUE,JP108,Asia Pacific,Osaka,,10
+,,,TRUE,JP109,Asia Pacific,Osaka,,10
+,,,TRUE,JP110,Asia Pacific,Osaka,,10
+,,,TRUE,JP111,Asia Pacific,Osaka,,10
+,,,TRUE,JP112,Asia Pacific,Osaka,,10
+,,,TRUE,JP113,Asia Pacific,Osaka,,10
+,,,TRUE,JP114,Asia Pacific,Osaka,,10
+,,,TRUE,JP115,Asia Pacific,Osaka,,10
+,,,TRUE,JP116,Asia Pacific,Osaka,,10
+,,,TRUE,JP117,Asia Pacific,Osaka,,10
+,,,TRUE,JP118,Asia Pacific,Osaka,,10
+,,,TRUE,JP119,Asia Pacific,Osaka,,10
+,,,TRUE,JP120,Asia Pacific,Osaka,,10
+,,,TRUE,JP121,Asia Pacific,Osaka,,10
+,,,TRUE,JP122,Asia Pacific,Osaka,,10
+,,,TRUE,JP123,Asia Pacific,Osaka,,10
+,,,TRUE,JP124,Asia Pacific,Osaka,,10
+,,,TRUE,JP125,Asia Pacific,Osaka,,10
+,,,TRUE,JP126,Asia Pacific,Osaka,,10
+,,,TRUE,JP127,Asia Pacific,Osaka,,10
+,,,TRUE,JP128,Asia Pacific,Osaka,,10
+,,,TRUE,JP129,Asia Pacific,Osaka,,10
+,,,TRUE,JP130,Asia Pacific,Osaka,,10
+,,,TRUE,JP131,Asia Pacific,Osaka,,10
+,,,TRUE,JP132,Asia Pacific,Osaka,,10
+,,,TRUE,JP133,Asia Pacific,Osaka,,10
+,,,TRUE,JP134,Asia Pacific,Osaka,,10
+,,,TRUE,JP135,Asia Pacific,Osaka,,10
+,,,TRUE,JP136,Asia Pacific,Osaka,,10
+,,,TRUE,JP137,Asia Pacific,Osaka,,10
+,,,TRUE,JP138,Asia Pacific,Osaka,,10
+,,,TRUE,JP139,Asia Pacific,Osaka,,10
+,,,TRUE,JP140,Asia Pacific,Osaka,,10
+,,,TRUE,JP141,Asia Pacific,Osaka,,10
+,,,TRUE,JP142,Asia Pacific,Osaka,,10
+,,,TRUE,JP143,Asia Pacific,Osaka,,10
+,,,TRUE,JP144,Asia Pacific,Osaka,,10
+,,,TRUE,JP145,Asia Pacific,Osaka,,10
+,,,TRUE,JP146,Asia Pacific,Osaka,,10
+,,,TRUE,JP147,Asia Pacific,Osaka,,10
+,,,TRUE,JP148,Asia Pacific,Osaka,,10
+,,,TRUE,JP149,Asia Pacific,Osaka,,10
+,,,TRUE,JP150,Asia Pacific,Osaka,,10
+,,,TRUE,JP151,Asia Pacific,Osaka,,10
+,,,TRUE,JP152,Asia Pacific,Osaka,,10
+,,,TRUE,JP153,Asia Pacific,Osaka,,10
+,,,TRUE,JP154,Asia Pacific,Osaka,,10
+,,,TRUE,JP155,Asia Pacific,Osaka,,10
+,,,TRUE,JP156,Asia Pacific,Osaka,,10
+,,,TRUE,JP157,Asia Pacific,Osaka,,10
+,,,TRUE,JP158,Asia Pacific,Osaka,,10
+,,,TRUE,JP159,Asia Pacific,Osaka,,10
+,,,TRUE,JP160,Asia Pacific,Osaka,,10
+,,,TRUE,JP161,Asia Pacific,Osaka,,10
+,,,TRUE,JP162,Asia Pacific,Osaka,,10
+,,,TRUE,JP163,Asia Pacific,Osaka,,10
+,,,TRUE,JP164,Asia Pacific,Osaka,,10
+,,,TRUE,JP165,Asia Pacific,Osaka,,10
+,,,TRUE,JP166,Asia Pacific,Osaka,,10
+,,,TRUE,JP167,Asia Pacific,Osaka,,10
+,,,TRUE,JP168,Asia Pacific,Osaka,,10
+,,,TRUE,JP169,Asia Pacific,Osaka,,10
+,,,TRUE,JP170,Asia Pacific,Osaka,,10
+,,,TRUE,JP171,Asia Pacific,Osaka,,10
+,,,TRUE,JP172,Asia Pacific,Osaka,,10
+,,,TRUE,JP173,Asia Pacific,Osaka,,10
+,,,TRUE,JP174,Asia Pacific,Osaka,,10
+,,,TRUE,JP175,Asia Pacific,Osaka,,10
+,,,TRUE,JP176,Asia Pacific,Osaka,,10
+,,,TRUE,JP177,Asia Pacific,Osaka,,10
+,,,TRUE,JP178,Asia Pacific,Osaka,,10
+,,,TRUE,JP179,Asia Pacific,Osaka,,10
+,,,TRUE,JP180,Asia Pacific,Osaka,,10
+,,,TRUE,JP181,Asia Pacific,Osaka,,10
+,,,TRUE,JP182,Asia Pacific,Osaka,,10
+,,,TRUE,JP183,Asia Pacific,Osaka,,10
+,,,TRUE,JP184,Asia Pacific,Osaka,,10
+,,,TRUE,JP185,Asia Pacific,Osaka,,10
+,,,TRUE,JP186,Asia Pacific,Osaka,,10
+,,,TRUE,JP187,Asia Pacific,Osaka,,10
+,,,TRUE,JP188,Asia Pacific,Osaka,,10
+,,,TRUE,JP189,Asia Pacific,Osaka,,10
+,,,TRUE,JP190,Asia Pacific,Osaka,,10
+,,,TRUE,JP191,Asia Pacific,Osaka,,10
+,,,TRUE,JP192,Asia Pacific,Osaka,,10
+,,,TRUE,JP193,Asia Pacific,Osaka,,10
+,,,TRUE,JP194,Asia Pacific,Osaka,,10
+,,,TRUE,JP195,Asia Pacific,Osaka,,10
+,,,TRUE,JP196,Asia Pacific,Osaka,,10
+,,,TRUE,JP197,Asia Pacific,Osaka,,10
+,,,TRUE,JP198,Asia Pacific,Osaka,,10
+,,,TRUE,JP199,Asia Pacific,Osaka,,10
+,,,TRUE,JP200,Asia Pacific,Osaka,,10
+,,,TRUE,JP201,Asia Pacific,Osaka,,10
+,,,TRUE,JP202,Asia Pacific,Osaka,,10
+,,,TRUE,JP203,Asia Pacific,Osaka,,10
+,,,TRUE,JP204,Asia Pacific,Osaka,,10
+,,,TRUE,JP205,Asia Pacific,Osaka,,10
+,,,TRUE,JP206,Asia Pacific,Osaka,,10
+,,,TRUE,JP207,Asia Pacific,Osaka,,10
+,,,TRUE,JP208,Asia Pacific,Osaka,,10
+,,,TRUE,JP209,Asia Pacific,Osaka,,10
+,,,TRUE,JP210,Asia Pacific,Osaka,,10
+,,,TRUE,JP211,Asia Pacific,Osaka,,10
+,,,TRUE,JP212,Asia Pacific,Osaka,,10
+,,,TRUE,JP213,Asia Pacific,Osaka,,10
+,,,TRUE,JP214,Asia Pacific,Osaka,,10
+,,,TRUE,JP215,Asia Pacific,Osaka,,10
+,,,TRUE,JP216,Asia Pacific,Osaka,,10
+,,,TRUE,JP217,Asia Pacific,Osaka,,10
+,,,TRUE,JP218,Asia Pacific,Osaka,,10
+,,,TRUE,JP219,Asia Pacific,Osaka,,10
+,,,TRUE,JP220,Asia Pacific,Osaka,,10
+,,,TRUE,JP221,Asia Pacific,Osaka,,10
+,,,TRUE,JP222,Asia Pacific,Osaka,,10
+,,,TRUE,JP223,Asia Pacific,Osaka,,10
+,,,TRUE,JP224,Asia Pacific,Osaka,,10
+,,,TRUE,JP225,Asia Pacific,Osaka,,10
+,,,TRUE,JP226,Asia Pacific,Osaka,,10
+,,,TRUE,JP227,Asia Pacific,Osaka,,10
+,,,TRUE,JP228,Asia Pacific,Osaka,,10
+,,,TRUE,JP229,Asia Pacific,Osaka,,10
+,,,TRUE,JP230,Asia Pacific,Osaka,,10
+,,,TRUE,JP231,Asia Pacific,Osaka,,10
+,,,TRUE,JP232,Asia Pacific,Osaka,,10
+,,,TRUE,JP233,Asia Pacific,Osaka,,10
+,,,TRUE,JP234,Asia Pacific,Osaka,,10
+,,,TRUE,JP235,Asia Pacific,Osaka,,10
+,,,TRUE,JP236,Asia Pacific,Osaka,,10
+,,,TRUE,JP237,Asia Pacific,Osaka,,10
+,,,TRUE,JP238,Asia Pacific,Osaka,,10
+,,,TRUE,JP239,Asia Pacific,Osaka,,10
+,,,TRUE,JP240,Asia Pacific,Osaka,,10
+,,,TRUE,JP241,Asia Pacific,Osaka,,10
+,,,TRUE,JP242,Asia Pacific,Osaka,,10
+,,,TRUE,JP243,Asia Pacific,Osaka,,10
+,,,TRUE,JP244,Asia Pacific,Osaka,,10
+,,,TRUE,JP245,Asia Pacific,Osaka,,10
+,,,TRUE,JP246,Asia Pacific,Osaka,,10
+,,,TRUE,JP247,Asia Pacific,Osaka,,10
+,,,TRUE,JP248,Asia Pacific,Osaka,,10
+,,,TRUE,JP249,Asia Pacific,Osaka,,10
+,,,TRUE,JP250,Asia Pacific,Osaka,,10
+,,,TRUE,JP251,Asia Pacific,Osaka,,10
+,,,TRUE,JP252,Asia Pacific,Osaka,,10
+,,,TRUE,JP253,Asia Pacific,Osaka,,10
+,,,TRUE,JP254,Asia Pacific,Osaka,,10
+,,,TRUE,JP255,Asia Pacific,Osaka,,10
+,,,TRUE,JP256,Asia Pacific,Osaka,,10
+,,,TRUE,JP257,Asia Pacific,Osaka,,10
+,,,TRUE,JP258,Asia Pacific,Osaka,,10
+,,,TRUE,JP259,Asia Pacific,Osaka,,10
+,,,TRUE,JP260,Asia Pacific,Osaka,,10
+,,,TRUE,JP261,Asia Pacific,Osaka,,10
+,,,TRUE,JP262,Asia Pacific,Osaka,,10
+,,,TRUE,JP263,Asia Pacific,Osaka,,10
+,,,TRUE,JP264,Asia Pacific,Osaka,,10
+,,,TRUE,JP265,Asia Pacific,Osaka,,10
+,,,TRUE,JP266,Asia Pacific,Osaka,,10
+,,,TRUE,JP267,Asia Pacific,Osaka,,10
+,,,TRUE,JP268,Asia Pacific,Osaka,,10
+,,,TRUE,JP269,Asia Pacific,Osaka,,10
+,,,TRUE,JP270,Asia Pacific,Osaka,,10
+,,,TRUE,JP271,Asia Pacific,Osaka,,10
+,,,TRUE,JP272,Asia Pacific,Osaka,,10
+,,,TRUE,JP273,Asia Pacific,Osaka,,10
+,,,TRUE,JP274,Asia Pacific,Osaka,,10
+,,,TRUE,JP275,Asia Pacific,Osaka,,10
+,,,TRUE,JP276,Asia Pacific,Osaka,,10
+,,,TRUE,JP277,Asia Pacific,Osaka,,10
+,,,TRUE,JP278,Asia Pacific,Osaka,,10
+,,,TRUE,JP279,Asia Pacific,Osaka,,10
 ,,,TRUE,JP280,Asia Pacific,Osaka,,10
 ,,,TRUE,JP281,Asia Pacific,Osaka,,10
 ,,,TRUE,JP282,Asia Pacific,Osaka,,10
@@ -955,12 +955,12 @@ IP地址,端口,回源端口,TLS,数据中心,地区,城市,TCP延迟(ms),速度
 47.236.17.165,8443,,TRUE,SIN508,Asia Pacific,Singapore,,47
 8.219.238.145,8443,,TRUE,SIN509,Asia Pacific,Singapore,,47
 47.245.108.213,2053,,TRUE,SIN510,Asia Pacific,Singapore,,47
-,,,,SIN511,Asia Pacific,Singapore,,47
-,,,,SIN512,Asia Pacific,Singapore,,47
-,,,,SIN513,Asia Pacific,Singapore,,47
-,,,,SIN514,Asia Pacific,Singapore,,47
-,,,,SIN515,Asia Pacific,Singapore,,47
-,,,,SIN516,Asia Pacific,Singapore,,47
+47.236.149.107,2053,,TRUE,SIN511,Asia Pacific,Singapore,,47
+47.236.123.218,2087,,TRUE,SIN512,Asia Pacific,Singapore,,47
+47.236.171.205,2096,,TRUE,SIN513,Asia Pacific,Singapore,,47
+47.236.83.196,2053,,TRUE,SIN514,Asia Pacific,Singapore,,47
+47.236.21.51,2053,,TRUE,SIN515,Asia Pacific,Singapore,,47
+47.236.144.208,2096,,TRUE,SIN516,Asia Pacific,Singapore,,47
 ,,,,SIN517,Asia Pacific,Singapore,,47
 ,,,,SIN518,Asia Pacific,Singapore,,47
 ,,,,SIN519,Asia Pacific,Singapore,,47
@@ -1179,17 +1179,17 @@ IP地址,端口,回源端口,TLS,数据中心,地区,城市,TCP延迟(ms),速度
 154.7.183.12,58623,4-1iptest,TRUE,LAX088,North America,Los Angeles,,10
 154.40.32.107,33721,4-1iptest,TRUE,LAX089,North America,Los Angeles,,10
 2.59.151.136,22091,4-1iptest,TRUE,LAX090,North America,Los Angeles,,10
-,,,,LAX091,North America,Los Angeles,,10
-,,,,LAX092,North America,Los Angeles,,10
-,,,,LAX093,North America,Los Angeles,,10
-,,,,LAX094,North America,Los Angeles,,10
-,,,,LAX095,North America,Los Angeles,,10
-,,,,LAX096,North America,Los Angeles,,10
-,,,,LAX097,North America,Los Angeles,,10
-,,,,LAX098,North America,Los Angeles,,10
-,,,,LAX099,North America,Los Angeles,,10
-,,,,LAX100,North America,Los Angeles,,10
-,,,,LAX101,North America,Los Angeles,,10
+154.7.179.92,35616,,TRUE,LAX091,North America,Los Angeles,,10
+154.9.236.8,34237,,TRUE,LAX092,North America,Los Angeles,,10
+172.245.223.124,8100,,TRUE,LAX093,North America,Los Angeles,,10
+154.9.237.158,34237,,TRUE,LAX094,North America,Los Angeles,,10
+154.9.251.190,34237,,TRUE,LAX095,North America,Los Angeles,,10
+38.47.114.80,34237,,TRUE,LAX096,North America,Los Angeles,,10
+154.9.251.215,34237,,TRUE,LAX097,North America,Los Angeles,,10
+45.12.88.150,1443,,TRUE,LAX098,North America,Los Angeles,,10
+154.29.150.145,57608,,TRUE,LAX099,North America,Los Angeles,,10
+154.7.179.76,443,,TRUE,LAX100,North America,Los Angeles,,10
+38.47.114.55,34237,,TRUE,LAX101,North America,Los Angeles,,10
 ,,,,LAX102,North America,Los Angeles,,10
 ,,,,LAX103,North America,Los Angeles,,10
 ,,,,LAX104,North America,Los Angeles,,10
