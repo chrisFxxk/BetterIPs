@@ -1,19 +1,19 @@
 IP地址,端口,回源端口,TLS,数据中心,地区,城市,TCP延迟(ms),速度(MB/s)
-151.145.65.8,2053,,TRUE,JP001,Asia Pacific,Tokyo,85,10
-8.219.55.31,2053,,TRUE,JP002,Asia Pacific,Tokyo,71,10
-151.145.66.219,2083,,TRUE,JP003,Asia Pacific,Tokyo,193,10
-151.145.74.199,2053,,TRUE,JP004,Asia Pacific,Tokyo,60,10
-158.179.178.145,8443,,TRUE,JP005,Asia Pacific,Tokyo,81,10
+152.70.86.93,443,4-1iptest,TRUE,JP029,Asia Pacific,Tokyo,75,10
+193.122.125.174,2053,,TRUE,JP017,Asia Pacific,Tokyo,107,10
+210.87.195.254,60999,4-15iptest,FALSE,JP075,Asia Pacific,Osaka,,10
+210.87.195.100,52121,4-15iptest,TRUE,JP076,Asia Pacific,Osaka,,10
+47.236.125.62,2086,3-30-iptest,FALSE,JP025,Asia Pacific,Tokyo,191,10
 47.236.170.54,2087,,TRUE,SIN001,Asia Pacific,Singapore,66,10
-8.222.188.56,2096,,TRUE,SIN002,Asia Pacific,Singapore,58,10
-47.236.123.133,8443,,TRUE,SIN003,Asia Pacific,Singapore,128,10
-8.222.154.227,2053,,TRUE,SIN004,Asia Pacific,Singapore,131,10
-8.222.137.166,8443,,TRUE,SIN005,Asia Pacific,Singapore,135,10
-8.222.136.196,2087,,TRUE,ICN001,Asia Pacific,Singapore,45,10
-8.222.155.242,2083,,TRUE,ICN002,Asia Pacific,Singapore,49,10
-47.236.7.13,2087,,TRUE,ICN003,Asia Pacific,Singapore,56,10
-8.222.244.192,2096,,TRUE,ICN004,Asia Pacific,Singapore,232,10
-8.222.150.197,2053,,TRUE,ICN005,Asia Pacific,Singapore,226,10
+47.236.144.208,8443,,TRUE,SIN096,Asia Pacific,Singapore,105,10
+47.236.163.221,2087,,TRUE,SIN098,Asia Pacific,Singapore,100,10
+47.236.5.223,2053,,TRUE,SIN103,Asia Pacific,Singapore,85,10
+47.236.38.38,443,,TRUE,SIN108,Asia Pacific,Singapore,116,10
+49.1.224.137,24726,,TRUE,ICN011,Asia Pacific,Singapore,237,10
+144.24.78.162,443,,TRUE,ICN017,Asia Pacific,Seoul,83,10
+58.141.125.141,30059,4-8-iptest,TRUE,ICN023,Asia Pacific,Seoul,83,10
+45.93.30.45,34237,4-8-iptest,TRUE,ICN025,Asia Pacific,Seoul,205,10
+210.87.195.139,26439,4-15iptest,TRUE,ICN030,Asia Pacific,Seoul,72,10
 154.40.32.15,8443,,TRUE,LAX001,North America,Los Angeles,180,10
 23.224.97.85,32554,,TRUE,LAX002,North America,Los Angeles,168,10
 38.47.114.220,31010,,TRUE,LAX003,North America,Los Angeles,177,10
