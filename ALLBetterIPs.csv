@@ -5,9 +5,6 @@ IP地址,端口,回源端口,TLS,数据中心,地区,城市,TCP延迟(ms),速度
 45.66.130.112,56061,4-15iptest,TRUE,JP068,Asia Pacific,Osaka,,10
 185.214.103.156,10643,4-15iptest,TRUE,JP073,Asia Pacific,Tokyo,191,10
 47.236.170.54,2087,,TRUE,SIN001,Asia Pacific,Singapore,66,10
-47.236.7.246,2083,,TRUE,SIN012,Asia Pacific,Singapore,105,10
-47.236.7.246,2096,,TRUE,SIN087,Asia Pacific,Singapore,100,10
-47.236.94.113,2087,,TRUE,SIN088,Asia Pacific,Singapore,85,10
 47.236.38.38,443,,TRUE,SIN108,Asia Pacific,Singapore,116,10
 64.110.88.200,8443,4-8-iptest,FALSE,ICN022,Asia Pacific,Singapore,237,10
 144.24.78.162,443,,TRUE,ICN017,Asia Pacific,Seoul,83,10
